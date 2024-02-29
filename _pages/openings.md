@@ -1,7 +1,7 @@
 ---
-title: "Dong Lab - Vacancies"
+title: "Dong Lab - Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Dong Lab -- Openings."
 sitemap: false
 permalink: /vacancies
 ---
