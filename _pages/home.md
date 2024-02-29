@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Dong Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Spatial Ecology Lab at UC Davis."
 sitemap: false
 permalink: /
 ---
