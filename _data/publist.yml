@@ -8,7 +8,7 @@
     display: Ecosystems (2024)
   highlight: 1
 
-- title: "Scaling from global to regional river flow with global hydrological models: Choice matters"
+- title: "<b> Scaling from global to regional river flow with global hydrological models: Choice matters </b>"
   image: pub_bsc.png
   description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
   authors: T Tu, J Wang, G Zhao, T Zhao, X Dong
@@ -17,7 +17,7 @@
     display: Journal of Hydrology (2024)
   highlight: 0
 
-- title: "Unequal climate impacts on global values of natural capital"
+- title: "<b> Unequal climate impacts on global values of natural capital </b>"
   image: pub_nature.png
   description: Climate change will change the distribution of ecosystems and the delivery of ecological benefits. In this paper, we evaluated the implications of ecosystem changes for human welfare. Here we estimate country-level changes in economic production and the value of non-market ecosystem benefits resulting from climate-change-induced shifts.
   authors: BA Bastien-Olvera, MN Conte, X Dong, T Briceno, D Batker, J Emmerling, M Tavoni, F Granella, FC Moore
@@ -26,7 +26,7 @@
     display: Nature (2024)
   highlight: 1
 
-- title: "Changing climate and reorganized species interactions modify community responses to climate variability"
+- title: "<b> Changing climate and reorganized species interactions modify community responses to climate variability </b>"
   image: pnas_junna.png
   description: What happens to the community stability under climate change? Using long-term datasets from Sycamore Creek, Arizona, we found tha the mechanisms historically governing community stability become largely weakened as climate changes. Some may even flip to a destabilizing force and drive ecological communities to a state of much lower stability and higher sensitivity to environmental fluctuations.
   authors: J Wang, NB Grimm, SP Lawler, X Dong
@@ -36,7 +36,7 @@
   highlight: 1
   news1:   <a style="color:#cc0000" href="https://www.pnas.org/doi/abs/10.1073/pnas.2314444120">Commentary by Stephen T. Jackson</a>
 
-- title: "Fairy circle tales"
+- title: "<b> Fairy circle tales </b>"
   image: pnas_junna.png
   description: What are the mechanisms that form mysterial fairy cirlces in drylands? What do we know and what we don't know? .
   authors: X Dong
@@ -45,7 +45,7 @@
     display:  Proceedings of National Academy of Sciences (2023)
   highlight: 0
 
-- title: "The Primacy of Temporal Dynamics in Driving Spatial Self-organization of Soil Redox Patterns"
+- title: "<b> The Primacy of Temporal Dynamics in Driving Spatial Self-organization of Soil Redox Patterns </b>"
   image: pub_tiger.png
   description: What explains the regular iron banding in soils? Soil redox conditions, driven by environmental variability, are highly dynamic. We show that two sets of scale-dependent feedbacks are coupled to form redox patterns and environmental variability plays a critical role by dictating the likelihood of pattern formation. The temporal dimension in spatial self-organization has rarely been reported before.
   authors: X Dong, D de Richter, A Thompson, J Wang
@@ -54,7 +54,7 @@
     display:  Proceedings of National Academy of Sciences (2023)
   highlight: 1
 
-- title: "Recovery from Acid Rain in the Mississippi River Basin"
+- title: "<b> Recovery from Acid Rain in the Mississippi River Basin </b>"
   image: pub_bsc.png
   description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
   authors: D Kozar, X Dong, L Li
@@ -63,7 +63,7 @@
     display:  Science of The Total Environment (2023)
   highlight: 0
 
-- title: "Bedrock mediates responses of ecosystem productivity to climate variability"
+- title: "<b> Bedrock mediates responses of ecosystem productivity to climate variability </b>"
   image: pub_figure1.jpg
   description: Does the type of bedrock an ecosystem is located on affect how sensitive an ecosystem is to climatic variability? This global analysis shows that the answer is yes. Variation in ecosystem sensitivity is significantly affected by regolith porosity and permeability and regolith and soil thickness, through their control on ecosystem water holding capacity.
   authors: X Dong, JB Martin, MJ Cohen, T Tu
@@ -74,7 +74,7 @@
   news2:
 
 
-- title: "Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures"
+- title: "<b> Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures </b>"
   image: TBG_ARPES.png
   description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
   authors: L McPhillips, M Berbes-Blazquez, R Hale, TK Harms, V Bisht, L Caughman, SM Clinton, E Cook, X Dong, J Edmonds, S Gergel, R Gomez, K Hopkins, DM Iwaniec, Y Kim, A Kuhn, L Larson, DB Lewis, E Marti, M Palta, WJ Roach, L Ye
@@ -83,7 +83,7 @@
     display:  Journal of Hydrology (2022)
   highlight: 0
 
-- title: "Biodiversity mediates ecosystem sensitivity to climate variability"
+- title: "<b> Biodiversity mediates ecosystem sensitivity to climate variability </b>"
   image: pub_bioSens.webp
   description: Are ecosystems with higher biodiversity more stable? We combine data on the distribution of 57,500 plant species and remote-sensing observations in theWestern Hemisphere to investigate the role of multiple facets to diversity (species richness, phylogenetic diversity, and functional diversity) in mediating the ecosystem sensitivity to climatic variability. Regions of greater plant diversity exhibit lower sensitivity to temperature variability.
   authors: B Oliveira, FC Moore, X Dong
@@ -93,7 +93,7 @@
   highlight: 1
   news2:
 
-- title: "Evolution of plant niche construction traits in biogeomorphic landscapes"
+- title: "<b> Evolution of plant niche construction traits in biogeomorphic landscapes </b>"
   image: pub_geoevo.png
   description: Plants can affect landscape morphology and the altered landscapes can feed back to affect the evolution of plants. I built a toy model to couple landscape development with the evolution of plants and their niche construction traits. I then used this paper to investigate the consequences of such coupling for landscape morphology and dynamics and for the evolutionary trajectory of plants
   authors: X Dong
@@ -103,7 +103,7 @@
   highlight: 1
   news2:
 
-- title: "Noah's Ark in a warming world: climate change, biodiversity loss and public adaptation costs in the United States"
+- title: "<b> Noah's Ark in a warming world: climate change, biodiversity loss and public adaptation costs in the United States </b>"
   image: pub_ark.jpg
   description: Climate change poses a growing threat to biodiversity, but the welfare consequences of these changes are not well understood. We analyze data on the US Endangered Species Act and project increases in species listing and spending due to climate change. We show that unmitigated warming would cause the listing of an additional 690 species and committed spending of 21 billion dollars by 2100.
   authors: FC Moore, A Stokes, M Conte, X Dong
@@ -113,7 +113,7 @@
   highlight: 0
   news2:
 
-- title: "Physically based scaling models to predict gas transfer velocity in streams and rivers"
+- title: "<b> Physically based scaling models to predict gas transfer velocity in streams and rivers </b>"
   image:  pub_wrr.jpg
   description: Air-water gas transfer velocity influences fundamental processes of aquatic systems such as photosynthesis, respiration, and greenhouse gas emission. In this paper, we tested two universal scalings to predict gas transfer velocity, deduced from classic thin-film theory and surface renewal theory. We found that two scalings outperformed all 23 previous models in prediction.
   authors: J Wang, F Bombardelli, X Dong
@@ -123,7 +123,7 @@
   highlight: 1
   news2:
 
-- title: "Competition among limestone depressions leads to self-organized regular patterning on a flat landscape"
+- title: "<b> Competition among limestone depressions leads to self-organized regular patterning on a flat landscape </b>"
   image: pub_bicy.jpg
   description: Why the limestone depressions in South Florida are evenly spaced across the landscape? We formalized a new mechanism of pattern formation, i.e., boundary competition among pattern elements of finite amplitude stabilized by scale-dependent feedback in time. Scale-dependent feedback in time stabilizes the individual depressions and induces the boundary competition between depressions for surface water, giving rise to the spatial regularity.
   authors: X Dong, AB Murray, JB Heffernan
@@ -133,7 +133,7 @@
   highlight: 1
   news1: <a style="color:#cc0000" href="https://eos.org/editor-highlights/a-new-model-for-self-organized-pattern-formation">Featured as 'Research Highlight' in Eos by Ton Hoitink</a>
 
-- title: "A trait-based approach to self-organized pattern formation in ecology"
+- title: "<b> A trait-based approach to self-organized pattern formation in ecology </b>"
   image: pub_traits.jpg
   description: Self-organized regular patterns occur worldwide. Significant effort in the study of self-organized pattern formation has focused on the physical conditions of the ecosystem. But what about the organisms involved? Can just any species form patterns or are certain traits required? This meta analysis at the global scale shows that some species are more likely to form patterns than others, as a result of their possessing a portfolio of traits conducive to pattern formation.
   authors: X Dong
@@ -143,7 +143,7 @@
   highlight: 0
   news2:
 
-- title: "Ecohydrologic feedbacks controlling sizes of cypress wetlands in a patterned karst landscape"
+- title: "<b> Ecohydrologic feedbacks controlling sizes of cypress wetlands in a patterned karst landscape </b>"
   image: DomePub.png
   description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
   authors: X Dong, AB Murray, JB Heffernan
@@ -153,7 +153,7 @@
   highlight: 0
   news2:
 
-- title: "Ecosystem self-organization: free order for nothing?"
+- title: "<b> Ecosystem self-organization: free order for nothing? </b>"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
   authors: X Dong, SG Fisher
@@ -162,7 +162,7 @@
     display:  Ecological Complexity (2019)
   highlight: 0
 
-- title: "Interactions between Physical Template and Self-organization Shape Plant Dynamics in a Stream Ecosystem"
+- title: "<b> Interactions between Physical Template and Self-organization Shape Plant Dynamics in a Stream Ecosystem </b>"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: X Dong, NB Grimm, JB Heffernan, R Muneepeerakul
@@ -172,7 +172,7 @@
   highlight: 0
   news2:
 
-- title: "Foundations and frontiers of ecosystem science: Legacy of a classic paper (Odum 1969)"
+- title: "<b> Foundations and frontiers of ecosystem science: Legacy of a classic paper (Odum 1969) </b>"
   image: dummy.png
   description: ""
   authors: R Corman, SL Collins, EM Cook, X Dong, LA Gherardi, NB Grimm, RL Hale, T Lin, J Ramos, LG Reichmann, OE Sala
@@ -181,7 +181,7 @@
     display:  Ecosystems (2019)
   highlight: 0
 
-- title: Detrimental effects of a novel flow regime on the functional trajectory of an aquatic invertebrate metacommunity
+- title: <b> Detrimental effects of a novel flow regime on the functional trajectory of an aquatic invertebrate metacommunity </b>
   image: STS_news.png
   description: ""
   authors: A Ruhi, X Dong, CH McDaniel, DP Batzer, JL Sabo
@@ -191,7 +191,7 @@
   highlight: 0
   news2:
 
-- title: Mass balance implies Holocene development of a low-relief karst patterned landscape
+- title: <b> Mass balance implies Holocene development of a low-relief karst patterned landscape </b>
   image: SCAUweb.jpg
   description:
     We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
@@ -202,7 +202,7 @@
     display: Chemical Geology (2018)
   highlight: 0
 
-- title: Ecohydrologic processes and soil cover feedbacks control limestone-weathering rate in a karst landscape
+- title: <b> Ecohydrologic processes and soil cover feedbacks control limestone-weathering rate in a karst landscape </b>
   image: TIBB.png
   description:
     We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
