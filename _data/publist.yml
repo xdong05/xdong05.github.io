@@ -36,25 +36,23 @@
   highlight: 1
   news1:   <a style="color:#cc0000" href="https://www.pnas.org/doi/abs/10.1073/pnas.2314444120">Commentary by Stephen T. Jackson</a>
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Fairy circle tales"
+  image: pnas_junna.png
+  description: What are the mechanisms that form mysterial fairy cirlces in drylands? What do we know and what we don't know? .
+  authors: X Dong
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
+    url: https://www.pnas.org/doi/10.1073/pnas.2218501120
+    display:  Proceedings of National Academy of Sciences (2023)
   highlight: 0
-  news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "The Primacy of Temporal Dynamics in Driving Spatial Self-organization of Soil Redox Patterns"
+  image: pub_tiger.png
+  description: What explains the regular iron banding in soils? Soil redox conditions, driven by environmental variability, are highly dynamic. We show that two sets of scale-dependent feedbacks are coupled to form redox patterns and environmental variability plays a critical role by dictating the likelihood of pattern formation. The temporal dimension in spatial self-organization has rarely been reported before.
+  authors: X Dong, D de Richter, A Thompson, J Wang
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.2313487120
+    display:  Proceedings of National Academy of Sciences (2023)
   highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
   image: YSR.png
