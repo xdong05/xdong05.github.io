@@ -74,23 +74,22 @@
   news2:
 
 
-- title: "Observation of flat bands in twisted bilayer graphene"
+- title: "Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
+  authors: L McPhillips, M Berbes-Blazquez, R Hale, TK Harms, V Bisht, L Caughman, SM Clinton, E Cook, X Dong, J Edmonds, S Gergel, R Gomez, K Hopkins, DM Iwaniec, Y Kim, A Kuhn, L Larson, DB Lewis, E Marti, M Palta, WJ Roach, L Ye
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
-  highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111
+    display:  Journal of Hydrology (2022)
+  highlight: 0
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+- title: "Biodiversity mediates ecosystem sensitivity to climate variability"
+  image: pub_bioSens.webp
+  description: Are ecosystems with higher biodiversity more stable? We combine data on the distribution of 57,500 plant species and remote-sensing observations in theWestern Hemisphere to investigate the role of multiple facets to diversity (species richness, phylogenetic diversity, and functional diversity) in mediating the ecosystem sensitivity to climatic variability. Regions of greater plant diversity exhibit lower sensitivity to temperature variability.
+  authors: B Oliveira, FC Moore, X Dong
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
+    url: https://www.nature.com/articles/s42003-022-03573-9
+    display:  Communications Biology (2022)
   highlight: 1
   news2:
 
