@@ -1,12 +1,12 @@
 
 - title: "Spatial Signatures of Biological Soil Crusts and Community Level Self-Organization in Drylands"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  image: pub_bsc.png
+  description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
+  authors: D Kozar, B Weber, Y Zhang, X Dong
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
-  highlight: 0
+    url: https://link.springer.com/article/10.1007/s10021-023-00898-2
+    display: Ecosystems (2024)
+  highlight: 1
 
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
   image: imageaward_edited.png
