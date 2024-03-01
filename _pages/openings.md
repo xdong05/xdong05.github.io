@@ -17,8 +17,8 @@ You will have the chance to work on the grand challenges of condensed matter phy
 ### Open positions
 
 You can find more information about openings on these projects here:
-(1) [PhD positions on dryland spatial patterns]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-(2) [Postdoc positions on dryland spatial patterns]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),and
+(1) [PhD positions on spatial ecology]({{ site.baseurl }}/downloads/PHD.pdf),
+(2) [Postdoc positions on dryland spatial patterns]({{ site.baseurl }}/downloads/BSC_postdoc.pdf),and
 (3) [Postdoc positions on microbial pattern formation in Antarctic lakes]({{ site.baseurl }}/downloads/ANT_postdoc.pdf).
 
 ### Applications for PhD and Postdoc positions
