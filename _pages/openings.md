@@ -19,7 +19,7 @@ You will have the chance to work on the grand challenges of condensed matter phy
 You can find more information about openings on these projects here:
 (1) [PhD positions on dryland spatial patterns]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
 (2) [Postdoc positions on dryland spatial patterns]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),and
-(3) [Postdoc positions on microbial pattern formation in Antarctic lakes]({{ site.baseurl }}/downloads/PD.pdf).
+(3) [Postdoc positions on microbial pattern formation in Antarctic lakes]({{ site.baseurl }}/downloads/ANT_postdoc.pdf).
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:xldong@ucdavis.edu). State briefly why you are interested and attach a CV. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
