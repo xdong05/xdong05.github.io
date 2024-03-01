@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
+**We are recruiting PhD students and postdoctoral researchers in spatial ecology!** Please contact me if you are interested.
 More details to follow.
 
 
@@ -54,7 +54,7 @@ More details to follow.
 </div>
 
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+We are a research group in spatial ecology in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at University of California Davis. Our aim is to better understand mechanisms and consequences of ecosystem spatial self-organization. We investigate a variety of types of ecosystems and landscapes, in particular landscapes whose morphology and dynamics are significantly affected by plants (see [Research](research)). 
 
 
 We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
