@@ -133,36 +133,34 @@
   highlight: 1
   news1: <a style="color:#cc0000" href="https://eos.org/editor-highlights/a-new-model-for-self-organized-pattern-formation">Featured as 'Research Highlight' in Eos by Ton Hoitink</a>
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+- title: "A trait-based approach to self-organized pattern formation in ecology"
+  image: pub_traits.jpg
+  description: Self-organized regular patterns occur worldwide. Significant effort in the study of self-organized pattern formation has focused on the physical conditions of the ecosystem. But what about the organisms involved? Can just any species form patterns or are certain traits required? This meta analysis at the global scale shows that some species are more likely to form patterns than others, as a result of their possessing a portfolio of traits conducive to pattern formation.
+  authors: X Dong
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
+    url: https://www.frontiersin.org/articles/10.3389/fevo.2020.580447/full
+    display:  Frontiers in Ecology and Evolution (2020)
+  highlight: 0
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
+- title: "Ecohydrologic feedbacks controlling sizes of cypress wetlands in a patterned karst landscape"
   image: DomePub.png
   description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+  authors: X Dong, AB Murray, JB Heffernan
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
+    url: https://escholarship.org/content/qt1hw990xv/qt1hw990xv_noSplash_e37cbe7cc2bfeb5d4edd7a3a25954151.pdf
+    display:  Earth Surface Processes and Landforms (2019)
+  highlight: 0
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+- title: "Ecosystem self-organization: free order for nothing?"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+  authors: X Dong, SG Fisher
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1476945X18301508
+    display:  Ecological Complexity (2019)
+  highlight: 0
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
