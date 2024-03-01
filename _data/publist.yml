@@ -54,23 +54,23 @@
     display:  Proceedings of National Academy of Sciences (2023)
   highlight: 1
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Recovery from Acid Rain in the Mississippi River Basin"
+  image: pub_bsc.png
+  description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
+  authors: D Kozar, X Dong, L Li
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
-
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-  link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
+    url: https://www.sciencedirect.com/science/article/pii/S0048969723039347
+    display:  Science of The Total Environment (2023)
   highlight: 0
+
+- title: "Bedrock mediates responses of ecosystem productivity to climate variability"
+  image: pub_figure1.jpg
+  description: Does the type of bedrock an ecosystem is located on affect how sensitive an ecosystem is to climatic variability? This global analysis shows that the answer is yes. Variation in ecosystem sensitivity is significantly affected by regolith porosity and permeability and regolith and soil thickness, through their control on ecosystem water holding capacity.
+  authors: X Dong, JB Martin, MJ Cohen, T Tu
+  link:
+    url: https://rdcu.be/c9JfL
+    display: Communications Earth and Environment (2023)
+  highlight: 1
   news2:
 
 
