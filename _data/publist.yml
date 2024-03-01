@@ -93,33 +93,33 @@
   highlight: 1
   news2:
 
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
+- title: "Evolution of plant niche construction traits in biogeomorphic landscapes"
+  image: pub_geoevo.png
+  description: Plants can affect landscape morphology and the altered landscapes can feed back to affect the evolution of plants. I built a toy model to couple landscape development with the evolution of plants and their niche construction traits. I then used this paper to investigate the consequences of such coupling for landscape morphology and dynamics and for the evolutionary trajectory of plants
+  authors: X Dong
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
+    url: https://www.journals.uchicago.edu/doi/full/10.1086/719425
+    display:  The American Naturalist (2022)
+  highlight: 1
+  news2:
+
+- title: "Noah's Ark in a warming world: climate change, biodiversity loss and public adaptation costs in the United States"
+  image: pub_ark.jpg
+  description: Climate change poses a growing threat to biodiversity, but the welfare consequences of these changes are not well understood. We analyze data on the US Endangered Species Act and project increases in species listing and spending due to climate change. We show that unmitigated warming would cause the listing of an additional 690 species and committed spending of 21 billion dollars by 2100.
+  authors: FC Moore, A Stokes, M Conte, X Dong
+  link:
+    url: https://www.journals.uchicago.edu/doi/10.1086/716662
+    display:  Journal of the Association of Environmental and Resource Economists (2021)
   highlight: 0
   news2:
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+- title: "Physically based scaling models to predict gas transfer velocity in streams and rivers"
+  image:  pub_wrr.jpg
+  description: Air-water gas transfer velocity influences fundamental processes of aquatic systems such as photosynthesis, respiration, and greenhouse gas emission. In this paper, we tested two universal scalings to predict gas transfer velocity, deduced from classic thin-film theory and surface renewal theory. We found that two scalings outperformed all 23 previous models in prediction.
+  authors: J Wang, F Bombardelli, X Dong
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
-  highlight: 0
-  news2:
-
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
+    url: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020WR028757
+    display:  Water Resources Research (2021)
   highlight: 1
   news2:
 
