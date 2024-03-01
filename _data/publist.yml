@@ -213,30 +213,29 @@
     display: Chemical Geology (2018)
   highlight: 0
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
+- title: Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphologic template
+  image: pub_chem.jpg
   description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
+    River and stream water chemistry is influenced by organisms and physical environment, resulting in longitudinal (upstream-downstream) heterogeneity. This study finds evidence of substantial internal regulation of surface-water nutrient patterns, realized by spatial feedbacks.
   authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+    X Dong, A Ruhi, NB Grimm
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
+    url: https://www.pnas.org/doi/10.1073/pnas.1617571114
+    display: Proceedings of National Academy of Sciences (2017)
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+  news2:
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
+- title: Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems
   image: Pub_FP.png
   description:
     Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
   authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+    X Dong, DA Lytle, JD Olden, TA Schriever, R Muneepeerakul
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949
+    display: PLoS ONE (2017)
+  highlight: 0
   news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
 - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
   image: dummy.png
