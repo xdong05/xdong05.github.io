@@ -223,7 +223,6 @@
     url: https://www.pnas.org/doi/10.1073/pnas.1617571114
     display: Proceedings of National Academy of Sciences (2017)
   highlight: 1
-  news2:
 
 - title: Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems
   image: Pub_FP.png
@@ -235,7 +234,6 @@
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949
     display: PLoS ONE (2017)
   highlight: 0
-  news1:
 
 - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
   image: dummy.png
