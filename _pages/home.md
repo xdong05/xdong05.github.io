@@ -54,16 +54,10 @@ More details to follow.
 </div>
 
 
-We are a research group in spatial ecology in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at University of California Davis. Our aim is to better understand mechanisms and consequences of ecosystem spatial self-organization. We investigate a variety of types of ecosystems and landscapes, in particular landscapes whose morphology and dynamics are significantly affected by plants (see [Research](research)). 
+We are a research group in spatial ecology in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. Our aim is to better understand mechanisms and consequences of ecosystem spatial self-organization. We investigate a variety of types of ecosystems and landscapes, in particular landscapes whose morphology and dynamics are significantly affected by organisms. To this end, we develop mathematical and statistical models, combined with empirical data from remote sensing and from the field (see [Research](research)). 
 
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from UC Davis, [National Science Foundation](https://www.nsf.gov),and the [Los Alamos National Lab](https://www.lanl.gov).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
