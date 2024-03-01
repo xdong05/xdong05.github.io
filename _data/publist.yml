@@ -1,5 +1,5 @@
 
-- title: <b> "Spatial Signatures of Biological Soil Crusts and Community Level Self-Organization in Drylands" </b> 
+- title: "<b> Spatial Signatures of Biological Soil Crusts and Community Level Self-Organization in Drylands </b>"  
   image: pub_bsc.png
   description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
   authors: D Kozar, B Weber, Y Zhang, X Dong
@@ -8,15 +8,14 @@
     display: Ecosystems (2024)
   highlight: 1
 
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "Scaling from global to regional river flow with global hydrological models: Choice matters"
+  image: pub_bsc.png
+  description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
+  authors: T Tu, J Wang, G Zhao, T Zhao, X Dong
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+    url: https://www.sciencedirect.com/science/article/pii/S0022169424003548
+    display: Journal of Hydrology (2024)
+  highlight: 0
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
   image: BSCCOgap.png
