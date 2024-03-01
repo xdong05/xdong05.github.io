@@ -212,3 +212,12 @@
     url: https://www.sciencedirect.com/science/article/abs/pii/S0009254118302419
     display: Chemical Geology (2018)
   highlight: 0
+
+- title: "<b> Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphologic template </b>"  
+  image: pub_chem.jpg
+  description: River and stream water chemistry is influenced by organisms and physical environment, resulting in longitudinal (upstream-downstream) heterogeneity. This study finds evidence of substantial internal regulation of surface-water nutrient patterns, realized by spatial feedbacks.
+  authors: X Dong, A Ruhi, NB Grimm
+  link:
+    url: https://www.pnas.org/doi/10.1073/pnas.1617571114
+    display: Proceedings of National Academy of Sciences (2017)
+  highlight: 1
