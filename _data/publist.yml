@@ -225,19 +225,18 @@ template
     display: Proceedings of National Academy of Sciences (2017)
   highlight: 1
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
+- title: Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems
   image: Pub_FP.png
   description:
     Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
   authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+    X Dong, DA Lytle, JD Olden, TA Schriever, R Muneepeerakul
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949
+    display: PLoS ONE (2017)
+  highlight: 0
   news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
+  
 - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
   image: dummy.png
   description: ""
