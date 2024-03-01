@@ -125,7 +125,7 @@
 
 - title: "Competition among limestone depressions leads to self-organized regular patterning on a flat landscape"
   image: pub_bicy.jpg
-  description: This papers explains why the big cypress depressions in South Florida are evenly spaced across the landscape. Theoretically, this paper formalized a new mechanism of pattern formation, that is, boundary competition among pattern elements of finite amplitude stabilized by scale-dependent feedback in time. Scale-dependent feedback in time stabilizes the individual depressions and induces the boundary competition between depressions for surface water, which then gives rise to the spatial regularity.
+  description: Why the limestone depressions in South Florida are evenly spaced across the landscape? We formalized a new mechanism of pattern formation, i.e., boundary competition among pattern elements of finite amplitude stabilized by scale-dependent feedback in time. Scale-dependent feedback in time stabilizes the individual depressions and induces the boundary competition between depressions for surface water, giving rise to the spatial regularity.
   authors: X Dong, AB Murray, JB Heffernan
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072
@@ -221,3 +221,21 @@
     url: https://www.pnas.org/doi/10.1073/pnas.1617571114
     display: Proceedings of National Academy of Sciences (2017)
   highlight: 1
+
+- title: "<b> Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems </b>"  
+  image: pub_chem.jpg
+  description: River and stream water chemistry is influenced by organisms and physical environment, resulting in longitudinal (upstream-downstream) heterogeneity. This study finds evidence of substantial internal regulation of surface-water nutrient patterns, realized by spatial feedbacks.
+  authors: X Dong, DA Lytle, JD Olden, TA Schriever, R Muneepeerakul
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949
+    display: PLoS ONE (2017)
+  highlight: 0
+
+- title: "<b> What are the type, direction, and strength of species, community, and ecosystem responses to warming in aquatic mesocosm studies and their dependency on experimental characteristics? A systematic review protocol </b>"  
+  image: pub_chem.jpg
+  description: River and stream water chemistry is influenced by organisms and physical environment, resulting in longitudinal (upstream-downstream) heterogeneity. This study finds evidence of substantial internal regulation of surface-water nutrient patterns, realized by spatial feedbacks.
+  authors: T Guy-Haim, H Alexander, TW Bell, RL Bier, LE Bortolotti, C Briseño-Avena, X Dong, AM Flanagan, J Grosse, L Grossmann, S Hasnain, R Hovel, CA Johnston, DR Miller, M Muscarella, AE Noto, AJ Reisinger, HJ Smith, K Stamieszkin
+  link:
+    url: https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-017-0084-0
+    display: Environmental Evidence (2017)
+  highlight: 0
