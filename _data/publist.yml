@@ -191,26 +191,26 @@
   highlight: 0
   news2:
 
-- title: Creating better superconductors by periodic nanopatterning
+- title: Mass balance implies Holocene development of a low-relief karst patterned landscape
   image: SCAUweb.jpg
   description:
     We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
   authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+    CA Chamberlin, TS Bianchi, AL Brown, MJ Cohen, X Dong, MK Flint, JB Martin, DL McLaughlin, AB Murray, A Pain, CJ Quintero, ND Ward, X Zhang, JB Heffernan
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0009254118302729
+    display: Chemical Geology (2018)
+  highlight: 0
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
+- title: Ecohydrologic processes and soil cover feedbacks control limestone-weathering rate in a karst landscape
   image: TIBB.png
   description:
     We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
   authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+    X Dong, MJ Cohen, JB Martin, DL McLaughlin, AB Murray, ND Ward, MK Flint, JB Heffernan
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0009254118302419
+    display: Chemical Geology (2018)
   highlight: 0
 
 - title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
