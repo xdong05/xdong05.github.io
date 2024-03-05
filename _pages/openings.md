@@ -12,7 +12,7 @@ permalink: /vacancies
 
 We are looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on creative questions related to spatial ecology and global change. We will work together to determine significant questions, constructing elegant mathematical models, performing big data analysis, designing clever experiments, and making discoveries.
+You will have the chance to work on creative researech related to spatial ecology and global change. We will work together to identify significant and interesting questions, constructing elegant mathematical models, performing big data analysis, designing clever experiments, and making discoveries.
 
 ### Open positions
 
