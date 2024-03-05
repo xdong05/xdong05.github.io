@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**We are recruiting PhD students and postdoctoral researchers in spatial ecology!** Please contact me if you are interested.
-More details to follow.
+**We are recruiting PhD students and postdoctoral researchers in spatial ecology!** Please [contact me](mailto:xldong@ucdavis.edu) if you are interested. [See more info)]({{ site.url }}{{ site.baseurl }}/vacancies).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -60,7 +59,7 @@ More details to follow.
 We are a research group in spatial ecology in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. Our aim is to better understand mechanisms and consequences of ecosystem spatial pattern formations. We investigate a variety of types of ecosystems and landscapes, in particular landscapes whose morphology and dynamics are significantly affected by organisms. To this end, we develop mathematical and statistical models, combined with empirical data from remote sensing and from the field (see [Research](research)). 
 
 
-We are grateful for funding from UC Davis, Office of Polar Programs (OPP) and Division of Environmental Biology (DEB) at [National Science Foundation](https://www.nsf.gov),and the Center for Space and Earth Science (CSES) at [Los Alamos National Laboratory](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/index.php).
+We are grateful for funding from UC Davis, Office of Polar Programs (OPP) and Division of Environmental Biology (DEB) at [National Science Foundation](https://www.nsf.gov), and the Center for Space and Earth Science (CSES) at [Los Alamos National Laboratory](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/index.php).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
