@@ -12,7 +12,8 @@ Our overarching goal is to explore and understand the mechanisms and consequence
 
 Here are some themes we currently work on:
 
-**Spatial Self-organization of Vascular Plants - Biological Soil Crust Communities in Drylands.** Current theory of ecosystem spatial self-organization considers only one homogenous assemblage of organisms (in the case of drylands, vascular plants). However, species interactions, such as competition and facilitation, can significantly affect ecosystem spatial patterns and their dynamics. To investigate the role of species interactions in ecosystem spatial self-organization, we conceptualize drylands as an integral biocrust - vascular plants complex (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)). We develop new theories and models that are rigorously tested with extensive empirical data collected from the field and from remote sensing imageries, using drylands as our focal system. See [a recent paper](https://link.springer.com/article/10.1007/s10021-023-00898-2) by Dan for results to date.
+**Spatial Self-organization of Vascular Plants - Biological Soil Crust Communities in Drylands.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg){: style="width: 250px; float: right; margin: 0px 10px"} 
+Current theory of ecosystem spatial self-organization considers only one homogenous assemblage of organisms (in the case of drylands, vascular plants). However, species interactions, such as competition and facilitation, can significantly affect ecosystem spatial patterns and their dynamics. To investigate the role of species interactions in ecosystem spatial self-organization, we conceptualize drylands as an integral biocrust - vascular plants complex (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)). We develop new theories and models that are rigorously tested with extensive empirical data collected from the field and from remote sensing imageries, using drylands as our focal system. See [a recent paper](https://link.springer.com/article/10.1007/s10021-023-00898-2) by Dan for results to date.
 
 
 **Effects of Environmental Change on Microbial Self-organized Patterns in Antarctic Lakes**.
@@ -22,7 +23,7 @@ Beneath permanent ice and meters of liquid water in many Antarctic lakes reside 
 **Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants.**
 By virtue of their niche construction activities, organisms can play a significant role in shaping landscapes (for example, plants modify fluid dynamics and sediment transport). The resultant outcome could change the selective environment, which then influences evolutionary and ecological dynamics of these same organisms. Such feedbacks are described by niche construction theory. Niche construction theory often assumes that all environmental changes are brought about by niche constructions, or it assumes only simple, linear changes. However, landscapes evolve following an independent set of laws governing earth surface processes, some of which are affected by organisms. This is studied by biogeomorphology. Biogeomorphology, however, has mostly assumed plants and their niche construction to be evolutionarily invariant. We are developing theories that integrate geo-evolutionary dynamics, considering feedbacks between landscape changes and evolution of niche constructors. Please refer to this paper for [our results](https://www.journals.uchicago.edu/doi/full/10.1086/719425) so far.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png){: style="width: 50%; float: center; margin: 5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png){: style="width: 50%; float: center; margin: 25px"}
 
 
 **Global Biodiversity Change under Climate Change.**
