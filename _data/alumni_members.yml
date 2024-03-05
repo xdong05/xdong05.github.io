@@ -17,4 +17,24 @@
   number_educ: 1
   education1: 
   education2: 
+  education3:
+
+- name: Jocelyn Rodriguez
+  photo: brunno.jpeg
+  duration: Undergraduate researcher (2021)
+  info: 
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  education3: 
+
+- name: Junna Faessel
+  photo: brunno.jpeg
+  duration: Undergraduate researcher (2022-2023)
+  info: 
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
   education3: 
