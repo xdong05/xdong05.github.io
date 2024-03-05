@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**We are recruiting PhD students and postdoctoral researchers in spatial ecology!** Please [contact me](mailto:xldong@ucdavis.edu) if you are interested. [See more info)]({{ site.url }}{{ site.baseurl }}/vacancies).
+**We are recruiting PhD students and postdoctoral researchers in spatial ecology!** **Please [contact me](mailto:xldong@ucdavis.edu) if you are interested. See more info [here]({{ site.url }}{{ site.baseurl }}/vacancies).**
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
