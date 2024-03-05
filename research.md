@@ -24,7 +24,7 @@ Beneath permanent ice and meters of liquid water in many Antarctic lakes reside 
 **Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants.**
 By virtue of their niche construction activities, organisms can play a significant role in shaping landscapes (for example, plants modify fluid dynamics and sediment transport). The resultant outcome could change the selective environment, which then influences evolutionary and ecological dynamics of these same organisms. Such feedbacks are described by niche construction theory. Niche construction theory often assumes that all environmental changes are brought about by niche constructions, or it assumes only simple, linear changes. However, landscapes evolve following an independent set of laws governing earth surface processes, some of which are affected by organisms. This is studied by biogeomorphology. Biogeomorphology, however, has mostly assumed plants and their niche construction to be evolutionarily invariant. We are developing theories that integrate geo-evolutionary dynamics, considering feedbacks between landscape changes and evolution of niche constructors. Please refer to this paper for [our results](https://www.journals.uchicago.edu/doi/full/10.1086/719425) so far.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png){: style="width: 50%; float: center; margin: 100px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png){: style="width: 50%; float: center; margin: 50px 100px"}
 
 
 **Global Biodiversity Change under Climate Change.**
