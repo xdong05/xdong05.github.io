@@ -1,7 +1,8 @@
 - name: Junna Wang
   photo: junna.jpeg
   duration: PhD (started in 2019 and graduated in 2023)
-  info: Current Position: <a href="https://environment.yale.edu/directory/postdoc/junna-wang">Postdoc at Yale University</a>
+  diss: Stability of Freshwater Ecosystems: Patterns and Mechanisms (2023 March)
+  info: <a href="https://environment.yale.edu/directory/postdoc/junna-wang">Postdoc at Yale University</a>
   number_educ: 1
   education1: 
   education2:
@@ -10,7 +11,7 @@
 - name: Brunno F. Oliveira
   photo: brunno.jpeg
   duration: Postdoc (2020-2021)
-  info: Current Position: <a href="https://www.fondationbiodiversite.fr/la-fondation/le-cesab/">Postdoc at CESAB</a>
+  info: <a href="https://www.fondationbiodiversite.fr/la-fondation/le-cesab/">Postdoc at CESAB</a>
   number_educ: 1
   education1: 
   education2: 
