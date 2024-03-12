@@ -22,7 +22,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }} <br> Researech Interest: {{ member.interest }}
+  {{ member.info }} <br> {{ member.interest }}
   <br>Email: <{{ member.email }}>
   <ul style="overflow: hidden">
 
@@ -87,8 +87,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.duration }} <br> Current Position: {{ member.info }}
-  <br> Dissertation: {{ member.diss }}
+  {{ member.duration }} <br> {{ member.info }}
+  <br> {{ member.diss }}
   <ul style="overflow: hidden">
 
   </ul>
