@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Research"
+title: "Dong Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Dong Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand the mechanisms and consequences of landscape spatial pattern formation, especially in the type of landscapes where biological and physical processes strongly interact (e.g., biogeomorphic landscapes). To do so, we use and develop mathematical models, results of which are then compared with data from remote sensing, global databases, or field and experimental measurements.
+Our overarching goal is to explore and understand the mechanisms and consequences of landscape spatial patterns, including their mechanisms, consequences, and feedbacks. We are especially interested in the type of landscapes where biological and physical processes strongly interact (e.g., biogeomorphic landscapes). To do so, we use and develop mathematical models, results of which are then compared with data from remote sensing, global databases, or field and experimental measurements.
 
 Here are some themes we currently work on:
 
