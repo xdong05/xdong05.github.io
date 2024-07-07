@@ -1,4 +1,22 @@
 
+- title: "<b> Geo-evolutionary feedbacks: integrating rapid evolution and landscape change </b>"  
+  image: pub_bsc.png
+  description: We develop a conceptual framework for geo-evolutionary feedbacks which describes the mutual interplay between landscape change and the evolution of traits of organisms residing on the landscape, with an emphasis on contemporary timeframes, that is, the timescale of modern anthropogenic climate change.
+  authors: X Dong, MF Stokes, AP Hendry, LG Larsen, GA Dolby
+  link:
+    url: https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8
+    display: Trends in Ecology and Evolution (2024)
+  highlight: 1
+  
+- title: "<b> Persistent and lagged effects of fire on stream solutes linked to intermittent precipitation in arid lands </b>"  
+  image: pub_bsc.png
+  description: We investigated how the spatial extent of fire within watersheds interacts with variability in amount and timing of precipitation to influence stream chemistry of three forested, montane watersheds in a monsoonal climate and four coastal, chaparral watersheds in a Mediterranean climate.
+  authors: H Lowman, J Blaszczak, A Cale, X Dong, S Earl, J Grabow, NB Grimm, TK Harms, J Melack, AM Reinhold, B Summers, AJ Webster
+  link:
+    url: https://link.springer.com/article/10.1007/s10533-024-01154-y
+    display: Biogeochemistry Letters (2024)
+  highlight: 1
+  
 - title: "<b> Spatial Signatures of Biological Soil Crusts and Community Level Self-Organization in Drylands </b>"  
   image: pub_bsc.png
   description: Using ultra-high resolution data on spatial patterns of biological crust communities and vascular plants at 26 sites across three ecoregion of the US Southwest, we show that species interactions might play a major role in organizing the spatial patterning of dryland vegetation. This leads to the idea of ecosystem spatial self-organization at the community level.
