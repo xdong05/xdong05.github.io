@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand the mechanisms and consequences of landscape spatial pattern formation, especially in the type of landscapes where biological and physical processes strongly interact (e.g., biogeomorphic landscapes). To do so, we use and develop mathematical models, results of which are then compared with data from remote sensing, global databases, or field and experimental measurements.
+Our overarching goal is to explore and understand the mechanisms and consequences of landscape spatial patterns, including their mechanisms, consequences, and feedbacks. We are especially interested in the type of landscapes where biological and physical processes strongly interact (e.g., biogeomorphic landscapes). To do so, we use and develop mathematical models, results of which are then compared with data from remote sensing, global databases, or field and experimental measurements.
 
-Here are some themes and techniques that we currently work on:
+Here are some themes that we currently work on:
 
 **Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
 
