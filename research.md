@@ -20,7 +20,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 200px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
-  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) a typical reactive-transport model to study Turing pattern formation of dryland vegetation; (C) dryland ecosystems featuring both vascular plants and [biological soil crusts](https://www.usgs.gov/centers/southwest-biological-science-center/science/biological-soil-crust-biocrust-science#:~:text=Biocrust%20organisms%20are%20essential%20for%20dryland%20ecosystems.,lose%20their%20topsoil%20layer%20as%20wind%2Dblown%20dust.). 
+  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) a typical reactive-transport model to study Turing pattern formation of dryland vegetation; (C) dryland ecosystems featuring both vascular plants and biological soil crusts. 
 </p>
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
@@ -76,7 +76,7 @@ We are bridging these perspectives by developing theories and models that integr
 <div style="text-align: center; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png" style="width: 70%; max-width: 800px;">
   <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 1px;">
-    Projected direction and extent of plant migration by the end of this century under climate change.
+    Figure above: Projected direction and extent of plant migration by the end of this century under climate change (paper under review).
   </p>
 </div>
 
