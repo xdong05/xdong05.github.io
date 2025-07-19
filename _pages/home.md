@@ -63,7 +63,7 @@ We are a research group in **Spatial Ecology** in the [Department of Environment
 </p>
 
 <p>
-  Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological feedbacks. Current projects include:
+  Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological feedbacks. Current study systems include:
 </p>
 
 <div style="padding-left: 1.5em;">
