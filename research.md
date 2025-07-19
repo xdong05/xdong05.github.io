@@ -44,9 +44,9 @@ To better understand dryland spatial dynamics, we are developing new theories an
 </p>
 
 
-Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
+Beneath permanent ice and meters of liquid water in many Antarctic lakes reside structurally complex arrays of spatially self-organized microbial mats,  forming pinnacles, cones, or hexagonal structures (<a href="https://en.wikipedia.org/wiki/Stromatolite" style="font-weight: 600;">modern stromatolites</a>). These unique ecosystems are now being reshaped by climate change. We are developing models to predict how climate-driven changes—particularly the reduction or loss of summer ice cover—might affect, or may have already affected, benthic microbial communities. By integrating the morphology and spatial patterning of these modern stromatolites with their biophysical and biochemical environments, we aim to refine our understanding of the controls on microbial community organization. This, in turn, will improve interpretations of *ancient* stromatolites in the geologic record and shed light on key questions about Earth’s evolutionary and environmental history.
 
-Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats (**[modern stromatolite](https://en.wikipedia.org/wiki/Stromatolite)**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
+Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
  
 <div style="margin-top: 60px;"></div>
 
