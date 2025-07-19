@@ -14,6 +14,9 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   Vegetation Spatial Patterns in Global Drylands
 </h3>
 
+**Vegetation Spatial Patterns in Global Drylands**
+
+{% raw %}
 <div style="max-width: 760px; margin: auto; text-align: center;">
 
   <!-- Row 1 -->
@@ -34,6 +37,8 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   </p>
 
 </div>
+{% endraw %}
+
 
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
