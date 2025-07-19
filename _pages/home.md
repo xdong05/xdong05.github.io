@@ -68,10 +68,10 @@ We are a research group in **Spatial Ecology and theory of pattern formation** i
 
 The primary approach we use is **mathematical modeling**, often in tandem with **remote sensing** and **field data** to test and refine theoretical predictions. See more on our [Research](research). 
 
-<p style="color: #004080; font-size: 1.5em; font-weight: 700; margin-top: 30px;">
-  We are always looking for creative, motivated students and postdocs who are passionate about ecological theory and big questions—
-  <span style="color: #0077cc;">unafraid to cross disciplinary boundaries</span>
-  <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="color: #cc0000; font-weight: bold; text-decoration: none;">(more info)</a>!
+<p style="color: #0056b3; font-size: 1.25em; font-weight: 600; margin-top: 30px; margin-bottom: 10px;">
+  We are always looking for creative, motivated students and postdocs who are passionate about ecological theory and big questions—and unafraid to cross disciplinary boundaries
+  <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="color: #0056b3; font-weight: bold; text-decoration: none;">(more info)</a>!
 </p>
+
 
 
