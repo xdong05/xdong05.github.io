@@ -56,7 +56,7 @@ We are a research group in **Spatial Ecology and theory of pattern formation** i
 </p>
 
 <p>
-  Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological, eco-evolutionary, and geo-evolutionary feedbacks. In complex systems, large-scale spatial structures can emerge spontaneously processes operating at smaller scales—a phenomenon known as spatial self-organization. Spatial self-organization can influence both the resilience of ecosystems and the ecological and evolutionary dynamics of organisms within them. By better understanding these processes, we can make more reliable predictions about how populations and ecosystems will respond to global change. Spatial self-organization occurs across a wide range of ecosystems and landscapes. Current study systems in our lab include:
+  Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological, eco-evolutionary, and geo-evolutionary feedbacks. In complex systems, large-scale spatial structures can emerge spontaneously processes operating at smaller scales—a phenomenon known as *spatial self-organization*. Spatial self-organization can influence both the resilience of ecosystems and the ecological and evolutionary dynamics of organisms within them. By better understanding these processes, we can make more reliable predictions about how populations and ecosystems will respond to global change. Spatial self-organization occurs across a wide range of ecosystems and landscapes. Current study systems in our lab include:
 </p>
 
 <div style="padding-left: 1.5em;">
