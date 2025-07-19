@@ -16,12 +16,12 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 **Vegetation Spatial Patterns in Global Drylands**
 <div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 7px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 160px; width: 50%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 160px; width: 50%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 120px; width: 50%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 120px; width: 50%; object-fit: cover;">
 </div>
 <div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 160px; width: 50%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 160px; width: 50%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 120px; width: 50%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 120px; width: 50%; object-fit: cover;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right, top to bottom: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
