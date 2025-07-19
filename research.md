@@ -74,9 +74,9 @@ We are bridging these perspectives by developing theories and models that integr
 </h3>
 
 <div style="text-align: center; margin-bottom: 1px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png" style="width: 70%; max-width: 800px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 70%; max-width: 800px;">
   <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 1px; margin-bottom: 20px;">
-    Figure above: Projected direction and extent of plant range shift by the end of this century under climate change (paper under review).
+    Figure above: Causes and global distributions of plant extinction by 2081-2100. (a) Differences in projected plant extinction rates with realistic range shift velocity and unlimited dispersal are negligible. (b) Species at high risk of extinction are dominated by range-contracting plants and colonizing plants not subject to dispersal limitations. (c) Range shift velocity scenarios explained < 1% of variance in projected extinction rates, whereas choice of species distribution models (SDMs) explained most (60%) of the variance. (d) and (e) compares global distribution of plants at high extinction risk under medium (SSP245) and high (SSP585) emissions scenarios (paper under review).
   </p>
 </div>
 
