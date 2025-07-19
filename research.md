@@ -11,20 +11,15 @@ permalink: /research/
 Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
 
 **Vegetation Spatial Patterns in Global Drylands.**
-
-{% raw %}
-<div style="max-width: 760px; margin: auto; text-align: center;">
-  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-  </div>
-  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 10px; padding: 0 10px;">
-    From left to right: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
-  </p>
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 160px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 160px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 160px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 160px; width: 25%; object-fit: cover;">
 </div>
-{% endraw %}
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+  From left to right: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
+</p>
 
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
@@ -36,19 +31,15 @@ To better understand dryland spatial dynamics, we are developing new theories an
 <div style="margin-top: 60px;"></div>
 
 **Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes**. 
-{% raw %}
-<div style="max-width: 800px; margin: auto; text-align: center;">
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
-  </div>
-  <p style="font-size: 0.85em; color: #555; margin-top: 8px;">
-    From left to right: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of an individual pinnacle; and (D) microbial communities forming cone structures.
-  </p>
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
 </div>
-{% endraw %}
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+  From left to right: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of an individual pinnacle; and (D) microbial communities forming cone structures.
+</p>
 
 
 Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
@@ -60,9 +51,12 @@ Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are app
 
 **Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants.**
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 150px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg.jpg" style="height: 150px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
 </div>
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+  From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes; (B) a riverine landscape shaped by vegetation–sediment interactions.
+</p>
 
 Organisms can shape their environment via **niche construction**—for example, plants alter hydrology and sediment transport. These changes, in turn, affect selection pressures on the same organisms, creating geo-evolutionary feedbacks. However, most niche construction theory assumes environments change only due to biology, while **biogeomorphology** assumes evolutionarily static organisms.
 
