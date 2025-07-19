@@ -35,9 +35,9 @@ To better understand dryland spatial dynamics, we are developing new theories an
   Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
 </h3>
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 180px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 180px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 180px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 200px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) microbial communities forming cone structures; and (C) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/).
