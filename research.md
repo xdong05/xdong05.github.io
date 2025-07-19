@@ -12,6 +12,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 **Vegetation Spatial Patterns in Global Drylands.**
 
+{% raw %}
 <div style="max-width: 760px; margin: auto; text-align: center;">
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
@@ -23,6 +24,8 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
     From left to right: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
   </p>
 </div>
+{% endraw %}
+
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
 
@@ -33,17 +36,20 @@ To better understand dryland spatial dynamics, we are developing new theories an
 <div style="margin-top: 60px;"></div>
 
 **Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes**. 
+{% raw %}
 <div style="max-width: 800px; margin: auto; text-align: center;">
   <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_Picture1.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/img2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/img3.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/img4.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
   </div>
   <p style="font-size: 0.85em; color: #555; margin-top: 8px;">
-    Example dryland vegetation patterns across sites and environmental gradients.
+    From left to right: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of an individual pinnacle; and (D) microbial communities forming cone structures.
   </p>
 </div>
+{% endraw %}
+
 
 Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
 
