@@ -27,8 +27,6 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   From left to right, top to bottom: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of a pinnacle <a href="https://pubmed.ncbi.nlm.nih.gov/27474373/" target="_blank">[read more]</a>; and (D) microbial communities forming cone structures.
 </p>
 
-
-
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
 
 The prevailing models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare state. However, such predicted patterns only appear in a small fraction of drylands globally. One likely reason is that current models overlook a crucial component: **biological soil crusts (biocrusts)**.
@@ -77,7 +75,7 @@ We are bridging these perspectives by developing theories and models that integr
 <div style="margin-top: 60px;"></div>
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Global Plant Migration under Climate Change
+  Global Plant Range Shifts under Climate Change
 </h3>
 In collaboration with [Dr. Francis Moore](https://franmoore.faculty.ucdavis.edu) and [Dr. Marc Conte](https://marcnconte.ace.fordham.edu), we are evaluating how climate change reshapes global plant distributions and biodiversity (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)).
 
