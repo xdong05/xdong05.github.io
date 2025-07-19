@@ -64,8 +64,8 @@ We are a research group in **Spatial Ecology** in the [Department of Environment
 
 <div style="padding-left: 1.5em;">
   – Vegetation pattern formation in dryland ecosystems<br>
-  – Benthic microbial pattern formation in Antarctic lakes<br>
-  – Coastal and estuarine ecosystems dynamics
+  – Benthic microbial pattern formation in Antarctic lakes (modern stromatolite) <br>
+  – Spatial self-organization of biogeomorphic systems (mostly, coastal and estuarine ecosystems)
 </div>
 
 
