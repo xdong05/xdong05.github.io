@@ -57,12 +57,17 @@ Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are app
  
 <div style="margin-top: 60px;"></div>
 
+
 **Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants.**
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 150px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg.jpg" style="height: 150px;">
+</div>
+
 Organisms can shape their environment via **niche construction**—for example, plants alter hydrology and sediment transport. These changes, in turn, affect selection pressures on the same organisms, creating geo-evolutionary feedbacks. However, most niche construction theory assumes environments change only due to biology, while **biogeomorphology** assumes evolutionarily static organisms.
 
 We are bridging these perspectives by developing theories and models that integrate **eco-evolutionary and landscape geomorphic dynamics**, considering mutual feedbacks between landscape changes and evolution of niche constructors. See [this paper](https://www.journals.uchicago.edu/doi/full/10.1086/719425) and [this one](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8) for recent results.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png){: style="width: 40%; float: center; margin: 0px 300px"}
 
 
 <div style="margin-top: 60px;"></div>
