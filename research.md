@@ -24,7 +24,6 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   </p>
 </div>
 
-
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
 
 The prevailing models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare state. However, such predicted patterns only appear in a small fraction of drylands globally. One likely reason is that current models overlook a crucial component: **biological soil crusts (biocrusts)**.
@@ -33,7 +32,19 @@ To better understand dryland spatial dynamics, we are developing new theories an
   
 <div style="margin-top: 60px;"></div>
 
-**Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes**.  ![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_Picture1.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+**Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes**. 
+<div style="max-width: 800px; margin: auto; text-align: center;">
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_Picture1.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/img2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/img3.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/img4.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+  </div>
+  <p style="font-size: 0.85em; color: #555; margin-top: 8px;">
+    Example dryland vegetation patterns across sites and environmental gradients.
+  </p>
+</div>
+
 Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
 
 Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory to understand pinnacle-forming microbial mats (**modern stromatolite**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to climate change and ice melting. 
