@@ -20,7 +20,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 180px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
-  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) dryland ecosystems featuring both vascular plants and biological soil crusts; (C) a typical reactive-transport model to study Turing pattern formation; 
+  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) dryland ecosystems featuring both vascular plants and biological soil crusts; (C) a typical reactive-transport model to study Turing pattern formation of dryland vegetation. 
 </p>
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
@@ -46,7 +46,7 @@ To better understand dryland spatial dynamics, we are developing new theories an
 
 Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
 
-Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory to understand pinnacle-forming microbial mats (**modern [stromatolite](https://en.wikipedia.org/wiki/Stromatolite)**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
+Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats (**modern [stromatolite](https://en.wikipedia.org/wiki/Stromatolite)**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
  
 <div style="margin-top: 60px;"></div>
 
