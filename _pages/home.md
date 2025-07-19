@@ -63,9 +63,9 @@ We are a research group in **Spatial Ecology** in the [Department of Environment
 </p>
 
 Our research focuses on the theory of pattern formation in diverse ecosystems and landscapes shaped by ecological feedbacks. Current projects include:  
-– Vegetation pattern formation in dryland ecosystems
-– Benthic microbial pattern formation in Antarctic lakes
-– Coastal and estuarine wetland dynamics
+– Vegetation pattern formation in dryland ecosystems  
+– Benthic microbial pattern formation in Antarctic lakes  
+– Coastal and estuarine wetland dynamics  
 
 Our core approach is **mathematical modeling**, often in tandem with **remote sensing** and **field data** to test and refine theoretical predictions. See more on our [Research](research). 
 
