@@ -58,11 +58,11 @@ permalink: /
 
 We are a research group in **Spatial Ecology** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
-<p style="color:#002855; font-size:1.05em; font-weight:600;">
-  We study nonlinear, spatially extended complex systems using mathematical models. Our goal is to understand ecosystem response to climate change and how can informed human intervention.
+<p style="color:#0056b3; font-size:1.4em; font-weight:600;">
+    We study nonlinear, spatially extended complex systems using mathematical models. Our goal is to understand ecosystem responses to climate change and the potential for informed human intervention.
 </p>
 
-Our research focuses on the theory of pattern formation in diverse ecosystems and landscapes shaped by ecological feedbacks. Current projects include:  
+Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological feedbacks. Current projects include:  
 – Vegetation pattern formation in dryland ecosystems  
 – Benthic microbial pattern formation in Antarctic lakes  
 – Coastal and estuarine wetland dynamics  
