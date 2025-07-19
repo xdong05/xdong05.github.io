@@ -64,7 +64,7 @@ Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we a
 
 Organisms can shape their environment via **niche construction**—for example, plants alter hydrology and sediment transport. These changes, in turn, affect selection pressures on the same organisms, creating geo-evolutionary feedbacks. However, most niche construction theory assumes environments change only due to biology, while **biogeomorphology** assumes evolutionarily static organisms.
 
-We are bridging these perspectives by developing theories and models that integrate **eco-evolutionary and landscape geomorphic dynamics**, considering mutual feedbacks between landscape changes and evolution of niche constructors. See [this paper](https://www.journals.uchicago.edu/doi/full/10.1086/719425) and [this one](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8) for recent results.
+We are bridging these perspectives by developing theories and models that integrate **eco-evolutionary and landscape geomorphic dynamics**, considering mutual feedbacks between landscape changes and evolution of niche constructors. See [this modeling paper](https://www.journals.uchicago.edu/doi/full/10.1086/719425) and [conceptual paper](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8) for our most recent results.
 
 
 
