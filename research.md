@@ -27,7 +27,7 @@ As environmental change pushes ecosystems toward their limits, there's a growing
 
 The prevailing models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare state. However, such predicted patterns only appear in a small fraction of drylands globally. One likely reason is that current models overlook a crucial component: **biological soil crusts (biocrusts)**.
 
-To better understand dryland spatial dynamics, we are developing new theories and models that explicitly include biocrust-plant species interactions. Supported by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB), our team (co-PIs: [Yufang Jin](https://jin.ucdavis.edu), [Rachata Muneepeerakul](https://abe.ufl.edu/people/faculty/rachata-muneepeerakul/), [Caroline A. Havrilla](https://drylandecology.com/who-we-are), and [Yu Zhang](https://scholar.google.com/citations?user=4fQCR88AAAAJ&hl=en)) aims to build models that explain the broader diversity of vegetation patterns observed in real drylands. See our recent results from [remote sensing analysis](https://link.springer.com/article/10.1007/s10021-023-00898-2) and [mathematical modeling](https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028).
+To better understand dryland spatial dynamics, we are developing new theories and models that explicitly include biocrust-plant species interactions. Supported by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB), our team (co-PIs: [Yufang Jin](https://jin.ucdavis.edu), [Rachata Muneepeerakul](https://abe.ufl.edu/people/faculty/rachata-muneepeerakul/), [Caroline A. Havrilla](https://drylandecology.com/who-we-are), and [Yu Zhang](https://scholar.google.com/citations?user=4fQCR88AAAAJ&hl=en)) aims to build models that explain the broader diversity of vegetation patterns observed in real drylands. See our recent results from the [remote sensing analysis](https://link.springer.com/article/10.1007/s10021-023-00898-2) and [mathematical modeling](https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028).
   
 <div style="margin-top: 60px;"></div>
 
@@ -40,13 +40,13 @@ To better understand dryland spatial dynamics, we are developing new theories an
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 200px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
-  From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) microbial communities forming cone structures; and (C) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/).
+  From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) microbial communities forming cone structures; and (C) cross-section of a pinnacle ([read more](https://pubmed.ncbi.nlm.nih.gov/27474373/)).
 </p>
 
 
 Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
 
-Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats (**modern [stromatolite](https://en.wikipedia.org/wiki/Stromatolite)**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
+Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats (**[modern stromatolite](https://en.wikipedia.org/wiki/Stromatolite)**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
  
 <div style="margin-top: 60px;"></div>
 
@@ -64,7 +64,7 @@ Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we a
 
 Organisms can shape their environment via **niche construction**—for example, plants alter hydrology and sediment transport. These changes, in turn, affect selection pressures on the same organisms, creating geo-evolutionary feedbacks. However, most niche construction theory assumes environments change only due to biology, while **biogeomorphology** assumes evolutionarily static organisms.
 
-We are bridging these perspectives by developing theories and models that integrate **eco-evolutionary and landscape geomorphic dynamics**, considering mutual feedbacks between landscape changes and evolution of niche constructors. See [this modeling paper](https://www.journals.uchicago.edu/doi/full/10.1086/719425) and [conceptual paper](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8) for our most recent results.
+We are bridging these perspectives by developing theories and models that integrate **eco-evolutionary and landscape geomorphic dynamics**, considering mutual feedbacks between landscape changes and evolution of niche constructors (plants). See [this modeling paper](https://www.journals.uchicago.edu/doi/full/10.1086/719425) and [conceptual paper](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8) for our most recent results.
 
 
 
@@ -75,8 +75,8 @@ We are bridging these perspectives by developing theories and models that integr
 
 <div style="text-align: center; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png" style="width: 70%; max-width: 800px;">
-  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 1px;">
-    Figure above: Projected direction and extent of plant migration by the end of this century under climate change (paper under review).
+  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 1px; margin-bottom: 20px;">
+    Figure above: Projected direction and extent of plant range shift by the end of this century under climate change (paper under review).
   </p>
 </div>
 
