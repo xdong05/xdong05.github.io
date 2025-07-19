@@ -12,7 +12,10 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 Here are some themes we currently work on:
 
-**Vegetation Spatial Patterns in Global Drylands.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg){: style="width: 250px; float: right; margin: 0px 10px"} 
+**Vegetation Spatial Patterns in Global Drylands.**
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="width: 250px; display: block; margin: 0 auto 20px auto;">
+
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
 
 The prevailing models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare state. However, such predicted patterns only appear in a small fraction of drylands globally. One likely reason is that current models overlook a crucial component: **biological soil crusts (biocrusts)**.
