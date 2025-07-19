@@ -10,7 +10,10 @@ permalink: /research/
 
 Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
 
-**Vegetation Spatial Patterns in Global Drylands.**
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
+  Vegetation Spatial Patterns in Global Drylands
+</h3>
+
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
@@ -30,7 +33,9 @@ To better understand dryland spatial dynamics, we are developing new theories an
   
 <div style="margin-top: 60px;"></div>
 
-**Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes**. 
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
+  Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
+</h3>
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 140px; width: 25%; object-fit: cover;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 140px; width: 25%; object-fit: cover;">
@@ -49,7 +54,9 @@ Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are app
 <div style="margin-top: 60px;"></div>
 
 
-**Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants.**
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
+  Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants
+</h3>
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
@@ -66,7 +73,9 @@ We are bridging these perspectives by developing theories and models that integr
 
 <div style="margin-top: 60px;"></div>
 
-**Global Plant Migration under Climate Change.**
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
+  Global Plant Migration under Climate Change
+</h3>
 In collaboration with [Dr. Francis Moore](https://franmoore.faculty.ucdavis.edu) and [Dr. Marc Conte](https://marcnconte.ace.fordham.edu), we are evaluating how climate change reshapes global plant distributions and biodiversity (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)).
 
 Using global species distribution models that account for dispersal limits and topographic barriers, we identify regions likely to lose or gain biodiversity, experience novel species assemblages, and host key migration corridors.
