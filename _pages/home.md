@@ -66,7 +66,7 @@ We are a research group in **Spatial Ecology and theory of pattern formation** i
 </div>
 
 
-  The primary approach we use is <span style="font-weight: 500;">mathematical modeling</span>, often in tandem with <span style="font-weight: 500;">remote sensing</span> and <span style="font-weight: 500;">field data</span> to test and refine theoretical predictions. See more on our <a href="research">Research</a>.
+  The primary approach we use is <span style="font-weight: 600;">mathematical modeling</span>, often in tandem with <span style="font-weight: 600;">remote sensing</span> and <span style="font-weight: 600;">field data</span> to test and refine theoretical predictions. See more on our <a href="research">Research</a>.
 
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
