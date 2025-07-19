@@ -58,13 +58,13 @@ permalink: /
 
 We are a research group in **Spatial Ecology** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
-<p style="color:#0056b3; font-size:1.4em; font-weight:600;">
+<p style="color:#002855; font-size:1.05em; font-weight:600;">
   We study nonlinear, spatially extended, self-organized systems using mathematical models to better understand mechanisms and consequences of ecosystem spatial pattern formations.
 </p>
 
 Our research focuses on the theory of pattern formation in diverse ecosystems and landscapes shaped by ecological feedbacks. Current projects include:  
 – Vegetation pattern formation in dryland ecosystems
-– Benthic microbial pattern formation in Antarctic lakes  
+– Benthic microbial pattern formation in Antarctic lakes
 – Coastal and estuarine wetland dynamics
 
 Our core approach is **mathematical modeling**, often in tandem with **remote sensing** and **field data** to test and refine theoretical predictions. See more on our [Research](research). 
