@@ -56,11 +56,15 @@ permalink: /
 </div>
 
 
-We are a research group in spatial ecology in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. Our aim is to better understand mechanisms and consequences of ecosystem spatial pattern formations. We investigate a variety of types of ecosystems and landscapes, in particular landscapes whose morphology and dynamics are significantly affected by organisms. To this end, we develop mathematical and statistical models, combined with empirical data from remote sensing and from the field (see [Research](research)). 
+We are a research group in **Spatial Ecology** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
+We study nonlinear, spatially extended self-organized systems. Our goal is to better understand mechanisms and consequences of ecosystem spatial pattern formations.
+
+We investigate a variety of types of ecosystems and landscapes, including dryland ecosystems, benthic microbial pattern formation in Antarctic lakes, and coastal and estuary wetland ecosystems. The primary approach in our research group is **mathematial modeling**. Results from theoretical models are validated with empirical data from remote sensing and from the field (see [Research](research)). 
 
 We are grateful for funding from UC Davis, Office of Polar Programs (OPP) and Division of Environmental Biology (DEB) at [National Science Foundation](https://www.nsf.gov), and the Center for Space and Earth Science (CSES) at [Los Alamos National Laboratory](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/index.php).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+**We are always looking for creative students and postdocs unafraid of breaking boundaries between disciplines.**   [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
