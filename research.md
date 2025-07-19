@@ -14,12 +14,18 @@ Here are some themes we currently work on:
 
 **Vegetation Spatial Patterns in Global Drylands.**
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 150px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 150px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 150px;">
+<div style="max-width: 760px; margin: auto; text-align: center;">
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+  </div>
+  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 10px; padding: 0 10px;">
+    From left to right: (A) Turing patterns on animal skins and on landscapes; (B) Turing vegetation patterns in dryland ecosystems; (C) Reactive-transport models to study Turing pattern formation; (D) Dryland ecosystems occupied by both vascular plants and biological soil crusts.
+  </p>
 </div>
+
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
 
