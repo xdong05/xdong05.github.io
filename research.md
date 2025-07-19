@@ -12,10 +12,10 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 **Vegetation Spatial Patterns in Global Drylands.**
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 160px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 160px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 160px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 160px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 150px; width: 25%; object-fit: cover;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
@@ -32,10 +32,10 @@ To better understand dryland spatial dynamics, we are developing new theories an
 
 **Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes**. 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 150px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 150px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 150px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 150px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 140px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 140px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 140px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 140px; width: 25%; object-fit: cover;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of an individual pinnacle; and (D) microbial communities forming cone structures.
