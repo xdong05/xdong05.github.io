@@ -55,7 +55,7 @@ Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are app
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
-  From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes; (B) a riverine landscape shaped by vegetation–sediment interactions.
+  From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes (from [Dong et al. 2024](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8)); (B) a riverine landscape shaped by vegetation–sediment-flow interactions.
 </p>
 
 Organisms can shape their environment via **niche construction**—for example, plants alter hydrology and sediment transport. These changes, in turn, affect selection pressures on the same organisms, creating geo-evolutionary feedbacks. However, most niche construction theory assumes environments change only due to biology, while **biogeomorphology** assumes evolutionarily static organisms.
