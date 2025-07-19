@@ -69,12 +69,16 @@ We are bridging these perspectives by developing theories and models that integr
 
 
 <div style="margin-top: 60px;"></div>
-
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Global Plant Range Shifts under Climate Change
 </h3>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png){: style="width: 70%; float: center; margin: 0px 140px"}
+<div style="text-align: center; margin-bottom: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png" style="width: 70%; max-width: 800px;">
+  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 5px;">
+    Projected direction and extent of plant migration by the end of this century under climate change.
+  </p>
+</div>
 
 In collaboration with [Dr. Francis Moore](https://franmoore.faculty.ucdavis.edu) and [Dr. Marc Conte](https://marcnconte.ace.fordham.edu), we are evaluating how climate change reshapes global plant distributions and biodiversity (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)).
 
