@@ -14,12 +14,12 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   Vegetation Spatial Patterns in Global Drylands
 </h3>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 2px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 180px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 180px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 180px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
   From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) dryland ecosystems featuring both vascular plants and biological soil crusts; (C) a typical reactive-transport model to study Turing pattern formation of dryland vegetation. 
 </p>
 
