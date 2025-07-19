@@ -6,9 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**We are recruiting PhD students and postdoctoral researchers in spatial ecology and theory of pattern formation!** **Please [contact me](mailto:xldong@ucdavis.edu) if you are interested. See more info [here]({{ site.url }}{{ site.baseurl }}/vacancies).**
-
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -52,7 +49,7 @@ permalink: /
 </div>
 
 
-We are a research group in **Spatial Ecology** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
+We are a research group in **Spatial Ecology and theory of pattern formation** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
 <p style="color:#0056b3; font-size:1.4em; font-weight:600;">
     We study nonlinear, spatially extended complex systems through mathematical modeling, with the goal of understanding how ecosystems respond to climate change by examining the spatial patterns they form. 
