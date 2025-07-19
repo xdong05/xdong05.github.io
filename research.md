@@ -65,7 +65,7 @@ To better understand dryland spatial dynamics, we are developing new theories an
 
 Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
 
-Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory to understand pinnacle-forming microbial mats (**modern stromatolite**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to climate change and ice melting. 
+Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory to understand pinnacle-forming microbial mats (**modern [stromatolite](https://en.wikipedia.org/wiki/Stromatolite)**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
  
 <div style="margin-top: 60px;"></div>
 
