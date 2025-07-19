@@ -8,9 +8,7 @@ permalink: /research/
 
 # Research
 
-Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations.
-
-Here are some themes we currently work on:
+Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
 
 **Vegetation Spatial Patterns in Global Drylands.**
 
@@ -22,7 +20,7 @@ Here are some themes we currently work on:
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 150px; width: 25%; object-fit: cover;">
   </div>
   <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 10px; padding: 0 10px;">
-    From left to right: (A) Turing patterns on animal skins and on landscapes; (B) Turing vegetation patterns in dryland ecosystems; (C) Reactive-transport models to study Turing pattern formation; (D) Dryland ecosystems occupied by both vascular plants and biological soil crusts.
+    From left to right: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
   </p>
 </div>
 
