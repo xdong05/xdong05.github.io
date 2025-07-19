@@ -14,7 +14,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   Vegetation Spatial Patterns in Global Drylands
 </h3>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 2px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 200px;">
@@ -34,12 +34,12 @@ To better understand dryland spatial dynamics, we are developing new theories an
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
 </h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
   From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) microbial communities forming cone structures; and (C) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/).
 </p>
 
@@ -54,11 +54,11 @@ Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we a
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants
 </h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
   From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes (from [Dong et al. 2024](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8)); (B) a riverine landscape shaped by vegetation–sediment-flow interactions.
 </p>
 
@@ -73,9 +73,9 @@ We are bridging these perspectives by developing theories and models that integr
   Global Plant Range Shifts under Climate Change
 </h3>
 
-<div style="text-align: center; margin-bottom: 15px;">
+<div style="text-align: center; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png" style="width: 70%; max-width: 800px;">
-  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 5px;">
+  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 1px;">
     Projected direction and extent of plant migration by the end of this century under climate change.
   </p>
 </div>
