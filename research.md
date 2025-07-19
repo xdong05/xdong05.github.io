@@ -14,14 +14,13 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   Vegetation Spatial Patterns in Global Drylands
 </h3>
 
-**Vegetation Spatial Patterns in Global Drylands**
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 160px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 160px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 160px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 180px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 180px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 180px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
-  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) reactive-transport models used to study Turing pattern formation; and (C) dryland ecosystems featuring both vascular plants and biological soil crusts.
+  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) dryland ecosystems featuring both vascular plants and biological soil crusts; (C) a typical reactive-transport model to study Turing pattern formation; 
 </p>
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
