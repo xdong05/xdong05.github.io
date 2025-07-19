@@ -15,16 +15,13 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 </h3>
 
 **Vegetation Spatial Patterns in Global Drylands**
-<div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 7px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 120px; width: 50%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 120px; width: 50%; object-fit: cover;">
-</div>
-<div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 120px; width: 50%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 120px; width: 50%; object-fit: cover;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 160px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 160px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 160px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
-  From left to right, top to bottom: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
+  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) reactive-transport models used to study Turing pattern formation; and (C) dryland ecosystems featuring both vascular plants and biological soil crusts.
 </p>
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
@@ -38,10 +35,10 @@ To better understand dryland spatial dynamics, we are developing new theories an
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
 </h3>
-<div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 160px; width: 30%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 160px; width: 30%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 160px; width: 30%; object-fit: cover;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 160px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 160px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 160px;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
   From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/); and (C) microbial communities forming cone structures.
