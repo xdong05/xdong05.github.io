@@ -22,8 +22,11 @@ To better understand dryland spatial dynamics, we are developing new theories an
 </div>  
 <div style="margin-top: 60px;"></div>
 
-**Effects of Environmental Change on Microbial Spatial Structures in Antarctic Lakes**.  ![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_Picture1.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
-Beneath permanent ice and meters of liquid water in many Antarctic lakes reside structurally complex arrays of spatially self-organized microbial mats. Changing climate has already begun to transform these unique ecosystems in ways not yet understood. Will benthic communities respond to environmental changes linearly and gradually, or abruptly and catastrophically? Using existing datasets on spatial structure of benthic communities from 37 sites on the floor of Antarctic Lake Vanda, collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu) in the Department of Earth and Planetary Sciences at UC Davis, we will apply recent theories from Spatial Ecology to investigate the mechanisms that give rise to spatial patterns of pinnacles formed by benthic microbes (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)). We address two questions: (1) What are the morphological and spatial patterns of pinnacles and how do they vary over developmental stages, along environment gradients, and from 2013 to 2023? And (2) what mechanisms give rise to the geometry of individual pinnacles and their spatial distribution? These questions will be addressed by integrating existing datasets, spatial pattern analyses, Bayesian statistical models, and process-based numerical models. These models will allow us to better predict responses of pinnacles to environmental change.
+**Effects of Environmental Change on Microbial Spatial Patterns in Antarctic Lakes**.  ![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_Picture1.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+Beneath permanent ice in Antarctic lakes lie complex benthic microbial mats, organized into striking spatial patterns. These ecosystems are now being reshaped by climate change—but how will they respond? Will changes be gradual or abrupt?
+
+Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory to understand pinnacle-forming microbial mats (**modern stromatolite**) in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to climate change and ice melting. 
+
 
 </div>  
 <div style="margin-top: 60px;"></div>
