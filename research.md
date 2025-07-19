@@ -14,6 +14,14 @@ Here are some themes we currently work on:
 
 **Vegetation Spatial Patterns in Global Drylands.**
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg2.jpg" style="height: 150px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 150px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 150px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 150px;">
+</div>
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="width: 250px; display: block; margin: 0 auto 20px auto;">
 
 As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in predictable ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
