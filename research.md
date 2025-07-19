@@ -44,7 +44,7 @@ To better understand dryland spatial dynamics, we are developing new theories an
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 160px; width: 30%; object-fit: cover;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
-  From left to right: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/); and (D) microbial communities forming cone structures.
+  From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/); and (C) microbial communities forming cone structures.
 </p>
 
 
