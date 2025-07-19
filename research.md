@@ -23,7 +23,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 120px; width: 50%; object-fit: cover;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 120px; width: 50%; object-fit: cover;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
   From left to right, top to bottom: (A) Turing patterns in both animal skins and landscapes; (B) self-organized vegetation patterns in dryland ecosystems; (C) reactive-transport models used to study Turing pattern formation; and (D) dryland ecosystems featuring both vascular plants and biological soil crusts.
 </p>
 
@@ -43,7 +43,7 @@ To better understand dryland spatial dynamics, we are developing new theories an
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 160px; width: 30%; object-fit: cover;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 160px; width: 30%; object-fit: cover;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
   From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/); and (C) microbial communities forming cone structures.
 </p>
 
@@ -62,7 +62,7 @@ Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are app
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
   From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes (from [Dong et al. 2024](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8)); (B) a riverine landscape shaped by vegetation–sediment-flow interactions.
 </p>
 
@@ -77,12 +77,15 @@ We are bridging these perspectives by developing theories and models that integr
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Global Plant Range Shifts under Climate Change
 </h3>
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png){: style="width: 70%; float: center; margin: 0px 140px"}
+
 In collaboration with [Dr. Francis Moore](https://franmoore.faculty.ucdavis.edu) and [Dr. Marc Conte](https://marcnconte.ace.fordham.edu), we are evaluating how climate change reshapes global plant distributions and biodiversity (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)).
 
 Using global species distribution models that account for dispersal limits and topographic barriers, we identify regions likely to lose or gain biodiversity, experience novel species assemblages, and host key migration corridors.
 
 We also integrate these ecological outcomes into **Integrated Assessment Models (IAMs)** to better quantify the **social cost of carbon**. See our results in [JUE (2023)](https://www.journals.uchicago.edu/doi/10.1086/716662) and [Nature (2023)](https://www.nature.com/articles/s41586-023-06769-z).
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/dx_arrows_only.png){: style="width: 70%; float: center; margin: 0px 140px"}
+
 
 ### ... and more.
