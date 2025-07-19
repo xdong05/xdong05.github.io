@@ -62,10 +62,16 @@ We are a research group in **Spatial Ecology** in the [Department of Environment
     We study nonlinear, spatially extended complex systems using mathematical models. Our goal is to understand ecosystem responses to climate change and the potential for informed human intervention.
 </p>
 
-Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological feedbacks. Current projects include:  
-– Vegetation pattern formation in dryland ecosystems  
-– Benthic microbial pattern formation in Antarctic lakes  
-– Coastal and estuarine wetland dynamics  
+<p>
+  Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological feedbacks. Current projects include:
+</p>
+
+<div style="padding-left: 1.5em;">
+  – Vegetation pattern formation in dryland ecosystems<br>
+  – Benthic microbial pattern formation in Antarctic lakes<br>
+  – Coastal and estuarine ecosystems dynamics
+</div>
+
 
 The primary approach we use is **mathematical modeling**, often in tandem with **remote sensing** and **field data** to test and refine theoretical predictions. See more on our [Research](research). 
 
