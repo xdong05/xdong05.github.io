@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**We are recruiting PhD students and postdoctoral researchers in spatial ecology!** **Please [contact me](mailto:xldong@ucdavis.edu) if you are interested. See more info [here]({{ site.url }}{{ site.baseurl }}/vacancies).**
+**We are recruiting PhD students and postdoctoral researchers in spatial ecology and theory of pattern formation!** **Please [contact me](mailto:xldong@ucdavis.edu) if you are interested. See more info [here]({{ site.url }}{{ site.baseurl }}/vacancies).**
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -55,22 +55,22 @@ permalink: /
 We are a research group in **Spatial Ecology** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
 <p style="color:#0056b3; font-size:1.4em; font-weight:600;">
-    We study nonlinear, spatially extended complex systems using mathematical models. Our goal is to understand ecosystem responses to climate change and the potential for informed human intervention.
+    We study nonlinear, spatially extended complex systems through mathematical modeling, with the goal of understanding how ecosystems respond to climate change by examining the spatial patterns they form. 
 </p>
 
 <p>
-  Our research centers on the theory of pattern formation in diverse ecosystems shaped by ecological feedbacks. Current study systems include:
+  Our research focuses on the theory of pattern formation in diverse ecosystems shaped by ecological, eco-evolutionary, and geo-evolutionary feedbacks. Current study systems include:
 </p>
 
 <div style="padding-left: 1.5em;">
   – Vegetation pattern formation in dryland ecosystems<br>
   – Benthic microbial pattern formation in Antarctic lakes (modern stromatolite) <br>
-  – Spatial self-organization of biogeomorphic systems (mostly, coastal and estuarine ecosystems)
+  – Spatial self-organization of biogeomorphic systems (coastal and estuarine ecosystems)
 </div>
 
 
 The primary approach we use is **mathematical modeling**, often in tandem with **remote sensing** and **field data** to test and refine theoretical predictions. See more on our [Research](research). 
 
-**We are always looking for creative students and postdocs unafraid of breaking boundaries between disciplines.**   [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are always looking for creative, motivated students and postdocs who are passionate about ecological theory and big questions—and unafraid to cross disciplinary boundaries.**   [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
