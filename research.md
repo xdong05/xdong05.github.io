@@ -15,12 +15,12 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 </h3>
 
 **Vegetation Spatial Patterns in Global Drylands**
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 160px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 160px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 160px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) reactive-transport models used to study Turing pattern formation; and (C) dryland ecosystems featuring both vascular plants and biological soil crusts.
 </p>
 
@@ -35,12 +35,12 @@ To better understand dryland spatial dynamics, we are developing new theories an
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
 </h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 160px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 160px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 160px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/); and (C) microbial communities forming cone structures.
 </p>
 
@@ -55,11 +55,11 @@ Working with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are app
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants
 </h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 8px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 10px;">
+<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes (from [Dong et al. 2024](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8)); (B) a riverine landscape shaped by vegetation–sediment-flow interactions.
 </p>
 
