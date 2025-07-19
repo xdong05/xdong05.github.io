@@ -52,7 +52,7 @@ permalink: /
 We are a research group in **Spatial Ecology and theory of pattern formation** in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
 <p style="color:#0056b3; font-size:1.1em; font-weight:600;">
-    We study nonlinear, spatially extended complex systems through mathematical modeling, aiming to understand ecosystem responses to global change by examining the formation, consequences, and feedbacks of spatial patterns.
+    We study nonlinear, spatially extended complex systems, aiming to understand ecosystem responses to global change by examining the formation, consequences, and feedbacks of spatial patterns.
 </p>
 
 <p>
