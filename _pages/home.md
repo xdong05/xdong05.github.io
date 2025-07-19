@@ -66,7 +66,8 @@ We are a research group in **Spatial Ecology and theory of pattern formation** i
 </div>
 
 
-The primary approach we use is **mathematical modeling**, often in tandem with **remote sensing** and **field data** to test and refine theoretical predictions. See more on our [Research](research). 
+  The primary approach we use is <span style="font-weight: 500;">mathematical modeling</span>, often in tandem with <span style="font-weight: 500;">remote sensing</span> and <span style="font-weight: 500;">field data</span> to test and refine theoretical predictions. See more on our <a href="research">Research</a>.
+
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
   We are always looking for creative, motivated students and postdocs who are passionate about ecological theory and big questions—and unafraid to cross disciplinary boundaries
