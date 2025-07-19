@@ -41,10 +41,9 @@ To better understand dryland spatial dynamics, we are developing new theories an
   Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
 </h3>
 <div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant4.webp" style="height: 130px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 130px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 130px; width: 25%; object-fit: cover;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 130px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 160px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 160px; width: 25%; object-fit: cover;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 160px; width: 25%; object-fit: cover;">
 </div>
 <p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-bottom: 20px;">
   From left to right: (A) Lake Vanda in Antarctica; (B) microbial communities forming pinnacle structure on the lake floor; (C) cross-section of a pinnacle [read more](https://pubmed.ncbi.nlm.nih.gov/27474373/); and (D) microbial communities forming cone structures.
