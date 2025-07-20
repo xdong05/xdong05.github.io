@@ -77,7 +77,7 @@ img.team-photo.img-responsive {
     <div class="col-sm-8">
       <h2>Kushal Choudhary</h2>
       <p class="role-title">Postdoctoral Researcher</p>
-      <p>Kushal recently joined the lab after completing his Ph.D. at IIT Madras, India, where his dissertation focused on interfacial instability between two fluids. As a postdoctoral researcher, Kushal is currently leading our project investigating the formation of modern stromatolites by benthic microbial communities in Antarctic lakes.</p>
+      <p>Kushal recently joined the lab after completing his Ph.D. at IIT Madras, India, where his dissertation focused on interfacial instability between two fluids. As a postdoctoral researcher, Kushal is currently leading our project investigating the pattern formation of modern stromatolites by benthic microbial communities in Antarctic lakes.</p>
       <p><strong>Email:</strong> <a href="mailto:kushalchoudhary432@gmail.com">kushalchoudhary432@gmail.com</a></p>
     </div>
   </div>
@@ -127,6 +127,6 @@ img.team-photo.img-responsive {
     <li><strong>Junna Wang</strong> – Ph.D. (2018–2022). Dissertation: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2218501120" target="_blank">Stability of Freshwater Ecosystems: Patterns and Mechanisms</a>. Now Associate Professor at Beijing Normal University, China.</li>
     <li><strong>Daniel Kozar</strong> – Ph.D. (2018–2024). Dissertation: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028" target="_blank">Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics</a>.</li>
     <li><strong>Brunno F. Oliveira</strong> – Postdoctoral scholar (2020–2021), contributed to the <a href="https://www.nature.com/articles/s42003-022-03573-9" target="_blank">biodiversity project</a>. Now Postdoctoral Fellow at CESAB – FRB, France.</li>
-    <li><strong>Undergraduate Interns:</strong> Junna Faessel (2022–2023), Sara Weitzel (2023–2024), Jocelyn Rodriguez (2021), Rocio Venegas (2021), Paul Linderman (2023–2024), Benjamin Mineau (2024–2025), Joaquin Benitez (2025), Zoey Moffitt (2024), Ziqi Yang (2024).</li>
+    <li><strong>Undergraduate Interns:</strong> Joaquin Benitez (2025), Junna Faessel (2022–2023), Paul Linderman (2023–2024), Benjamin Mineau (2024–2025), Zoey Moffitt (2024), Jocelyn Rodriguez (2021), Rocio Venegas (2021), Sara Weitzel (2023–2024), Ziqi Yang (2024).</li>
   </ul>
 </div>
