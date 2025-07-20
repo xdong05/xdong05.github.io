@@ -57,6 +57,13 @@ permalink: /publications/
 
 <p>Moore FC, Stokes A, Conte MN, Dong X. “<a href="https://www.journals.uchicago.edu/doi/10.1086/716662">Noah's Ark in a warming world: climate change, biodiversity loss and public adaptation costs in the United States</a>.” <em>Journal of the Association of Environmental and Resource Economists</em> 9 (2022): 981-1015.</p>
 
+
+<h3 style='margin-top: 1.2em;'>2021</h3>
+<p>Wang J, Bombardelli FA, Dong X. “<a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020WR028757">Physically based scaling models to predict gas transfer velocity in streams and rivers</a>.” <em>Water Resources Research</em> 57 (2021): e2020WR028757.</p>
+
+<p>Dong X, Murray AB, Heffernan JB. “<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072">Competition among Limestone Depressions Leads to Self-organized Regular Patterning on a Flat Landscape</a>.” <em>Journal of Geophysical Research - Earth Surface</em> 126 (2021): e2021JF006072.</p>
+
+
 <h3 style='margin-top: 1.2em;'>2017</h3>
 <p>Dong, Xiaoli, Ruhí, Albert, Grimm, Nancy B. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Proceedings of the National Academy of Sciences</em> 114 (2017): E4744–E4752.</p>
 
