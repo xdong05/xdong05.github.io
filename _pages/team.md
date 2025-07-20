@@ -41,22 +41,18 @@ permalink: /team/
       <p><strong>Email:</strong> <a href="mailto:mfmoralesaleman@ucdavis.edu">mfmoralesaleman@ucdavis.edu</a></p>
     </div>
   </div>
-</div>
----
 
-## Graduate Students
-<div markdown="0">
-  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+    <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/brunno.jpeg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/kushal.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
     <div class="col-sm-8">
-      <h2>Dr. Jay</h2>
-      <p><strong>Position:</strong> Postdoctoral Researcher</p>
-      <p>Jay studies XXX.</p>
-      <p><strong>Email:</strong> <a href="mailto:jhgallagher@ucdavis.edu">jhgallagher@ucdavis.edu</a></p>
+      <h2>Kushal Choudhary</h2>
+      <p><strong>Postdoctoral Researcher</strong></p>
+      <p>Kushal's research focuses on .</p>
     </div>
   </div>
+  
 </div>
 ---
 
