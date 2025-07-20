@@ -89,7 +89,7 @@ permalink: /publications/
 <p>Ruhi A, Dong X, McDaniel CH, Batzer DP, Sabo JL. “<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14133">Detrimental effects of a novel flow regime on the functional trajectory of an aquatic invertebrate metacommunity</a>.” <em>Global Change Biology</em> 24 (2017): 3749-3765.</p>
 
 <h3 style='margin-top: 1.2em;'>Earlier</h3>
-<p>Dong X, Ruhí A, Grimm NB. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>PNAS</em> 114 (2017): E4744–E4752.</p>
+<p>Dong X, Ruhí A, Grimm NB. “<a href="https://www.pnas.org/doi/10.1073/pnas.1617571114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>PNAS</em> 114 (2017): E4744–E4752.</p>
 
 <p>Dong X, Lytle DA, Olden JD, Schriever TA, Muneepeerakul R. “<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949">Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems</a>.” <em>PLoS ONE</em> 12 (2017): e0176949.</p>
 
