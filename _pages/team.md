@@ -28,17 +28,17 @@ permalink: /team/
   </div>
 ---
 
-## Postdoctoral Researchers 
+## Graduate Students and Postdoctoral Researchers 
 <div markdown="0">
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/brunno.jpeg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/fern.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
     <div class="col-sm-8">
-      <h2>Dr. XXX</h2>
-      <p><strong>Position:</strong> Project Scientist</p>
-      <p>Ammon explores social dominance and the winner effect in Amazon mollies. PhD from UPenn in songbird courtship, enjoys climbing, D&D, and behavioral automation.</p>
-      <p><strong>Email:</strong> <a href="mailto:aperkes@ucdavis.edu">aperkes@ucdavis.edu</a></p>
+      <h2>Maria Fernanda Morales Aleman</h2>
+      <p><strong>Graduate Student</strong></p>
+      <p>Fern is a Master Student in the Hydrological Sciences Graduate Group and a Fulbright Scholar. She is interested in dryland ecosystems under global change and the consequences on groundwater and water resources.</p>
+      <p><strong>Email:</strong> <a href="mailto:mfmoralesaleman@ucdavis.edu">mfmoralesaleman@ucdavis.edu</a></p>
     </div>
   </div>
 </div>
