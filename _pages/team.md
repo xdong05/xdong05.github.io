@@ -75,7 +75,19 @@ permalink: /team/
       <h2>Malavika Venkatesh</h2>
       <p><strong>Graduate Student</strong></p>
       <p>Malavika is a Ph.D. student in the Graduate Group in Ecology. She is broadly interested in collective behaviors and the emergent properties of complex adaptive systems.</p>
-      <p><strong>Email:</strong> <a href="mailto:malavika.venkatesh@gmail.com">malavika.venkatesh@gmail.com</a></p>
+      <p><strong>Email:</strong> <a href="mailto:malvenkatesh@ucdavis.edu">malvenkatesh@ucdavis.edu</a></p>
+    </div>
+  </div>
+
+        <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+    <div class="col-sm-4">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+    </div>
+    <div class="col-sm-8">
+      <h2>Linhao Xu</h2>
+      <p><strong>Postdoctoral Researcher</strong></p>
+      <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience and alternative stable states.</p>
+      <p><strong>Email:</strong> <a href="mailto:lhxu@ucdavis.edu">lhxu@ucdavis.edu</a></p>
     </div>
   </div>
   
