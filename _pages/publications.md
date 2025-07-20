@@ -80,12 +80,24 @@ permalink: /publications/
 <p>Corman R, Collins SL, Cook EM, Dong X, Gherardi LA, Grimm NB, Hale RL, Lin T, Ramos J, Reichmann LG, Sala OE. “<a href="https://link.springer.com/article/10.1007/s10021-018-0316-3">Foundations and frontiers of ecosystem science: Legacy of a classic paper (Odum 1969)</a>.” <em> Ecosystems</em> 22 (2019): 1160-1172.</p>
 
 
-<p>Dong x, Murray AB, Heffernan JB. “<a href="https://escholarship.org/content/qt1hw990xv/qt1hw990xv_noSplash_e37cbe7cc2bfeb5d4edd7a3a25954151.pdf">Ecohydrologic feedbacks controlling sizes of cypress wetlands in a patterned karst landscape</a>.” <em> Earth Surface Processes and Landforms</em> 44 (2019): 1178-1191.</p>
+<p>Dong X, Murray AB, Heffernan JB. “<a href="https://escholarship.org/content/qt1hw990xv/qt1hw990xv_noSplash_e37cbe7cc2bfeb5d4edd7a3a25954151.pdf">Ecohydrologic feedbacks controlling sizes of cypress wetlands in a patterned karst landscape</a>.” <em> Earth Surface Processes and Landforms</em> 44 (2019): 1178-1191.</p>
 
-<h3 style='margin-top: 1.2em;'>2017</h3>
-<p>Dong, Xiaoli, Ruhí, Albert, Grimm, Nancy B. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Proceedings of the National Academy of Sciences</em> 114 (2017): E4744–E4752.</p>
+<h3 style='margin-top: 1.2em;'>2018</h3>
+<p>Ruhi A, Dong X, McDaniel CH, Batzer DP, Sabo JL. “<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14133">Detrimental effects of a novel flow regime on the functional trajectory of an aquatic invertebrate metacommunity</a>.” <em>Global Change Biology</em> 24 (2017): 3749-3765.</p>
 
-<h3 style='margin-top: 1.2em;'>2015</h3>
-<p>Dong, X., Muneepeerakul, R., Olden, J. D., Lytle, D. A. “<a href="https://doi.org/10.1890/ES15-00100.1">The effect of spatial configuration of habitat capacity on β diversity</a>.” <em>Ecosphere</em> 6 (2015): 1–11.</p>
+<h3 style='margin-top: 1.2em;'>Earlier</h3>
+<p>Dong X, Ruhí A, Grimm NB. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>PNAS</em> 114 (2017): E4744–E4752.</p>
+
+<p>Dong X, Lytle DA, Olden JD, Schriever TA, Muneepeerakul R. “<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949">Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems</a>.” <em>PLoS ONE</em> 12 (2017): e0176949.</p>
+
+<p>Kelly PT, Bell T, Reisinger AJ, Spanbauer TL, Bortolotti LE, Brentrup JA, Briseño-Avena C, Dong X, Flanagan AM, Follett EM, Grosse J, Guy-Haim T, Holgerson MA, Hovel RA, Luo JY, Millette NC, Mine A, Muscarella ME, Oliver SK, Smith HJ. “<a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10180">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Limnology and Oceanography Bulletin</em> 26 (2017): 25-30.</p>
+
+<p>Guy-Haim T, Alexander A, Bell TW, Bier RL, Bortolotti LE, Briseño-Avena C, Dong X, Flanagan AM, Grosse J, Grossmann L, Hasnain S, Hovel R, Johnston CA, Miller DR, Muscarella M, Noto AE, Reisinger AJ, Smith HJ, Stamieszkin K. “<a href="https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-017-0084-0">What are the type, direction, and strength of species, community, and ecosystem responses to warming in aquatic mesocosm studies and their dependency on experimental characteristics? A systematic review protocol</a>.” <em>Environmental Evidence</em> 6 (2017): 6.</p>
+
+<p>Dong X, Grimm NB, Ogle K, Franklin J. “<a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12450">Inter-annual hydrological variability modified response of wetland distribution to geomorphology</a>.” <em>Journal of Ecology</em> 104 (2016): 18-30.</p>
+
+<p>Dong X, Muneepeerakul R, Olden JD, Lytle DA. “<a href="https://doi.org/10.1890/ES15-00100.1">The effect of spatial configuration of habitat capacity on β diversity</a>.” <em>Ecosphere</em> 6 (2015): 1–11.</p>
+
+<p>Gu B, Dong X, Peng C, Luo W, Chang J, Ge Y. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749112003430">The long-term impact of urbanization on nitrogen patterns and dynamics in Shanghai, China</a>.” <em>Environmental Pollution</em> 171 (2012): 30-37.</p>
 
 </div>
