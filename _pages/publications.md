@@ -7,9 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
-## Full List of publications ([Google Scholar](https://scholar.google.com/citations?user=TF4dKPoAAAAJ&hl=en))
-
+# Publications ([Google Scholar](https://scholar.google.com/citations?user=TF4dKPoAAAAJ&hl=en))
 
 {% for publi in site.data.publist %}
 
