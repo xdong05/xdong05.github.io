@@ -16,25 +16,13 @@ permalink: /team/
 <div markdown="0">
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/brunno.jpeg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xiaoli.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
     <div class="col-sm-8">
-      <h2>Dr. AAA</h2>
-      <p><strong>Position:</strong> Assistant Professor</p>
-      <p>AAA investigates xxx. She earned her BS from xxx and PhD from xxx, then worked in xxx before joining UC Davis in 2018.</p>
+      <h2>Xiaoli Dong</h2>
+      <p><strong>Associate Professor</strong></p>
+      <p>Xiaoli joined UC Davis in 2018 after completing a postdoctoral fellowship at Duke University (2015–2018). She obtained her PhD degree ('15) from Arizona State University. Her research takes a comparative, cross-system approach to understanding spatial self-organization in ecosystems: how patterns emerge, their consequences for landscapes and resident organisms, and how they change over time.</p>
       <p><strong>Email:</strong> <a href="mailto:xldong@ucdavis.edu">xldong@ucdavis.edu</a></p>
-    </div>
-  </div>
-  
-  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
-    <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/brunno.jpeg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
-    </div>
-    <div class="col-sm-8">
-      <h2>Abby XXX</h2>
-      <p><strong>Role:</strong> Lab Manager</p>
-      <p>Abby studies XXX. Off-duty, she loves swimming, nature, music, and animals.</p>
-      <p><strong>Email:</strong> <a href="mailto:atrocinski@ucdavis.edu">atrocinski@ucdavis.edu</a></p>
     </div>
   </div>
   </div>
