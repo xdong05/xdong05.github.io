@@ -25,7 +25,7 @@ permalink: /publications/
 
 
 <h3 style='margin-top: 1.2em;'>2024</h3>
-<p>Dong X, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a href="https://doi.org/10.1016/j.tree.2024.06.012">Geo-evolutionary feedbacks: integrating rapid evolution and landscape change</a>.” <em>Trends in Ecology & Evolution</em> 39 (2024): 863–876.</p>
+<p>Dong X, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a href="https://www.sciencedirect.com/science/article/pii/S0169534724001198">Geo-evolutionary feedbacks: integrating rapid evolution and landscape change</a>.” <em>Trends in Ecology & Evolution</em> 39 (2024): 863–876.</p>
 
 <p>Bastien-Olvera BA, Conte MN, Dong X, Briceno T, Batker D, Emmerling J, Tavoni M, Granella F, Moore FC. “<a href="https://www.nature.com/articles/s41586-023-06769-z">Unequal climate impacts on global values of natural capital</a>.” <em>Nature</em> 625 (2024): 722–727.</p>
 
