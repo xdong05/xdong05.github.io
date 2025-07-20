@@ -44,7 +44,7 @@ permalink: /publications/
 
 <p>Dong X. “<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2314908120">Fairy Circle Tales</a>.” <em>PNAS</em> 120 (2023): e2314908120.</p>
 
-<p>Dong X, Martin JB, Cohen MJ, Tu T. “<a href="https://doi.org/10.1038/s43247-023-01130-x">Bedrock mediates responses of ecosystem productivity to climate variability</a>.” <em>Communications Earth & Environment</em> 4 (2023): 114.</p>
+<p>Dong X, Martin JB, Cohen MJ, Tu T. “<a href="https://www.nature.com/articles/s43247-023-00773-x">Bedrock mediates responses of ecosystem productivity to climate variability</a>.” <em>Communications Earth & Environment</em> 4 (2023): 114.</p>
 
 <p>Wang J, Grimm NB, Lawler SP, Dong X. “<a href="https://www.pnas.org/doi/10.1073/pnas.2218501120">Changing climate and reorganized species interactions modify community responses to climate variability</a>.” <em>PNAS</em> 120 (2023): e2218501120.</p>
 
