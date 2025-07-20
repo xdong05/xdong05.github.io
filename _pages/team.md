@@ -20,6 +20,12 @@ permalink: /team/
   box-shadow: none;
   border: 1px solid #ccc;
 }
+.role-title {
+  font-size: 1.2em;
+  font-weight: 600;
+  font-family: Georgia, serif;
+  margin-bottom: 8px;
+}
 </style>
 
 ## Principal Investigator
@@ -30,7 +36,7 @@ permalink: /team/
     </div>
     <div class="col-sm-8">
       <h2>Xiaoli Dong</h2>
-      <p><strong>Associate Professor</strong></p>
+      <p class="role-title">Associate Professor</p>
       <p>Xiaoli joined UC Davis in 2018 after completing a postdoctoral fellowship at Duke University (2015–2018). She obtained her PhD degree ('15) from Arizona State University. Her research takes a comparative, cross-system approach to understanding spatial self-organization in ecosystems: how patterns emerge, their consequences for landscapes and resident organisms, and how they change over time.</p>
       <p><strong>Email:</strong> <a href="mailto:xldong@ucdavis.edu">xldong@ucdavis.edu</a></p>
     </div>
@@ -46,7 +52,7 @@ permalink: /team/
     </div>
     <div class="col-sm-8">
       <h2>Maria Fernanda Morales Aleman</h2>
-      <p><strong>Graduate Student</strong></p>
+      <p class="role-title">Graduate Student</p>
       <p>Fern is a Master's student in the Hydrological Sciences Graduate Group and a Fulbright Scholar. Her research focuses on dryland ecosystems under global change, with an emphasis on the implications for groundwater and water resources.</p>
       <p><strong>Email:</strong> <a href="mailto:mfmoralesaleman@ucdavis.edu">mfmoralesaleman@ucdavis.edu</a></p>
     </div>
@@ -58,7 +64,7 @@ permalink: /team/
     </div>
     <div class="col-sm-8">
       <h2>Kushal Choudhary</h2>
-      <p><strong>Postdoctoral Researcher</strong></p>
+      <p class="role-title">Postdoctoral Researcher</p>
       <p>Kushal recently joined the lab after completing his Ph.D. at IIT Madras, India, where his dissertation focused on interfacial instability between two fluids. As a postdoctoral researcher, Kushal is currently leading our project investigating the formation of modern stromatolites by benthic microbial communities in Antarctic lakes.</p>
       <p><strong>Email:</strong> <a href="mailto:kushalchoudhary432@gmail.com">kushalchoudhary432@gmail.com</a></p>
     </div>
@@ -70,7 +76,7 @@ permalink: /team/
     </div>
     <div class="col-sm-8">
       <h2>Shawna Kelley</h2>
-      <p><strong>Graduate Student</strong></p>
+      <p class="role-title">Graduate Student</p>
       <p>Shawna is a Master's student in the Graduate Group in Ecology. Her research interests lie broadly in biogeochemistry, with a focus on the role of microtopography in vegetation pattern formation in dryland ecosystems.</p>
       <p><strong>Email:</strong> <a href="mailto:slkelley@ucdavis.edu">slkelley@ucdavis.edu</a></p>
     </div>
@@ -82,7 +88,7 @@ permalink: /team/
     </div>
     <div class="col-sm-8">
       <h2>Malavika Venkatesh</h2>
-      <p><strong>Graduate Student</strong></p>
+      <p class="role-title">Graduate Student</p>
       <p>Malavika is a Ph.D. student in the Graduate Group in Ecology. She is broadly interested in collective behaviors and the emergent properties of complex adaptive systems.</p>
       <p><strong>Email:</strong> <a href="mailto:malvenkatesh@ucdavis.edu">malvenkatesh@ucdavis.edu</a></p>
     </div>
@@ -94,7 +100,7 @@ permalink: /team/
     </div>
     <div class="col-sm-8">
       <h2>Linhao Xu</h2>
-      <p><strong>Postdoctoral Researcher</strong></p>
+      <p class="role-title">Postdoctoral Researcher</p>
       <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience, and alternative stable states.</p>
       <p><strong>Email:</strong> <a href="mailto:lhxu@ucdavis.edu">lhxu@ucdavis.edu</a></p>
     </div>
