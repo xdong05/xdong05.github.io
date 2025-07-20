@@ -17,7 +17,7 @@ permalink: /publications/
 
 <p>Chen PY, Dong X, Durand J, Yuan HW. “<a href="https://link.springer.com/article/10.1007/s13157-025-01954-4">Impact of emergent macrophyte mowing on an aquatic insect community in urban ponds: a case study in an artificial wetland in Southeast Asia</a>.” <em>Wetlands</em> 45 (2025): 1-13.</p>
 
-<p>Harms TK, Lowman H, Blaszczak J, Cale A, Dong X, et al. “<a href="https://doi.org/10.1093/biosci/biaa001">Fire influence on land--water interactions in aridland catchments</a>.” <em>BioScience</em> 75 (2025): 30–46.</p>
+<p>Harms TK, Lowman H, Blaszczak J, Cale A, Dong X, et al. “<a href="https://academic.oup.com/bioscience/article/75/1/30/7950356">Fire influence on land--water interactions in aridland catchments</a>.” <em>BioScience</em> 75 (2025): 30–46.</p>
 
 <p>Patterson NK, Dong X, Lane BA, Csank A, Rood SB, Sandoval-Solis S. Dendrochronology reveals the response of a riparian forest to water management in an arid river basin. <em>Ecological Applications</em> (in press) </p>
 
