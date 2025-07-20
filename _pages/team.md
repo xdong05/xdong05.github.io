@@ -25,11 +25,11 @@ permalink: /team/
       <p><strong>Email:</strong> <a href="mailto:xldong@ucdavis.edu">xldong@ucdavis.edu</a></p>
     </div>
   </div>
-  </div>
----
+</div>
 
 ## Graduate Students and Postdoctoral Researchers 
 <div markdown="0">
+
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/fern.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
@@ -42,8 +42,7 @@ permalink: /team/
     </div>
   </div>
 
-
-    <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/kushal.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
@@ -55,7 +54,7 @@ permalink: /team/
     </div>
   </div>
 
-    <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
@@ -67,7 +66,7 @@ permalink: /team/
     </div>
   </div>
 
-      <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
@@ -79,25 +78,27 @@ permalink: /team/
     </div>
   </div>
 
-        <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
     </div>
     <div class="col-sm-8">
       <h2>Linhao Xu</h2>
       <p><strong>Postdoctoral Researcher</strong></p>
-      <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience and alternative stable states.</p>
+      <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience, and alternative stable states.</p>
       <p><strong>Email:</strong> <a href="mailto:lhxu@ucdavis.edu">lhxu@ucdavis.edu</a></p>
     </div>
   </div>
-  
+
 </div>
----
 
 ## Alumni
 
-- **Junna Wang** – PhD (2018–2022). Dissertation: "Stability of Freshwater Ecosystems: Patterns and Mechanisms." Now an associate professor at Beijing Normal University (China).
-- **Danienl Kozar** – PhD (2018-2024). Dissertation: "Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics.".
-- **Brunno F. Oliveira** – Postdoctoral scholar (2020–2021), led the biodiversity project. Currently Postdoctoral Fellow at Centre de Synthèse et d’Analyse sur la Biodiversité (CESAB) – Fondation pour la Recherche sur la Biodiversité (FRB), France.
-- **Undergraduate Interns:** - Junna Faessel (2022-2023),Sara Weitzel (2023-2024),Jocelyn Rodriguez (2021), Rocio Venegas (2021), Paul Linderman (2023-2024), Benjamin Mineau (2024-2025), Joaquin Benitez (2025), Zoey Moffitt (2024), Ziqi Yang (2024). 
-
+<div style="margin-top: 20px; font-size: 1em; line-height: 1.6;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li><strong>Junna Wang</strong> – Ph.D. (2018–2022). Dissertation: *Stability of Freshwater Ecosystems: Patterns and Mechanisms*. Now Associate Professor at Beijing Normal University, China.</li>
+    <li><strong>Daniel Kozar</strong> – Ph.D. (2018–2024). Dissertation: *Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics*.</li>
+    <li><strong>Brunno F. Oliveira</strong> – Postdoctoral scholar (2020–2021), led the biodiversity project. Now Postdoctoral Fellow at CESAB – FRB, France.</li>
+    <li><strong>Undergraduate Interns:</strong> Junna Faessel (2022–2023), Sara Weitzel (2023–2024), Jocelyn Rodriguez (2021), Rocio Venegas (2021), Paul Linderman (2023–2024), Benjamin Mineau (2024–2025), Joaquin Benitez (2025), Zoey Moffitt (2024), Ziqi Yang (2024).</li>
+  </ul>
+</div>
