@@ -19,7 +19,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
+<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
   From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) a typical reactive-transport model to study Turing pattern formation of dryland vegetation; (C) dryland ecosystems featuring both vascular plants and biological soil crusts. 
 </p>
 
@@ -39,7 +39,7 @@ To better understand dryland spatial dynamics, we are developing new theories an
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
+<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
   From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) microbial communities forming cone structures; and (C) cross-section of a pinnacle ([read more](https://pubmed.ncbi.nlm.nih.gov/27474373/)).
 </p>
 
@@ -58,9 +58,10 @@ Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we a
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
 </div>
-<p style="text-align: center; font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 2px; margin-bottom: 20px;">
+<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
   From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes (from [Dong et al. 2024](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8)); (B) a riverine landscape shaped by vegetation–sediment-flow interactions.
 </p>
+
 
 Biological processes affect almost all landscapes on Earth. Their effects are perhaps most prominent in biogeomorphic landscapes such as coastal wetlands, sand dunes, and peatlands. The field of biogeomorphology has been built on observations of the strong influence of organisms on landscapes; however, biogeomorphic models seldom consider genetic or phenotypic changes of organisms, because evolution is perceived to take place slowly and across great distances. Thus, geomorphologists have often assumed that they could safely ignore evolution, especially at fine temporal and spatial scales. However, evidence from evolutionary biology has accumulated that populations can evolve meaningful changes on the same timescales at which they modify the landscape. 
 
@@ -76,7 +77,7 @@ The key realization to our argument is that evolutionary dynamics and landscape 
 
 <div style="text-align: center; margin-bottom: 1px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 70%; max-width: 800px;">
-  <p style="font-size: 0.85em; color: #555; line-height: 1.4; margin-top: 1px; margin-bottom: 20px;">
+  <p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
     Figure above: Causes and global distributions of plant extinction by 2081-2100. (a) Differences in projected plant extinction rates with realistic range shift velocity and unlimited dispersal are negligible. (b) Species at high risk of extinction are dominated by range-contracting plants and colonizing plants not subject to dispersal limitations. (c) Range shift velocity scenarios explained < 1% of variance in projected extinction rates, whereas choice of species distribution models (SDMs) explained most (60%) of the variance. (d) and (e) compares global distribution of plants at high extinction risk under medium (SSP245) and high (SSP585) emissions scenarios (paper under review).
   </p>
 </div>
