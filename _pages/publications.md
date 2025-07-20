@@ -11,7 +11,7 @@ permalink: /publications/
 <div class="publist-font" style="font-family: Georgia, serif; font-size: 1em;">
 
 <h3 style='margin-top: 1.2em;'>2025</h3>
-<p>Kozar, Daniel J., Zhang, Yu, Muneepeerakul, Rachata, Dong, Xiaoli. “<a href="https://doi.org/10.1002/eco.70028">Resilience at the Cost of Productivity: Biological Soil Crusts Mediate Vegetation Spatial Self-Organization in Drylands</a>.” <em>Ecohydrology</em> 18 (2025): e70028.</p>
+<p>Kozar DJ, Zhang Y, Muneepeerakul R, Dong X. “<a href="https://doi.org/10.1002/eco.70028">Resilience at the Cost of Productivity: Biological Soil Crusts Mediate Vegetation Spatial Self-Organization in Drylands</a>.” <em>Ecohydrology</em> 18 (2025): e70028.</p>
 
 <p>Chen PY, Dong X, Durand J, Yuan HW. “<a href="https://link.springer.com/article/10.1007/s13157-025-01954-4">Impact of Emergent Macrophyte Mowing on an Aquatic Insect Community in Urban Ponds: A Case Study in an Artificial Wetland in Southeast Asia</a>.” <em>Wetlands</em> 45 (2025): 1-13.</p>
 
@@ -22,7 +22,10 @@ permalink: /publications/
 <p>Xi H, Dong X, Chirayath V, Gleason AC, Purkis SJ. “<a href="https://link.springer.com/article/10.1007/s00338-024-02603-8">Emergent coral reef patterning via spatial self-organization</a>.” <em>Coral Reefs</em> 44 (2025): 273–289.</p>
 
 <h3 style='margin-top: 1.2em;'>2024</h3>
-<p>Dong, X., Stokes, Maya F., Hendry, Andrew P., Larsen, Laurel G., Dolby, Greer A. “<a href="https://doi.org/10.1016/j.tree.2024.06.012">Geo-evolutionary feedbacks: integrating rapid evolution and landscape change</a>.” <em>Trends in Ecology & Evolution</em> 39 (2024): 863–876.</p>
+<p>Dong X, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a href="https://doi.org/10.1016/j.tree.2024.06.012">Geo-evolutionary feedbacks: integrating rapid evolution and landscape change</a>.” <em>Trends in Ecology & Evolution</em> 39 (2024): 863–876.</p>
+
+<p>Lowman H, Blaszczak J, Cale A, Dong X, Earl S, Grabow J, Grimm NB, Harms TK, Melack J, Reinhold AM, Summers B, Webster AJ. “<a href="https://link.springer.com/article/10.1007/s10533-024-01154-y">Persistent and lagged effects of fire on stream solutes linked to intermittent precipitation in arid lands</a>.” <em>Biogeochemistry Letters</em> 167 (2024): 777–791.</p>
+
 
 <h3 style='margin-top: 1.2em;'>2023</h3>
 <p>Dong, Xiaoli, Martin, Jonathan B., Cohen, Matthew J., Tu, Tongbi. “<a href="https://doi.org/10.1038/s43247-023-01130-x">Bedrock mediates responses of ecosystem productivity to climate variability</a>.” <em>Communications Earth & Environment</em> 4 (2023): 114.</p>
