@@ -21,6 +21,13 @@ permalink: /team/
   border: none !important;
 }
 
+/* Make sure shadows are removed even if Bootstrap or another class adds it */
+img.team-photo.img-responsive {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* Role title font tweak */
 .role-title {
   font-size: 1.1em;
   font-weight: bold;
@@ -29,6 +36,7 @@ permalink: /team/
   color: #333;
 }
 </style>
+
 
 
 
