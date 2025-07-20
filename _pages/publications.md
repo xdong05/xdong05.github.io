@@ -54,17 +54,25 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% assign sorted_pubs = site.data.publist | sort: 'year' | reverse %}
-{% assign years = sorted_pubs | map: "year" | uniq %}
+{% assign pubs_with_years = site.data.publist %}
 
-{% for y in years %}
-<h4 style="margin-top: 30px;"><strong>{{ y }}</strong></h4>
+{% comment %}
+Extract years and sort publications descending by year
+{% endcomment %}
+{% assign pubs_sorted = pubs_with_years | sort: "link.display" | reverse %}
+{% assign all_years = pubs_sorted | map: "link.display" | map: "split: '('" | map: "last" | map: "replace: ')', ''" | uniq | sort | reverse %}
 
-  {% for publi in sorted_pubs %}
-    {% if publi.year == y %}
-      <p><strong>{{ publi.title }}</strong><br />
-      <em>{{ publi.authors }}</em><br />
-      <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+{% for y in all_years %}
+  <h3 style="margin-top: 30px;"><strong>{{ y }}</strong></h3>
+
+  {% for publi in pubs_sorted %}
+    {% assign year = publi.link.display | split: '(' | last | replace: ')', '' %}
+    {% if year == y %}
+      <p>
+        <strong>{{ publi.title | remove: '<b>' | remove: '</b>' }}</strong><br />
+        <em>{{ publi.authors }}</em><br />
+        <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+      </p>
     {% endif %}
   {% endfor %}
 
