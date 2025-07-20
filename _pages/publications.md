@@ -64,6 +64,12 @@ permalink: /publications/
 <p>Dong X, Murray AB, Heffernan JB. “<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072">Competition among Limestone Depressions Leads to Self-organized Regular Patterning on a Flat Landscape</a>.” <em>Journal of Geophysical Research - Earth Surface</em> 126 (2021): e2021JF006072.</p>
 
 
+<h3 style='margin-top: 1.2em;'>2020</h3>
+<p>Dong X. “<a href="https://www.frontiersin.org/articles/10.3389/fevo.2020.580447/full">A trait-based approach to self-organized pattern formation in ecology</a>.” <em>Frontiers in Ecology and Evolution</em> 8 (2020): 377.</p>
+
+<p>Dong X, Grimm NB, Heffernan JB, Muneepeerakul R. “<a href="https://link.springer.com/article/10.1007/s10021-019-00444-z">Interactions between Physical Template and Self-organization Shape Plant Dynamics in a Stream Ecosystem</a>.” <em>Ecosystems</em> 23 (2020): 891–905.</p>
+
+
 <h3 style='margin-top: 1.2em;'>2017</h3>
 <p>Dong, Xiaoli, Ruhí, Albert, Grimm, Nancy B. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Proceedings of the National Academy of Sciences</em> 114 (2017): E4744–E4752.</p>
 
