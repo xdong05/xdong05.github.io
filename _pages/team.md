@@ -49,7 +49,7 @@ permalink: /team/
     <div class="col-sm-8">
       <h2>Kushal Choudhary</h2>
       <p><strong>Postdoctoral Researcher</strong></p>
-      <p>Kushal's research focuses on .</p>
+      <p>Kushal recently joined the lab after completing his Ph.D. at IIT Madras, India, where his dissertation focused on interfacial instability between two fluids. As a postdoctoral researcher, Kushal is currently leading our project investigating the formation of modern stromatolites by benthic microbial communities in Antarctic lakes.</p>
       <p><strong>Email:</strong> <a href="mailto:kushalchoudhary432@gmail.com">kushalchoudhary432@gmail.com</a></p>
     </div>
   </div>
