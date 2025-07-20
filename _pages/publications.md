@@ -99,7 +99,7 @@ permalink: /publications/
 
 <p>Dong X, Grimm NB, Ogle K, Franklin J. “<a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12450">Inter-annual hydrological variability modified response of wetland distribution to geomorphology</a>.” <em>Journal of Ecology</em> 104 (2016): 18-30.</p>
 
-<p>Dong X, Muneepeerakul R, Olden JD, Lytle DA. “<a href="https://doi.org/10.1890/ES15-00100.1">The effect of spatial configuration of habitat capacity on β diversity</a>.” <em>Ecosphere</em> 6 (2015): 1–11.</p>
+<p>Dong X, Muneepeerakul R, Olden JD, Lytle DA. “<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/ES14-00497.1">The effect of spatial configuration of habitat capacity on β diversity</a>.” <em>Ecosphere</em> 6 (2015): 1–11.</p>
 
 <p>Gu B, Dong X, Peng C, Luo W, Chang J, Ge Y. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749112003430">The long-term impact of urbanization on nitrogen patterns and dynamics in Shanghai, China</a>.” <em>Environmental Pollution</em> 171 (2012): 30-37.</p>
 
