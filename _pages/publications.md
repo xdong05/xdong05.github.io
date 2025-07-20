@@ -35,8 +35,20 @@ permalink: /publications/
 
 <p>Wang J, Durand JR, Lawler SP, Chen PY, Dong X. “<a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12712?casa_token=eJbeofgEbvEAAAAA%3ArqlbGPxqggtoWHnwyPdC04p1pwasO4bFUs9dLH-QMACpGCW3GbZFXkh3mOs6ma5Lvwg5usP433v3v4o">Terrestrial support of wetland food webs via a dissolved inorganic carbon pathway</a>.” <em>Limnology and Oceanography</em> 69 (2024): 2815-2829.</p>
 
+
 <h3 style='margin-top: 1.2em;'>2023</h3>
 <p>Dong, Xiaoli, Martin, Jonathan B., Cohen, Matthew J., Tu, Tongbi. “<a href="https://doi.org/10.1038/s43247-023-01130-x">Bedrock mediates responses of ecosystem productivity to climate variability</a>.” <em>Communications Earth & Environment</em> 4 (2023): 114.</p>
+
+<p>Wang J, Grimm NB, Lawler SP, Dong X. “<a href="https://www.pnas.org/doi/10.1073/pnas.2218501120">Changing climate and reorganized species interactions modify community responses to climate variability</a>.” <em>PNAS</em> 120 (2023): e2218501120.</p>
+
+<p>Dong X. “<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2314908120">Fairy Circle Tales</a>.” <em>PNAS</em> 120 (2023): e2314908120.</p>
+
+<p>Dong X, de Richter D, Thompson A, Wang J. “<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2313487120">The primacy of temporal dynamics in driving spatial self-organization of soil iron redox patterns</a>.” <em>PNAS</em> 120 (2023): e2313487120.</p>
+
+<p>Kozar D, Dong X, Li L. “<a href="https://www.sciencedirect.com/science/article/pii/S0048969723039347">Recovery from Acid Rain in the Mississippi River Basin</a>.” <em>Science of The Total Environment</em> 897 (2023): 165311.</p>
+
+<p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, Caughman L, Clinton SM, Cook E, Dong X, Edmonds J, Gergel S, Gomez R, Hopkins K, Iwaniec DM, Kim Y, Kuhn A, Larson L, Lewis DB, Marti E, Palta M, Roach WJ, Ye L. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>.” <em>Journal of Hydrology</em> 616 (2023): 128841.</p>
+
 
 <h3 style='margin-top: 1.2em;'>2017</h3>
 <p>Dong, Xiaoli, Ruhí, Albert, Grimm, Nancy B. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Proceedings of the National Academy of Sciences</em> 114 (2017): E4744–E4752.</p>
