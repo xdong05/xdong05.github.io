@@ -52,13 +52,17 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-<div style="font-family: 'Georgia', serif; font-size: 1em;">
+{% capture publist %}
 ## Full List of Publications
 
 {% for publi in site.data.publist %}
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
-  
+**{{ publi.title | remove: '<b>' | remove: '</b>' }}**  
+<em>{{ publi.authors }}</em>  
+[{{ publi.link.display }}]({{ publi.link.url }})
+
 {% endfor %}
+{% endcapture %}
+
+<div style="font-family: 'Georgia', serif; font-size: 1em;">
+  {{ publist | markdownify }}
 </div>
