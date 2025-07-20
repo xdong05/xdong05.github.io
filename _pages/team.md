@@ -101,7 +101,7 @@ img.team-photo.img-responsive {
     <div class="col-sm-8">
       <h2>Malavika Venkatesh</h2>
       <p class="role-title">Graduate Student</p>
-      <p>Malavika is a Ph.D. student in the Graduate Group in Ecology. Her research explores collective behavior and the emergent properties of complex adaptive systems. She is the recipient of the 2025 Dean's Circle Fellowship.</p>
+      <p>Malavika is a Ph.D. student in the Graduate Group in Ecology. She is broadly interested in collective behaviors and the emergent properties of complex adaptive systems. Malavika is the recipient of the 2025 Dean's Circle Fellowship.</p>
       <p><strong>Email:</strong> <a href="mailto:malvenkatesh@ucdavis.edu">malvenkatesh@ucdavis.edu</a></p>
     </div>
   </div>
