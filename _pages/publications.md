@@ -54,9 +54,19 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.publist %}
+{% assign sorted_pubs = site.data.publist | sort: 'year' | reverse %}
+{% assign years = sorted_pubs | map: "year" | uniq %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% for y in years %}
+### {{ y }}
+
+{% for publi in sorted_pubs %}
+  {% if publi.year == y %}
+  <p><strong>{{ publi.title }}</strong><br />
+  <em>{{ publi.authors }}</em><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+  {% endif %}
+{% endfor %}
 
 {% endfor %}
+
