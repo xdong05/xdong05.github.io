@@ -10,7 +10,7 @@ permalink: /vacancies
 
 **We are currently recruiting PhD students and postdoctoral researchers to work on projects supported by two NSF-funded grants.**
 
-We are looking for new group members with passion, talent, and grit! Ideal candidates have a strong interest in theoretical ecology and are excited to use mathematical and computational approaches to tackle fundamental questions in spatial ecology. 
+We are looking for new group members with passion, talent, and grit! Ideal candidates have a strong interest in *theoretical ecology* and are excited to use *mathematical and computational approaches* to tackle fundamental questions in spatial ecology. 
 
 
 ### Open positions
