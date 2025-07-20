@@ -17,8 +17,8 @@ permalink: /team/
   width: 100%;
   max-width: 280px;
   border-radius: 6px;
-  box-shadow: none;
-  border: 1px solid #ccc;
+  box-shadow: none !important;
+  border: none !important;
 }
 .role-title {
   font-size: 1.2em;
@@ -27,6 +27,7 @@ permalink: /team/
   margin-bottom: 8px;
 }
 </style>
+
 
 ## Principal Investigator
 <div markdown="0">
