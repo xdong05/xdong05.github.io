@@ -12,11 +12,21 @@ permalink: /team/
 
 ---
 
+<style>
+.team-photo {
+  width: 100%;
+  max-width: 280px;
+  border-radius: 6px;
+  box-shadow: none;
+  border: 1px solid #ccc;
+}
+</style>
+
 ## Principal Investigator
 <div markdown="0">
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xiaoli.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xiaoli.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Xiaoli Dong</h2>
@@ -32,7 +42,7 @@ permalink: /team/
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/fern.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/fern.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Maria Fernanda Morales Aleman</h2>
@@ -44,7 +54,7 @@ permalink: /team/
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/kushal.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/kushal.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Kushal Choudhary</h2>
@@ -56,7 +66,7 @@ permalink: /team/
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Shawna Kelley</h2>
@@ -68,7 +78,7 @@ permalink: /team/
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Malavika Venkatesh</h2>
@@ -80,7 +90,7 @@ permalink: /team/
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Linhao Xu</h2>
@@ -102,4 +112,3 @@ permalink: /team/
     <li><strong>Undergraduate Interns:</strong> Junna Faessel (2022–2023), Sara Weitzel (2023–2024), Jocelyn Rodriguez (2021), Rocio Venegas (2021), Paul Linderman (2023–2024), Benjamin Mineau (2024–2025), Joaquin Benitez (2025), Zoey Moffitt (2024), Ziqi Yang (2024).</li>
   </ul>
 </div>
-
