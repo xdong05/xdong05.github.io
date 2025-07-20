@@ -70,6 +70,18 @@ permalink: /publications/
 <p>Dong X, Grimm NB, Heffernan JB, Muneepeerakul R. “<a href="https://link.springer.com/article/10.1007/s10021-019-00444-z">Interactions between Physical Template and Self-organization Shape Plant Dynamics in a Stream Ecosystem</a>.” <em>Ecosystems</em> 23 (2020): 891–905.</p>
 
 
+<h3 style='margin-top: 1.2em;'>2019</h3>
+<p>Chamberlin CA, Bianchi TS, Brown AL, Cohen MJ, Dong X, Flint MK, Martin JB, McLaughlin DL, Murray AB, Pain A, Quintero CJ, Ward ND, Zhang X, Heffernan JB. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0009254118302729">Mass balance implies Holocene development of a low-relief karst patterned landscape</a>.” <em> Chemical Geology</em> 527 (2019): 118782.</p>
+
+<p>Dong X, Cohen MJ, Martin JB, McLaughlin DL, Murray AB, Ward ND, Flint MK, Heffernan JB. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0009254118302419">Ecohydrologic processes and soil cover feedbacks control limestone-weathering rate in a karst landscape</a>.” <em> Chemical Geology</em> 527 (2019): 118774.</p>
+
+<p>Dong X, Fisher SG. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S1476945X18301508">Ecosystem self-organization: free order for nothing?</a>.” <em> Ecological Complexity</em> 38 (2019): 24-30.</p>
+
+<p>Corman R, Collins SL, Cook EM, Dong X, Gherardi LA, Grimm NB, Hale RL, Lin T, Ramos J, Reichmann LG, Sala OE. “<a href="https://link.springer.com/article/10.1007/s10021-018-0316-3">Foundations and frontiers of ecosystem science: Legacy of a classic paper (Odum 1969)</a>.” <em> Ecosystems</em> 22 (2019): 1160-1172.</p>
+
+
+<p>Dong x, Murray AB, Heffernan JB. “<a href="https://escholarship.org/content/qt1hw990xv/qt1hw990xv_noSplash_e37cbe7cc2bfeb5d4edd7a3a25954151.pdf">Ecohydrologic feedbacks controlling sizes of cypress wetlands in a patterned karst landscape</a>.” <em> Earth Surface Processes and Landforms</em> 44 (2019): 1178-1191.</p>
+
 <h3 style='margin-top: 1.2em;'>2017</h3>
 <p>Dong, Xiaoli, Ruhí, Albert, Grimm, Nancy B. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Proceedings of the National Academy of Sciences</em> 114 (2017): E4744–E4752.</p>
 
