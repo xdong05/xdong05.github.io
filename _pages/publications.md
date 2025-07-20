@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications ([Google Scholar](https://scholar.google.com/citations?user=TF4dKPoAAAAJ&hl=en))
 
-<div class="publist-font" style="font-family: Georgia, serif; font-size: 1em;">
+<div class="publist-font" style="font-family: 'Inter', sans-serif; font-size: 1em;">
 
 <h3 style='margin-top: 1.2em;'>2025</h3>
 <p>Kozar DJ, Zhang Y, Muneepeerakul R, Dong X. “<a href="https://doi.org/10.1002/eco.70028">Resilience at the Cost of Productivity: Biological Soil Crusts Mediate Vegetation Spatial Self-Organization in Drylands</a>.” <em>Ecohydrology</em> 18 (2025): e70028.</p>
