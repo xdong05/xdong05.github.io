@@ -52,12 +52,13 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+<div style="font-family: 'Georgia', serif; font-size: 1em;">
+## Full List of Publications
 
 {% for publi in site.data.publist %}
-
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <em>{{ publi.authors }} </em><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
+  
 {% endfor %}
-
+</div>
