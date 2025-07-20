@@ -93,7 +93,7 @@ permalink: /publications/
 
 <p>Dong X, Lytle DA, Olden JD, Schriever TA, Muneepeerakul R. “<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949">Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems</a>.” <em>PLoS ONE</em> 12 (2017): e0176949.</p>
 
-<p>Kelly PT, Bell T, Reisinger AJ, Spanbauer TL, Bortolotti LE, et al. “<a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10180">Ecological Dissertations in the Aquatic Sciences: An Effective Networking and Professional Development Opportunity for Early Career Aquatic Scientists</a>.” <em>Limnology and Oceanography Bulletin</em> 26 (2017): 25-30.</p>
+<p>Kelly PT, Bell T, Reisinger AJ, Spanbauer TL, Bortolotti LE, et al. “<a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10180">Ecological dissertations in the aquatic sciences: an effective networking and professional development opportunity for early career aquatic scientists</a>.” <em>Limnology and Oceanography Bulletin</em> 26 (2017): 25-30.</p>
 
 <p>Guy-Haim T, Alexander A, Bell TW, Bier RL, Bortolotti LE, et al. “<a href="https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-017-0084-0">What are the type, direction, and strength of species, community, and ecosystem responses to warming in aquatic mesocosm studies and their dependency on experimental characteristics? A systematic review protocol</a>.” <em>Environmental Evidence</em> 6 (2017): 6.</p>
 
