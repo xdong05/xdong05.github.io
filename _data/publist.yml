@@ -50,7 +50,7 @@
   authors: J Wang, NB Grimm, SP Lawler, X Dong
   link:
     url: https://www.pnas.org/doi/10.1073/pnas.2218501120
-    display: Proceedings of National Academy of Sciences (2023)
+    display: PNAS (2023)
   highlight: 1
   news1:   <a style="color:#cc0000" href="https://www.pnas.org/doi/abs/10.1073/pnas.2314444120">Commentary by Stephen T. Jackson</a>
 
@@ -60,7 +60,7 @@
   authors: X Dong
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.2314908120
-    display:  Proceedings of National Academy of Sciences (2023)
+    display:  PNAS (2023)
   highlight: 0
 
 - title: "<b> The Primacy of Temporal Dynamics in Driving Spatial Self-organization of Soil Redox Patterns </b>"
@@ -69,7 +69,7 @@
   authors: X Dong, D de Richter, A Thompson, J Wang
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.2313487120
-    display:  Proceedings of National Academy of Sciences (2023)
+    display:  PNAS (2023)
   highlight: 1
 
 - title: "<b> Recovery from Acid Rain in the Mississippi River Basin </b>"
@@ -237,7 +237,7 @@
   authors: X Dong, A Ruhi, NB Grimm
   link:
     url: https://www.pnas.org/doi/10.1073/pnas.1617571114
-    display: Proceedings of National Academy of Sciences (2017)
+    display: PNAS (2017)
   highlight: 1
 
 - title: "<b> Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems </b>"  
