@@ -8,11 +8,10 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our two NSF grants.**
+**We are currently recruiting PhD students and postdoctoral researchers to work on projects supported by two NSF-funded grants.**
 
-We are looking for new group members with passion, talent, and grit!
+We are looking for new group members with passion, talent, and grit! Ideal candidates have a strong interest in theoretical ecology and are excited to use mathematical and computational approaches to tackle fundamental questions in spatial ecology. 
 
-You will have the chance to work on creative researech related to spatial ecology and global change. We will work together to identify significant and interesting questions, constructing elegant mathematical models, performing big data analysis, designing clever experiments, and making discoveries.
 
 ### Open positions
 
@@ -28,7 +27,7 @@ We especially welcome postdocs with fellowships. I'd be happy to develop applica
 
 
 ### Master projects for UC Davis students
-If you are a Master student at UC Davis looking for a Master project, contact me by email.
+If you are a Master student at UC Davis looking for a Master project, please contact me by [email](mailto:xldong@ucdavis.edu).
 
 ### Bsc / Master students from elsewhere
 If you are interested in pursuing a Master degree at UC Davis. Sometimes, we take master students or summer interns if we get exceptional applicants.
