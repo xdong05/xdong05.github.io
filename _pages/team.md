@@ -13,15 +13,10 @@ permalink: /team/
 <div class="row" style="margin-bottom: 20px;">
   <div class="col-sm-6 clearfix">
     <div style="overflow: hidden;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jane_doe.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
-      <h4>Jane Doe</h4>
-      PhD Student, 2023– <br>
-      Email: <jane@ucdavis.edu> <br>
-      Research interests: Dryland vegetation dynamics, spatial ecology <br>
-      <ul>
-        <li>BS, Environmental Science, UC Berkeley</li>
-        <li>MS, Ecology, University of Arizona</li>
-      </ul>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xiaoli.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+      <h4>Xiaoli Dong</h4>
+      Associate Professor <br>
+      Email: <xldong@ucdavis.edu> <br>
     </div>
   </div>
 
@@ -29,10 +24,11 @@ permalink: /team/
     <div style="overflow: hidden;">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/john_smith.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
       <h4>John Smith</h4>
-      Postdoctoral Fellow <br>
+      Postdoctoral Fellow, 2024- <br>
       Email: <jsmith@ucdavis.edu> <br>
       Research interests: Pattern formation, ecohydrology <br>
       <ul>
+        <li>BS, Environmental Science, UC Berkeley</li>
         <li>PhD, Earth System Science, Stanford University</li>
       </ul>
     </div>
