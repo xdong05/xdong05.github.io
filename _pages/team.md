@@ -95,16 +95,9 @@ permalink: /team/
 ---
 
 ## Alumni
-<div markdown="0">
-  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
-    <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/brunno.jpeg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
-    </div>
-    <div class="col-sm-8">
-      <h2>XXXz</h2>
-      <p><strong>PhD 2020–2024</strong></p>
-      <p><strong>Current position:</strong> Postdoc at University of Michigan</p>
-      <p><em>Dissertation:</em> Modeling vegetation resilience under climate extremes</p>
-    </div>
-  </div>
-</div>
+
+- **Junna Wang** – PhD (2018–2022). Dissertation: "Stability of Freshwater Ecosystems: Patterns and Mechanisms." Now an associate professor at Beijing Normal University (China).
+- **Danienl Kozar** – PhD (2018-2024). Dissertation: "Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics.".
+- **Brunno F. Oliveira** – Postdoctoral scholar (2020–2021), led the biodiversity project. Currently Postdoctoral Fellow at Centre de Synthèse et d’Analyse sur la Biodiversité (CESAB) – Fondation pour la Recherche sur la Biodiversité (FRB), France.
+- **Undergraduate Interns:** - Junna Faessel (2022-2023),Sara Weitzel (2023-2024),Jocelyn Rodriguez (2021), Rocio Venegas (2021), Paul Linderman (2023-2024), Benjamin Mineau (2024-2025), Joaquin Benitez (2025), Zoey Moffitt (2024), Ziqi Yang (2024). 
+
