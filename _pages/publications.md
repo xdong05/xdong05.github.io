@@ -58,15 +58,16 @@ permalink: /publications/
 {% assign years = sorted_pubs | map: "year" | uniq %}
 
 {% for y in years %}
-### {{ y }}
+<h4 style="margin-top: 30px;"><strong>{{ y }}</strong></h4>
 
-{% for publi in sorted_pubs %}
-  {% if publi.year == y %}
-  <p><strong>{{ publi.title }}</strong><br />
-  <em>{{ publi.authors }}</em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
-  {% endif %}
+  {% for publi in sorted_pubs %}
+    {% if publi.year == y %}
+      <p><strong>{{ publi.title }}</strong><br />
+      <em>{{ publi.authors }}</em><br />
+      <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+    {% endif %}
+  {% endfor %}
+
 {% endfor %}
 
-{% endfor %}
 
