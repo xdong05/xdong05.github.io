@@ -8,76 +8,58 @@ permalink: /team/
 
 # Group Members
 
-**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+<div class="row" style="margin-bottom: 20px;">
+  <div class="col-sm-6 clearfix">
+    <div style="overflow: hidden;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jane_doe.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+      <h4>Jane Doe</h4>
+      PhD Student, 2023– <br>
+      Email: <jane@ucdavis.edu> <br>
+      Research interests: Dryland vegetation dynamics, spatial ecology <br>
+      <ul>
+        <li>BS, Environmental Science, UC Berkeley</li>
+        <li>MS, Ecology, University of Arizona</li>
+      </ul>
+    </div>
+  </div>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  {{ member.info }} <br>Email: <{{ member.email }}>
-  <br> {{ member.interest }}
-  <ul style="overflow: hidden">
-
-{% for edu in member.education %}
-  <li>{{ edu }}</li>
-{% endfor %}
-
-
-  </ul>
+  <div class="col-sm-6 clearfix">
+    <div style="overflow: hidden;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/john_smith.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+      <h4>John Smith</h4>
+      Postdoctoral Fellow <br>
+      Email: <jsmith@ucdavis.edu> <br>
+      Research interests: Pattern formation, ecohydrology <br>
+      <ul>
+        <li>PhD, Earth System Science, Stanford University</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+---
 
 ## Alumni
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+<div class="row" style="margin-bottom: 20px;">
+  <div class="col-sm-6 clearfix">
+    <div style="overflow: hidden;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alum_maria.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+      <h4>Maria Alvarez</h4>
+      PhD 2020–2024 <br>
+      Current position: Postdoc at University of Michigan <br>
+      Dissertation: *Modeling vegetation resilience under climate extremes*
+    </div>
+  </div>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  {{ member.duration }} <br> Current position: {{ member.info }}
-  <br> {{ member.diss }}
-  <ul style="overflow: hidden">
-
-  </ul>
+  <div class="col-sm-6 clearfix">
+    <div style="overflow: hidden;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alum_daniel.jpg" class="img-responsive" width="25%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+      <h4>Daniel Chen</h4>
+      MS 2021–2023 <br>
+      Current position: Environmental Analyst at NOAA <br>
+    </div>
+  </div>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
