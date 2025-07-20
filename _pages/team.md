@@ -20,13 +20,16 @@ permalink: /team/
   box-shadow: none !important;
   border: none !important;
 }
+
 .role-title {
-  font-size: 1.2em;
-  font-weight: 600;
-  font-family: Georgia, serif;
-  margin-bottom: 8px;
+  font-size: 1.1em;
+  font-weight: bold;
+  font-family: inherit;
+  margin-bottom: 6px;
+  color: #333;
 }
 </style>
+
 
 
 ## Principal Investigator
