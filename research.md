@@ -35,12 +35,12 @@ To better understand dryland spatial dynamics, we are developing new theories an
   Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
 </h3>
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 200px;">
 </div>
 <p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
-  From left to right: (A) microbial communities forming pinnacle structure on the lake floor; (B) microbial communities forming cone structures; and (C) cross-section of a pinnacle ([read more](https://pubmed.ncbi.nlm.nih.gov/27474373/)).
+  From left to right: (A) microbial communities forming cone structures on the lake floor in Antartic; (B) microbial communities forming pinnacle structure on the lake floor; and (C) cross-section of a pinnacle ([read more](https://pubmed.ncbi.nlm.nih.gov/27474373/)).
 </p>
 
 
@@ -84,7 +84,7 @@ The key realization to our argument is that evolutionary dynamics and landscape 
 
 In collaboration with [Dr. Francis Moore](https://franmoore.faculty.ucdavis.edu) and [Dr. Marc Conte](https://marcnconte.ace.fordham.edu), we are evaluating how climate change reshapes global plant distributions and biodiversity (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)).
 
-Using global species distribution models that account for dispersal limits and topographic barriers, we identify regions likely to lose or gain biodiversity, experience novel species assemblages, and host key migration corridors.
+Using global species distribution models that account for dispersal limitations, local environmental conditions, topographic complexity, and land cover, we investigate the role of plant range shifts in mitigating extinction rates and modifying biodiversity distributions globally. Additionally, we identify regions likely to lose or gain biodiversity, experience novel species assemblages, and host key migration corridors.
 
 We also integrate these ecological outcomes into <span style="font-weight: 600;">Integrated Assessment Models (IAMs)</span> to better quantify the <span style="font-weight: 600;">social cost of carbon</span>. See our results in [JUE (2023)](https://www.journals.uchicago.edu/doi/10.1086/716662) and [Nature (2023)](https://www.nature.com/articles/s41586-023-06769-z).
 
