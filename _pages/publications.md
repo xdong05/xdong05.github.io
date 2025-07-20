@@ -13,9 +13,9 @@ permalink: /publications/
 <h3 style='margin-top: 1.2em;'>2025</h3>
 <p>Dong X, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00316-1">Focus on geo-evolutionary feedbacks in contemporary times</a>.” <em>Trends in Ecology & Evolution</em> 40 (2025): 113-114.</p>
 
-<p>Kozar DJ, Zhang Y, Muneepeerakul R, Dong X. “<a href="https://doi.org/10.1002/eco.70028">Resilience at the Cost of Productivity: Biological Soil Crusts Mediate Vegetation Spatial Self-Organization in Drylands</a>.” <em>Ecohydrology</em> 18 (2025): e70028.</p>
+<p>Kozar DJ, Zhang Y, Muneepeerakul R, Dong X. “<a href="https://doi.org/10.1002/eco.70028">Resilience at the cost of productivity: biological soil crusts mediate vegetation spatial self-Organization in drylands</a>.” <em>Ecohydrology</em> 18 (2025): e70028.</p>
 
-<p>Chen PY, Dong X, Durand J, Yuan HW. “<a href="https://link.springer.com/article/10.1007/s13157-025-01954-4">Impact of Emergent Macrophyte Mowing on an Aquatic Insect Community in Urban Ponds: A Case Study in an Artificial Wetland in Southeast Asia</a>.” <em>Wetlands</em> 45 (2025): 1-13.</p>
+<p>Chen PY, Dong X, Durand J, Yuan HW. “<a href="https://link.springer.com/article/10.1007/s13157-025-01954-4">Impact of emergent macrophyte mowing on an aquatic insect community in urban ponds: a case study in an artificial wetland in Southeast Asia</a>.” <em>Wetlands</em> 45 (2025): 1-13.</p>
 
 <p>Harms TK, Lowman H, Blaszczak J, Cale A, Dong X, et al. “<a href="https://doi.org/10.1093/biosci/biaa001">Fire influence on land--water interactions in aridland catchments</a>.” <em>BioScience</em> 75 (2025): 30–46.</p>
 
@@ -31,7 +31,7 @@ permalink: /publications/
 
 <p>Wang J, Durand JR, Lawler SP, Chen PY, Dong X. “<a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12712?casa_token=eJbeofgEbvEAAAAA%3ArqlbGPxqggtoWHnwyPdC04p1pwasO4bFUs9dLH-QMACpGCW3GbZFXkh3mOs6ma5Lvwg5usP433v3v4o">Terrestrial support of wetland food webs via a dissolved inorganic carbon pathway</a>.” <em>Limnology and Oceanography</em> 69 (2024): 2815-2829.</p>
 
-<p>Kozar D, Weber B, Zhang Y, Dong X. “<a href="https://link.springer.com/article/10.1007/s10021-023-00898-2">Spatial Signatures of Biological Soil Crusts and Community Level Self-Organization in Drylands</a>.” <em>Ecosystems</em> 27 (2024): 443–461.</p>
+<p>Kozar D, Weber B, Zhang Y, Dong X. “<a href="https://link.springer.com/article/10.1007/s10021-023-00898-2">Spatial signatures of biological soil crusts and community level self-organization in drylands</a>.” <em>Ecosystems</em> 27 (2024): 443–461.</p>
 
 <p>Tu T, Wang J, Zhao G, Zhao T, Dong X. “<a href="https://www.sciencedirect.com/science/article/pii/S0022169424003548">Scaling from global to regional river flow with global hydrological models: Choice matters</a>.” <em>Journal of Hydrology</em> 633 (2024): 130960.</p>
 
@@ -62,7 +62,7 @@ permalink: /publications/
 
 
 <h3 style='margin-top: 1.2em;'>2021</h3>
-<p>Dong X, Murray AB, Heffernan JB. “<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072">Competition among Limestone Depressions Leads to Self-organized Regular Patterning on a Flat Landscape</a>.” <em>Journal of Geophysical Research - Earth Surface</em> 126 (2021): e2021JF006072.</p>
+<p>Dong X, Murray AB, Heffernan JB. “<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072">Competition among limestone depressions leads to self-organized regular patterning on a flat landscape</a>.” <em>Journal of Geophysical Research - Earth Surface</em> 126 (2021): e2021JF006072.</p>
 
 <p>Wang J, Bombardelli FA, Dong X. “<a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020WR028757">Physically based scaling models to predict gas transfer velocity in streams and rivers</a>.” <em>Water Resources Research</em> 57 (2021): e2020WR028757.</p>
 
@@ -70,7 +70,7 @@ permalink: /publications/
 <h3 style='margin-top: 1.2em;'>2020</h3>
 <p>Dong X. “<a href="https://www.frontiersin.org/articles/10.3389/fevo.2020.580447/full">A trait-based approach to self-organized pattern formation in ecology</a>.” <em>Frontiers in Ecology and Evolution</em> 8 (2020): 377.</p>
 
-<p>Dong X, Grimm NB, Heffernan JB, Muneepeerakul R. “<a href="https://link.springer.com/article/10.1007/s10021-019-00444-z">Interactions between Physical Template and Self-organization Shape Plant Dynamics in a Stream Ecosystem</a>.” <em>Ecosystems</em> 23 (2020): 891–905.</p>
+<p>Dong X, Grimm NB, Heffernan JB, Muneepeerakul R. “<a href="https://link.springer.com/article/10.1007/s10021-019-00444-z">Interactions between physical template and self-organization shape plant dynamics in a stream ecosystem</a>.” <em>Ecosystems</em> 23 (2020): 891–905.</p>
 
 
 <h3 style='margin-top: 1.2em;'>2019</h3>
