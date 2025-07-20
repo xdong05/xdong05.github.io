@@ -50,6 +50,13 @@ permalink: /publications/
 <p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, Caughman L, Clinton SM, Cook E, Dong X, Edmonds J, Gergel S, Gomez R, Hopkins K, Iwaniec DM, Kim Y, Kuhn A, Larson L, Lewis DB, Marti E, Palta M, Roach WJ, Ye L. “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>.” <em>Journal of Hydrology</em> 616 (2023): 128841.</p>
 
 
+<h3 style='margin-top: 1.2em;'>2022</h3>
+<p>Oliveira B, Moore FC, Dong X. “<a href="https://www.nature.com/articles/s42003-022-03573-9">Biodiversity mediates ecosystem sensitivity to climate variability</a>.” <em>Communications Biology</em> 5 (2022): 628.</p>
+
+<p>Dong X. “<a href="https://www.journals.uchicago.edu/doi/full/10.1086/719425">Evolution of plant niche construction traits in biogeomorphic landscapes</a>.” <em>The American Naturalist</em> 199 (2022): 758-775.</p>
+
+<p>Moore FC, Stokes A, Conte MN, Dong X. “<a href="https://www.journals.uchicago.edu/doi/10.1086/716662">Noah's Ark in a warming world: climate change, biodiversity loss and public adaptation costs in the United States</a>.” <em>Journal of the Association of Environmental and Resource Economists</em> 9 (2022): 981-1015.</p>
+
 <h3 style='margin-top: 1.2em;'>2017</h3>
 <p>Dong, Xiaoli, Ruhí, Albert, Grimm, Nancy B. “<a href="https://doi.org/10.1073/pnas.1702212114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <em>Proceedings of the National Academy of Sciences</em> 114 (2017): E4744–E4752.</p>
 
