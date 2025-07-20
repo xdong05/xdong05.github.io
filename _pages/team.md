@@ -37,10 +37,11 @@ permalink: /team/
     <div class="col-sm-8">
       <h2>Maria Fernanda Morales Aleman</h2>
       <p><strong>Graduate Student</strong></p>
-      <p>Fern is a Master Student in the Hydrological Sciences Graduate Group and a Fulbright Scholar. She is interested in dryland ecosystems under global change and the consequences on groundwater and water resources.</p>
+      <p>Fern is a Master's student in the Hydrological Sciences Graduate Group and a Fulbright Scholar. Her research focuses on dryland ecosystems under global change, with an emphasis on the implications for groundwater and water resources.</p>
       <p><strong>Email:</strong> <a href="mailto:mfmoralesaleman@ucdavis.edu">mfmoralesaleman@ucdavis.edu</a></p>
     </div>
   </div>
+
 
     <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
@@ -50,6 +51,19 @@ permalink: /team/
       <h2>Kushal Choudhary</h2>
       <p><strong>Postdoctoral Researcher</strong></p>
       <p>Kushal's research focuses on .</p>
+      <p><strong>Email:</strong> <a href="mailto:kushalchoudhary432@gmail.com">kushalchoudhary432@gmail.com</a></p>
+    </div>
+  </div>
+
+    <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+    <div class="col-sm-4">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" style="width: 100%; max-width: 280px; border-radius: 6px;" />
+    </div>
+    <div class="col-sm-8">
+      <h2>Shawna Kelley</h2>
+      <p><strong>Graduate Student</strong></p>
+      <p>Shawna is a Master's student in the Graduate Group in Ecology. Her research interests lie broadly in biogeochemistry, with a focus on the role of microtopography in vegetation pattern formation in dryland ecosystems.</p>
+      <p><strong>Email:</strong> <a href="mailto:slkelley@ucdavis.edu">slkelley@ucdavis.edu</a></p>
     </div>
   </div>
   
