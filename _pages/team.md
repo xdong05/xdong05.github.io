@@ -108,7 +108,7 @@ img.team-photo.img-responsive {
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive team-photo" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/linhao.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Linhao Xu</h2>
