@@ -23,7 +23,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
   From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) a typical reactive-transport model to study Turing pattern formation of dryland vegetation; (C) dryland ecosystems featuring both vascular plants and biological soil crusts. 
 </p>
 
-As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in *predictable* ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and climate-sensitive, have been a model system for developing this theory.
+As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in *predictable* ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and sensitive, have been a model system for developing this theory.
 
 The prevailing dryland models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare-soil state. However, such patterns only appear in a small fraction of drylands globally. A likely reason is that current models overlook a crucial ecological component—species interactions, particularly the role of <span style="font-weight: 600;">biological soil crusts (biocrusts)</span> in the case of drylands.
 
@@ -44,9 +44,9 @@ To better understand dryland spatial dynamics, we are developing new theories an
 </p>
 
 
-Beneath permanent ice and meters of liquid water in many Antarctic lakes reside structurally complex arrays of spatially self-organized microbial mats,  forming pinnacles, cones, or hexagonal structures (<span style="font-weight: 600;">[modern stromatolites](https://en.wikipedia.org/wiki/Stromatolite)</span>). These unique ecosystems are now being reshaped by climate change. We are developing models to predict how climate-driven changes—particularly the reduction or loss of summer ice cover—might affect, or may have already affected, benthic microbial communities. By integrating the morphology and spatial patterning of these modern stromatolites with their biophysical and biochemical environments, we aim to refine our understanding of the controls on microbial community organization. This, in turn, will improve interpretations of *ancient stromatolites* in the geologic record and shed light on key questions about Earth’s evolutionary and environmental history.
+Beneath permanent ice and meters of liquid water in many Antarctic lakes reside structurally complex arrays of spatially self-organized microbial mats,  forming pinnacles, cones, or hexagonal structures (<span style="font-weight: 600;">[modern stromatolites](https://en.wikipedia.org/wiki/Stromatolite)</span>). These unique ecosystems are now being reshaped by global change. We are developing models to predict how environmental changes—particularly the reduction or loss of summer ice cover—might affect, or may have already affected, benthic microbial communities. By integrating the morphology and spatial patterning of these modern stromatolites with their biophysical and biochemical environments, we aim to refine our understanding of the controls on microbial community organization. This, in turn, will improve interpretations of *ancient stromatolites* in the geologic record and shed light on key questions about Earth’s evolutionary and environmental history.
 
-Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under climate change. 
+Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under warming. 
  
 <div style="margin-top: 60px;"></div>
 
@@ -72,7 +72,7 @@ The key realization to our argument is that evolutionary dynamics and landscape 
 
 <div style="margin-top: 60px;"></div>
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Global Plant Range Shifts under Climate Change
+  Global Plant Range Shifts under Global Change
 </h3>
 
 <div style="text-align: center; margin-bottom: 1px;">
