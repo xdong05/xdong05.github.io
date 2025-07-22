@@ -20,6 +20,8 @@ You can find more information about openings on these projects here:
 (2) [Postdoc positions on dryland spatial patterns]({{ site.baseurl }}/downloads/BSC_postdoc.pdf),and
 (3) [Postdoc positions on microbial pattern formation in Antarctic lakes]({{ site.baseurl }}/downloads/ANT_postdoc.pdf).
 
+In addition to these specific opportunities, I welcome inquiries from those broadly interested in the topics we explore in our lab. I'm always excited to collaborate on new research ideas, projects, and directions.
+
 ### Applications for PhD and Postdoc positions
 If you are interested in working with me as a PhD student or postdoctoral researcher, please send me an [email](mailto:xldong@ucdavis.edu). State briefly why you are interested and attach a CV. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
