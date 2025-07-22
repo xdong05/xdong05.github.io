@@ -8,13 +8,10 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently recruiting PhD students and postdoctoral researchers to work on projects supported by two NSF-funded grants.**
-
 We are looking for new group members with passion, talent, and grit! Ideal candidates have a strong interest in *theoretical ecology* and are excited to use *mathematical and computational approaches* to tackle fundamental questions in spatial ecology. 
 
 
 ### Open positions
-
 We currently have several exciting research opportunities available:
 (1) [PhD positions on spatial ecology]({{ site.baseurl }}/downloads/PHD.pdf),
 (2) [Postdoc positions on dryland spatial patterns]({{ site.baseurl }}/downloads/BSC_postdoc.pdf),and
