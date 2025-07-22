@@ -23,7 +23,7 @@ We currently have several exciting research opportunities available:
 > **In addition to these specific opportunities, I welcome inquiries from those broadly interested in the topics we explore in our lab. I'm always excited to collaborate on new research ideas, projects, and directions.**
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with me as a PhD student or postdoctoral researcher, please send me an [email](mailto:xldong@ucdavis.edu). State briefly why you are interested and attach a CV. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with me as a PhD student or postdoctoral researcher, please send me an [email](mailto:xldong@ucdavis.edu). State briefly why you are interested and attach a CV. **Important**: if you are applying to a specific advertisement, note that in your email.
 
 I can take on graduate students through [Graduate Group in Ecology (GGE)](https://ecology.ucdavis.edu/admissions), [Graduate Group in Applied Mathematics (GGAM)](https://appliedmath.ucdavis.edu/graduate), [Population Biology Graduate Group (PBGG)](https://pbg.ucdavis.edu/apply), and [Hydrological Sciences Graduate Group (HSGG)](https://www.hsgg.ucdavis.edu). Please feel free to contact me to discuss which program may be the best fit for your interests. 
 
