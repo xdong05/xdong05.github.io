@@ -113,7 +113,7 @@ img.team-photo.img-responsive {
     <div class="col-sm-8">
       <h2>Linhao Xu</h2>
       <p class="role-title">Postdoctoral Researcher</p>
-      <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience, and alternative stable states.</p>
+      <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience, long transient dynamics, and alternative stable states. As a postdoctral fellow, she is currently leading our project investigating vegetation pattern formation in drylands. </p>
       <p><strong>Email:</strong> <a href="mailto:lhxu@ucdavis.edu">lhxu@ucdavis.edu</a></p>
     </div>
   </div>
