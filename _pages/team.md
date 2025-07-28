@@ -90,7 +90,7 @@ img.team-photo.img-responsive {
       <h2>Stanley Dai</h2>
       <p class="role-title">Graduate Student</p>
       <p>Stanley is a Master’s student in the Graduate Program in Statistics. His research interests center on spatial statistics and spatial modeling, with a particular focus on applications to environmental challenges. </p>
-      <p><strong>Email:</strong> <a href="mailto:slkelley@ucdavis.edu">slkelley@ucdavis.edu</a></p>
+      <p><strong>Email:</strong> <a href="mailto:shdai@ucdavis.edu">shdai@ucdavis.edu</a></p>
     </div>
   </div>
 
