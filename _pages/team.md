@@ -84,6 +84,19 @@ img.team-photo.img-responsive {
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/stanley.jpg" class="img-responsive team-photo" />
+    </div>
+    <div class="col-sm-8">
+      <h2>Shawna Kelley</h2>
+      <p class="role-title">Graduate Student</p>
+      <p>Stanley is a Master’s student in the Graduate Program in Statistics. His research interests center on spatial statistics and spatial modeling, with a particular focus on applications to environmental challenges. </p>
+      <p><strong>Email:</strong> <a href="mailto:slkelley@ucdavis.edu">slkelley@ucdavis.edu</a></p>
+    </div>
+  </div>
+
+
+  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+    <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
