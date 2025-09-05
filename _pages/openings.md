@@ -12,12 +12,9 @@ We are looking for new group members with passion, talent, and grit! Ideal candi
 
 
 ### Current Opportunities
-We currently have several exciting research opportunities available:
-(1) [PhD positions on spatial ecology]({{ site.baseurl }}/downloads/PHD.pdf),
-(2) [Postdoc positions on dryland spatial patterns]({{ site.baseurl }}/downloads/BSC_postdoc.pdf),and
-(3) [Postdoc positions on microbial pattern formation in Antarctic lakes]({{ site.baseurl }}/downloads/ANT_postdoc.pdf).
+I am currently recruiting for a fully funded [PhD position]({{ site.baseurl }}/downloads/PHD.pdf). Applicants with broad interests in theoretical ecology, ecohydrology, or biogeomorphology are especially encouraged to apply.
 
-> **In addition to these specific opportunities, I welcome inquiries from those broadly interested in the topics we explore in our lab. I'm always excited to collaborate on new research ideas, projects, and directions.**
+> **I welcome inquiries from those broadly interested in the topics we explore in our lab. I’m always excited to explore new ideas, projects, and directions together.**
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with me as a PhD student or postdoctoral researcher, please send me an [email](mailto:xldong@ucdavis.edu). State briefly why you are interested and attach a CV. **Important**: if you are applying to a specific advertisement, note that in your email.
