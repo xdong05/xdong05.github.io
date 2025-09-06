@@ -29,7 +29,7 @@ We especially welcome postdocs with fellowships. I'd be happy to develop applica
 If you are a Master student at UC Davis looking for a Master project, please contact me by [email](mailto:xldong@ucdavis.edu).
 
 ### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at UC Davis. Sometimes, we take master students or summer interns if we get exceptional applicants.
+If you are interested in pursuing a Master degree at UC Davis, sometimes, we take master students or summer interns if we get exceptional applicants.
 
 
 <figure>
