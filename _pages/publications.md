@@ -19,7 +19,7 @@ permalink: /publications/
 
 <p>Harms TK, Lowman H, Blaszczak J, Cale A, Dong X, et al. “<a target="_blank" rel="noopener noreferrer" href="https://academic.oup.com/bioscience/article/75/1/30/7950356">Fire influence on land--water interactions in aridland catchments</a>.” <em>BioScience</em> 75 (2025): 30–46.</p>
 
-<p>Patterson NK, Dong X, Lane BA, Csank A, Rood SB, Sandoval-Solis S. “<a target="_blank" rel="noopener noreferrer" href="[https://academic.oup.com/bioscience/article/75/1/30/7950356](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70098)">Dendrochronology reveals the response of a riparian forest to water management in an arid river basin</a>.” <em>Ecological Applications</em> (2025).</p>
+<p>Patterson NK, Dong X, Lane BA, Csank A, Rood SB, Sandoval-Solis S. “<a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1002/eap.70098">Dendrochronology reveals the response of a riparian forest to water management in an arid river basin</a>.” <em>Ecological Applications</em> (2025).</p>
 
 <p>Xi H, Dong X, Chirayath V, Gleason AC, Purkis SJ. “<a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s00338-024-02603-8">Emergent coral reef patterning via spatial self-organization</a>.” <em>Coral Reefs</em> 44 (2025): 273–289.</p>
 
