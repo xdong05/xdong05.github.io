@@ -60,18 +60,6 @@ img.team-photo.img-responsive {
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/fernNew.jpg" class="img-responsive team-photo" />
-    </div>
-    <div class="col-sm-8">
-      <h2>Maria Fernanda Morales Aleman</h2>
-      <p class="role-title">Graduate Student</p>
-      <p>Fern is a Master's student in the Hydrological Sciences Graduate Group and a Fulbright Scholar. Her research focuses on dryland ecosystems under global change, with an emphasis on the implications for groundwater and water resources. Learn more <a href="https://www.youtube.com/watch?v=O9FnDz-lK6E" target="_blank">here</a>.</p>
-      <p><strong>Email:</strong> <a href="mailto:mfmoralesaleman@ucdavis.edu">mfmoralesaleman@ucdavis.edu</a></p>
-    </div>
-  </div>
-
-  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
-    <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/kushal.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
