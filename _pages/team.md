@@ -125,7 +125,7 @@ img.team-photo.img-responsive {
 
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li><strong>Daniel Kozar</strong> – Ph.D. (2019–2024). Dissertation: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028" target="_blank">Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics</a>.</li>
+    <li><strong>Daniel Kozar</strong> – Ph.D. (2019–2024). Dissertation: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028" target="_blank">Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics</a>. Now postdoctoral researcher at University of Graz, Austria. </li>
     <li><strong>Junna Wang</strong> – Ph.D. (2019–2023). Dissertation: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2218501120" target="_blank">Stability of Freshwater Ecosystems: Patterns and Mechanisms</a>. Now Associate Professor at Beijing Normal University, China.</li>
     <li><strong>Brunno F. Oliveira</strong> – Postdoctoral scholar (2020–2021), contributed to the <a href="https://www.nature.com/articles/s42003-022-03573-9" target="_blank">biodiversity project</a>. Now Postdoctoral Fellow at CESAB – FRB, France.</li>
     <li><strong>Undergraduate Interns:</strong> Joaquin Benitez (2025), Junna Faessel (2022–2023), Paul Linderman (2023–2024), Benjamin Mineau (2024–2025), Zoey Moffitt (2024), Jocelyn Rodriguez (2021), Rocio Venegas (2021), Sara Weitzel (2023–2024), Ziqi Yang (2024).</li>
