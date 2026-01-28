@@ -66,7 +66,6 @@ img.team-photo.img-responsive {
       <h2>Kushal Choudhary</h2>
       <p class="role-title">Postdoctoral Researcher</p>
       <p>Kushal recently joined the lab after completing his Ph.D. at IIT Madras, India, where his dissertation focused on interfacial instability between two fluids. As a postdoctoral researcher, Kushal is currently leading our project investigating the pattern formation of modern stromatolites by benthic microbial communities in Antarctic lakes.</p>
-      <p><strong>Email:</strong> <a href="mailto:kpchoudhary@ucdavis.edu">kpchoudhary@ucdavis.edu</a></p>
     </div>
   </div>
 
@@ -78,7 +77,6 @@ img.team-photo.img-responsive {
       <h2>Stanley Dai</h2>
       <p class="role-title">Graduate Student</p>
       <p>Stanley is a Master’s student in the Graduate Program in Statistics. His research interests center on spatial statistics and spatial modeling, with a particular focus on applications to environmental challenges. </p>
-      <p><strong>Email:</strong> <a href="mailto:shdai@ucdavis.edu">shdai@ucdavis.edu</a></p>
     </div>
   </div>
 
@@ -91,7 +89,6 @@ img.team-photo.img-responsive {
       <h2>Shawna Kelley</h2>
       <p class="role-title">Graduate Student</p>
       <p>Shawna is a Master's student in the Graduate Group in Ecology. Her research interests lie broadly in biogeochemistry, with a focus on the role of microtopography in vegetation pattern formation in dryland ecosystems.</p>
-      <p><strong>Email:</strong> <a href="mailto:slkelley@ucdavis.edu">slkelley@ucdavis.edu</a></p>
     </div>
   </div>
 
@@ -103,7 +100,6 @@ img.team-photo.img-responsive {
       <h2>Malavika Venkatesh</h2>
       <p class="role-title">Graduate Student</p>
       <p>Malavika is a Ph.D. student in the Graduate Group in Ecology. She is broadly interested in collective behaviors and the emergent properties of complex adaptive systems. Malavika is the recipient of the 2025 Dean's Circle Fellowship.</p>
-      <p><strong>Email:</strong> <a href="mailto:malvenkatesh@ucdavis.edu">malvenkatesh@ucdavis.edu</a></p>
     </div>
   </div>
 
@@ -115,7 +111,6 @@ img.team-photo.img-responsive {
       <h2>Linhao Xu</h2>
       <p class="role-title">Postdoctoral Researcher</p>
       <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience, long transient dynamics, and alternative stable states. As a postdoctral fellow, she is currently leading our project investigating vegetation pattern formation in drylands. </p>
-      <p><strong>Email:</strong> <a href="mailto:lhxu@ucdavis.edu">lhxu@ucdavis.edu</a></p>
     </div>
   </div>
 
