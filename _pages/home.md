@@ -70,7 +70,7 @@ We are a research group in **Spatial Ecology and theory of pattern formation** i
 
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
-  We are always looking for creative, motivated students and postdocs who are passionate about ecological theory, [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem), and [significant work](https://paulgraham.com/greatwork.html) —and unafraid to cross disciplinary boundaries
+  We are always looking for creative, motivated students and postdocs who are passionate about ecological theory, [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem), and [significant work](https://paulgraham.com/greatwork.html) — and unafraid to cross disciplinary boundaries
   <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="font-weight: 600; text-decoration: none;">(more info)</a>!
 </p>
 
