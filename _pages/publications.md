@@ -17,7 +17,7 @@ permalink: /publications/
 <h3 style='margin-top: 1.2em;'>2026</h3>
 <p><span class="lab-author">Wang J</span>, <span class="lab-author">Oliveira BF</span>, Moore FC, <span class="lab-author">Kozar DJ</span>, Fu Y, <span class="pi-author">Dong X</span>. <a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>. <span class="journal">Science</span> 392 (2026): 648-654.</p>
 
-<p>Dixon DJ, Das AJ, <span class="pi-author">Dong X</span>, Latimer AM, Soderberg DN, Stephenson NL, Caprio AC, Jin Y. <a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41467-026-75418-6">Previous prescribed burns saved thousands of ancient sequoias during historically unprecedented wildfires</a>. <span class="journal">Nature Communications</span> (accepted).</p>
+<p>Dixon DJ, Das AJ, <span class="pi-author">Dong X</span>, Latimer AM, Soderberg DN, Stephenson NL, Caprio AC, Jin Y. <a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41467-026-75418-6">Previous prescribed burns saved thousands of ancient sequoias during historically unprecedented wildfires</a>. <span class="journal">Nature Communications</span> (2026).</p>
 
 <h3 style='margin-top: 1.2em;'>2025</h3>
 <p><span class="pi-author">Dong X</span>, Stokes MF, Hendry AP, Larsen LG, Dolby GA. <a target="_blank" rel="noopener noreferrer" href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00316-1">Focus on geo-evolutionary feedbacks in contemporary times</a>. <span class="journal">Trends in Ecology & Evolution</span> 40 (2025): 113-114.</p>
@@ -28,7 +28,7 @@ permalink: /publications/
 
 <p>Harms TK, Lowman H, Blaszczak J, Cale A, <span class="pi-author">Dong X</span>, et al. <a target="_blank" rel="noopener noreferrer" href="https://academic.oup.com/bioscience/article/75/1/30/7950356">Fire influence on land--water interactions in aridland catchments</a>. <span class="journal">BioScience</span> 75 (2025): 30–46.</p>
 
-<p>Patterson NK, <span class="pi-author">Dong X</span>, Lane BA, Csank A, Rood SB, Sandoval-Solis S. <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1002/eap.70098">Dendrochronology reveals the response of a riparian forest to water management in an arid river basin</a>. <span class="journal">Ecological Applications</span> (2025).</p>
+<p>Patterson NK, <span class="pi-author">Dong X</span>, Lane BA, Csank A, Rood SB, Sandoval-Solis S. <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1002/eap.70098">Dendrochronology reveals the response of a riparian forest to water management in an arid river basin</a>. <span class="journal">Ecological Applications</span> 35 (2025): e70098</p>
 
 <p>Xi H, <span class="pi-author">Dong X</span>, Chirayath V, Gleason AC, Purkis SJ. <a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s00338-024-02603-8">Emergent coral reef patterning via spatial self-organization</a>. <span class="journal">Coral Reefs</span> 44 (2025): 273–289.</p>
 
