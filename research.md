@@ -72,7 +72,7 @@ The key realization to our argument is that evolutionary dynamics and landscape 
 
 <div style="margin-top: 60px;"></div>
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Global Plant Range Shifts under Global Change
+  Global Plant Range Shifts under Global Climate Change
 </h3>
 
 <div style="text-align: center; margin-bottom: 1px;">
