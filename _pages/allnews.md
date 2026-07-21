@@ -9,8 +9,6 @@ permalink: /allnews.html
 <h1>News</h1>
 
 {% for article in site.data.news %}
-<div class="news-item">
-<div class="news-date">{{ article.date }}</div>
-<div class="news-headline">{{ article.headline }}</div>
-</div>
+<p class="news-date">{{ article.date }}</p>
+<p class="news-headline">{{ article.headline }}</p>
 {% endfor %}
