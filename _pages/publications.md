@@ -15,14 +15,14 @@ permalink: /publications/
 <div class="publist-font" style="font-family: 'Inter', sans-serif; font-size: 1em;">
 
 <h3 style='margin-top: 1.2em;'>2026</h3>
-<p><u>Wang J</u>, <u>Oliveira BF</u>, Moore FC, <u>Kozar DJ</u>, Fu Y, <span class="pi-author">Dong X</span>. <a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>. <span class="journal">Science</span> 392 (2026): 648-654.</p>
+<p><span class="lab-author">Wang J</span>, <span class="lab-author">Oliveira BF</span>, Moore FC, <span class="lab-author">Kozar DJ</span>, Fu Y, <span class="pi-author">Dong X</span>. <a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>. <span class="journal">Science</span> 392 (2026): 648-654.</p>
 
 <p>Dixon DJ, Das AJ, <span class="pi-author">Dong X</span>, Latimer AM, Soderberg DN, Stephenson NL, Caprio AC, Jin Y. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41467-026-75418-6">Previous prescribed burns saved thousands of ancient sequoias during historically unprecedented wildfires</a>.” <span class="journal">Nature Communications</span> (accepted).</p>
 
 <h3 style='margin-top: 1.2em;'>2025</h3>
 <p><span class="pi-author">Dong X</span>, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a target="_blank" rel="noopener noreferrer" href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00316-1">Focus on geo-evolutionary feedbacks in contemporary times</a>.” <span class="journal">Trends in Ecology & Evolution</span> 40 (2025): 113-114.</p>
 
-<p><u>Kozar DJ</u>, Zhang Y, Muneepeerakul R, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/eco.70028">Resilience at the cost of productivity: biological soil crusts mediate vegetation spatial self-Organization in drylands</a>.” <span class="journal">Ecohydrology</span> 18 (2025): e70028.</p>
+<p><span class="lab-author">Kozar DJ</span>, Zhang Y, Muneepeerakul R, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/eco.70028">Resilience at the cost of productivity: biological soil crusts mediate vegetation spatial self-Organization in drylands</a>.” <span class="journal">Ecohydrology</span> 18 (2025): e70028.</p>
 
 <p>Chen PY, <span class="pi-author">Dong X</span>, Durand J, Yuan HW. “<a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s13157-025-01954-4">Impact of emergent macrophyte mowing on an aquatic insect community in urban ponds: a case study in an artificial wetland in Southeast Asia</a>.” <span class="journal">Wetlands</span> 45 (2025): 1-13.</p>
 
@@ -38,9 +38,9 @@ permalink: /publications/
 
 <p>Bastien-Olvera BA, Conte MN, <span class="pi-author">Dong X</span>, Briceno T, Batker D, Emmerling J, Tavoni M, Granella F, Moore FC. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41586-023-06769-z">Unequal climate impacts on global values of natural capital</a>.” <span class="journal">Nature</span> 625 (2024): 722–727.</p>
 
-<p><u>Wang J</u>, Durand JR, Lawler SP, Chen PY, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12712?casa_token=eJbeofgEbvEAAAAA%3ArqlbGPxqggtoWHnwyPdC04p1pwasO4bFUs9dLH-QMACpGCW3GbZFXkh3mOs6ma5Lvwg5usP433v3v4o">Terrestrial support of wetland food webs via a dissolved inorganic carbon pathway</a>.” <span class="journal">Limnology and Oceanography</span> 69 (2024): 2815-2829.</p>
+<p><span class="lab-author">Wang J</span>, Durand JR, Lawler SP, Chen PY, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12712?casa_token=eJbeofgEbvEAAAAA%3ArqlbGPxqggtoWHnwyPdC04p1pwasO4bFUs9dLH-QMACpGCW3GbZFXkh3mOs6ma5Lvwg5usP433v3v4o">Terrestrial support of wetland food webs via a dissolved inorganic carbon pathway</a>.” <span class="journal">Limnology and Oceanography</span> 69 (2024): 2815-2829.</p>
 
-<p><u>Kozar D</u>, Weber B, Zhang Y, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s10021-023-00898-2">Spatial signatures of biological soil crusts and community level self-organization in drylands</a>.” <span class="journal">Ecosystems</span> 27 (2024): 443–461.</p>
+<p><span class="lab-author">Kozar DJ</span>, Weber B, Zhang Y, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s10021-023-00898-2">Spatial signatures of biological soil crusts and community level self-organization in drylands</a>.” <span class="journal">Ecosystems</span> 27 (2024): 443–461.</p>
 
 <p>Tu T, Wang J, Zhao G, Zhao T, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0022169424003548">Scaling from global to regional river flow with global hydrological models: Choice matters</a>.” <span class="journal">Journal of Hydrology</span> 633 (2024): 130960.</p>
 
@@ -49,15 +49,15 @@ permalink: /publications/
 
 
 <h3 style='margin-top: 1.2em;'>2023</h3>
-<p><span class="pi-author">Dong X</span>, de Richter D, Thompson A, <u>Wang J</u>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2313487120">The primacy of temporal dynamics in driving spatial self-organization of soil iron redox patterns</a>.” <span class="journal">Proceedings of the National Academy of Sciences</span> 120 (2023): e2313487120.</p>
+<p><span class="pi-author">Dong X</span>, de Richter D, Thompson A, <span class="lab-author">Wang J</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2313487120">The primacy of temporal dynamics in driving spatial self-organization of soil iron redox patterns</a>.” <span class="journal">Proceedings of the National Academy of Sciences</span> 120 (2023): e2313487120.</p>
 
 <p><span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2314908120">Fairy Circle Tales</a>.” <span class="journal">Proceedings of the National Academy of Sciences</span> 120 (2023): e2314908120.</p>
 
 <p><span class="pi-author">Dong X</span>, Martin JB, Cohen MJ, Tu T. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s43247-023-00773-x">Bedrock mediates responses of ecosystem productivity to climate variability</a>.” <span class="journal">Communications Earth & Environment</span> 4 (2023): 114.</p>
 
-<p><u>Wang J</u>, Grimm NB, Lawler SP, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.2218501120">Changing climate and reorganized species interactions modify community responses to climate variability</a>.” <span class="journal">Proceedings of the National Academy of Sciences</span> 120 (2023): e2218501120.</p>
+<p><span class="lab-author">Wang J</span>, Grimm NB, Lawler SP, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.2218501120">Changing climate and reorganized species interactions modify community responses to climate variability</a>.” <span class="journal">Proceedings of the National Academy of Sciences</span> 120 (2023): e2218501120.</p>
 
-<p><u>Kozar D</u>, <span class="pi-author">Dong X</span>, Li L. “<a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0048969723039347">Recovery from Acid Rain in the Mississippi River Basin</a>.” <span class="journal">Science of The Total Environment</span> 897 (2023): 165311.</p>
+<p><span class="lab-author">Kozar D</span>, <span class="pi-author">Dong X</span>, Li L. “<a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0048969723039347">Recovery from Acid Rain in the Mississippi River Basin</a>.” <span class="journal">Science of The Total Environment</span> 897 (2023): 165311.</p>
 
 <p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, et al. “<a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>.” <span class="journal">Journal of Hydrology</span> 616 (2023): 128841.</p>
 
@@ -65,7 +65,7 @@ permalink: /publications/
 <h3 style='margin-top: 1.2em;'>2022</h3>
 <p><span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.journals.uchicago.edu/doi/full/10.1086/719425">Evolution of plant niche construction traits in biogeomorphic landscapes</a>.” <span class="journal">The American Naturalist</span> 199 (2022): 758-775.</p>
 
-<p><u>Oliveira B</u>, Moore FC, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s42003-022-03573-9">Biodiversity mediates ecosystem sensitivity to climate variability</a>.” <span class="journal">Communications Biology</span> 5 (2022): 628.</p>
+<p><span class="lab-author">Oliveira B</span>, Moore FC, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s42003-022-03573-9">Biodiversity mediates ecosystem sensitivity to climate variability</a>.” <span class="journal">Communications Biology</span> 5 (2022): 628.</p>
 
 <p>Moore FC, Stokes A, Conte MN, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.journals.uchicago.edu/doi/10.1086/716662">Noah's Ark in a warming world: climate change, biodiversity loss and public adaptation costs in the United States</a>.” <span class="journal">Journal of the Association of Environmental and Resource Economists</span> 9 (2022): 981-1015.</p>
 
@@ -73,7 +73,7 @@ permalink: /publications/
 <h3 style='margin-top: 1.2em;'>2021</h3>
 <p><span class="pi-author">Dong X</span>, Murray AB, Heffernan JB. “<a target="_blank" rel="noopener noreferrer" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072">Competition among limestone depressions leads to self-organized regular patterning on a flat landscape</a>.” <span class="journal">Journal of Geophysical Research - Earth Surface</span> 126 (2021): e2021JF006072.</p>
 
-<p><u>Wang J</u>, Bombardelli FA, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020WR028757">Physically based scaling models to predict gas transfer velocity in streams and rivers</a>.” <span class="journal">Water Resources Research</span> 57 (2021): e2020WR028757.</p>
+<p><span class="lab-author">Wang J</span>, Bombardelli FA, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020WR028757">Physically based scaling models to predict gas transfer velocity in streams and rivers</a>.” <span class="journal">Water Resources Research</span> 57 (2021): e2020WR028757.</p>
 
 
 <h3 style='margin-top: 1.2em;'>2020</h3>
