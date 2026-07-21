@@ -10,6 +10,10 @@ permalink: /publications/
 
 <div class="publist-font" style="font-family: 'Inter', sans-serif; font-size: 1em;">
 
+<h3 style='margin-top: 1.2em;'>2026</h3>
+<p>Wang J, Oliveira BF, Moore FC, Kozar DJ, Fu Y, Dong X. “<a target="_blank" rel="noopener noreferrer" href="[https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00316-1](https://www.science.org/doi/abs/10.1126/science.aea1676)">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>.” <em>Science</em> 392 (2026): 648-654.</p>
+
+
 <h3 style='margin-top: 1.2em;'>2025</h3>
 <p>Dong X, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a target="_blank" rel="noopener noreferrer" href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00316-1">Focus on geo-evolutionary feedbacks in contemporary times</a>.” <em>Trends in Ecology & Evolution</em> 40 (2025): 113-114.</p>
 
