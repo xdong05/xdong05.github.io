@@ -8,8 +8,8 @@ permalink: /publications/
 
 # Publications ([Google Scholar](https://scholar.google.com/citations?user=TF4dKPoAAAAJ&hl=en))
 
-<p style="font-size:0.95em; color:#666; margin-top:-0.5em;">
-<u>Underlined authors</u> are current or former members of the Dong Lab.
+<p style="font-size:1.05em; color:#000; margin-top:0.8em; margin-bottom:1.2em;">
+    <u>Underlined authors</u> are current or former members of the Dong Lab.
 </p>
 
 <div class="publist-font" style="font-family: 'Inter', sans-serif; font-size: 1em;">
