@@ -22,7 +22,7 @@ permalink: /publications/
 <h3 style='margin-top: 1.2em;'>2025</h3>
 <p><span class="pi-author">Dong X</span>, Stokes MF, Hendry AP, Larsen LG, Dolby GA. “<a target="_blank" rel="noopener noreferrer" href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00316-1">Focus on geo-evolutionary feedbacks in contemporary times</a>.” <span class="journal">Trends in Ecology & Evolution</span> 40 (2025): 113-114.</p>
 
-<p><u>Kozar DJ*</u>, Zhang Y, Muneepeerakul R, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/eco.70028">Resilience at the cost of productivity: biological soil crusts mediate vegetation spatial self-Organization in drylands</a>.” <span class="journal">Ecohydrology</span> 18 (2025): e70028.</p>
+<p><u>Kozar DJ</u>, Zhang Y, Muneepeerakul R, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1002/eco.70028">Resilience at the cost of productivity: biological soil crusts mediate vegetation spatial self-Organization in drylands</a>.” <span class="journal">Ecohydrology</span> 18 (2025): e70028.</p>
 
 <p>Chen PY, <span class="pi-author">Dong X</span>, Durand J, Yuan HW. “<a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/article/10.1007/s13157-025-01954-4">Impact of emergent macrophyte mowing on an aquatic insect community in urban ponds: a case study in an artificial wetland in Southeast Asia</a>.” <span class="journal">Wetlands</span> 45 (2025): 1-13.</p>
 
