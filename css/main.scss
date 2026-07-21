@@ -114,10 +114,9 @@ firstp {
     text-underline-offset: 3px;
 }
 
-/* News page */
 
 .news-item {
-    margin-bottom: 2em;
+    margin-bottom: 1.2em;
 }
 
 .news-date {
@@ -126,10 +125,11 @@ firstp {
     color: #555;
     letter-spacing: 0.06em;
     text-transform: uppercase;
+    margin-bottom: 0.2em;
 }
 
 .news-headline p {
     margin: 0;
-    font-size: 1.08em;
-    line-height: 1.6;
+    font-size: 1.02em;
+    line-height: 1.5;
 }
