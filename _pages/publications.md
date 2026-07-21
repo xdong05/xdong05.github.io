@@ -49,13 +49,13 @@ permalink: /publications/
 
 
 <h3 style='margin-top: 1.2em;'>2023</h3>
-<p>Dong X, de Richter D, Thompson A, <u>Wang J</u>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2313487120">The primacy of temporal dynamics in driving spatial self-organization of soil iron redox patterns</a>.” <strong><em>PNAS</em></strong> 120 (2023): e2313487120.</p>
+<p>Dong X, de Richter D, Thompson A, <u>Wang J</u>. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2313487120">The primacy of temporal dynamics in driving spatial self-organization of soil iron redox patterns</a>.” <strong><em>Proceedings of the National Academy of Sciences</em></strong> 120 (2023): e2313487120.</p>
 
-<p>Dong X. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2314908120">Fairy Circle Tales</a>.” <strong><em>PNAS</em></strong> 120 (2023): e2314908120.</p>
+<p>Dong X. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2314908120">Fairy Circle Tales</a>.” <strong><em>Proceedings of the National Academy of Sciences</em></strong> 120 (2023): e2314908120.</p>
 
 <p>Dong X, Martin JB, Cohen MJ, Tu T. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s43247-023-00773-x">Bedrock mediates responses of ecosystem productivity to climate variability</a>.” <strong><em>Communications Earth & Environment</em></strong> 4 (2023): 114.</p>
 
-<p><u>Wang J</u>, Grimm NB, Lawler SP, Dong X. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.2218501120">Changing climate and reorganized species interactions modify community responses to climate variability</a>.” <strong><em>PNAS</em></strong> 120 (2023): e2218501120.</p>
+<p><u>Wang J</u>, Grimm NB, Lawler SP, Dong X. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.2218501120">Changing climate and reorganized species interactions modify community responses to climate variability</a>.” <strong><em>Proceedings of the National Academy of Sciences</em></strong> 120 (2023): e2218501120.</p>
 
 <p><u>Kozar D</u>, Dong X, Li L. “<a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0048969723039347">Recovery from Acid Rain in the Mississippi River Basin</a>.” <strong><em>Science of The Total Environment</em></strong> 897 (2023): 165311.</p>
 
@@ -98,7 +98,7 @@ permalink: /publications/
 <p>Ruhi A, Dong X, McDaniel CH, Batzer DP, Sabo JL. “<a target="_blank" rel="noopener noreferrer" href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14133">Detrimental effects of a novel flow regime on the functional trajectory of an aquatic invertebrate metacommunity</a>.” <strong><em>Global Change Biology</em></strong> 24 (2017): 3749-3765.</p>
 
 <h3 style='margin-top: 1.2em;'>Earlier</h3>
-<p>Dong X, Ruhí A, Grimm NB. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.1617571114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <strong><em>PNAS</em></strong> 114 (2017): E4744–E4752.</p>
+<p>Dong X, Ruhí A, Grimm NB. “<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.1617571114">Evidence for self-organization in determining spatial patterns of stream nutrients, despite primacy of the geomorphic template</a>.” <strong><em>Proceedings of the National Academy of Sciences</em></strong> 114 (2017): E4744–E4752.</p>
 
 <p>Dong X, Lytle DA, Olden JD, Schriever TA, Muneepeerakul R. “<a target="_blank" rel="noopener noreferrer" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949">Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems</a>.” <strong><em>PLoS ONE</em></strong> 12 (2017): e0176949.</p>
 
