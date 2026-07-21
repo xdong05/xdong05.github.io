@@ -72,7 +72,7 @@ Our research combines nonlinear dynamical systems, mathematical modeling, physic
 
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
-  We enjoy working with students who are excited by mathematical thinking, mechanistic understanding, and the challenge of finding simple, elegant explanations for complex natural phenomena. If you are inspired by [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem), aspire to do [significant work](https://paulgraham.com/greatwork.html), and enjoy forging new connections across disciplines, we would love to hear from you <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="font-weight: 600; text-decoration: none;">(more info)</a>!
+  We enjoy working with students who are inspired by [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem), mathematical thinking, and mechanistic understanding. If you aspire to do [significant work](https://paulgraham.com/greatwork.html) and enjoy forging new connections across disciplines, we would love to hear from you <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="font-weight: 600; text-decoration: none;">(more info)</a>!
 </p>
   
 
