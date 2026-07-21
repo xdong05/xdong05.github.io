@@ -115,8 +115,10 @@ firstp {
 }
 
 
-.news-item {
-    margin-bottom: 1.2em;
+#textid .news-date,
+#textid .news-headline,
+#textid .news-headline a {
+    text-transform: none !important;
 }
 
 .news-date {
@@ -124,18 +126,15 @@ firstp {
     font-weight: 700;
     color: #555;
     letter-spacing: 0.06em;
-    text-transform: uppercase;
     margin-bottom: 0.2em;
+}
+
+.news-headline {
+    font-size: 1.02em;
+    line-height: 1.5;
+    margin-bottom: 1.2em;
 }
 
 .news-headline p {
     margin: 0;
-    font-size: 1.02em;
-    line-height: 1.5;
-}
-
-#textid .news-item,
-#textid .news-date,
-#textid .news-headline {
-    text-transform: none !important;
 }
