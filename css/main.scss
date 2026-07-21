@@ -113,3 +113,24 @@ firstp {
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
 }
+
+/* News page */
+
+.news-item {
+    margin-bottom: 2em;
+}
+
+.news-date {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: #777;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.35em;
+}
+
+.news-headline p {
+    margin: 0;
+    font-size: 1.08em;
+    line-height: 1.6;
+}
