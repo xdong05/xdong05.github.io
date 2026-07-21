@@ -52,7 +52,7 @@ permalink: /
 We are a research group studying nonlinear spatial systems in nature in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
 <p style="color:#0056b3; font-size:1.1em; font-weight:600;">
-    How do simple local interactions generate the remarkable spatial organization observed in nature? We study nonlinear, spatially extended systems to understand how local interactions give rise to large-scale spatial organization and shape ecosystem responses to environmental change.
+    How do simple local interactions generate the remarkable spatial patterns observed in nature? How do those patterns influence ecosystem dynamics? We study nonlinear, spatially extended systems to understand the processes governing spatial organization and how that organization influences ecosystem resilience, critical transitions, and responses to environmental change.
 </p>
 
 <p>
@@ -65,9 +65,10 @@ We are a research group studying nonlinear spatial systems in nature in the [Dep
   – Spatial self-organization of biogeomorphic systems (coastal and estuarine ecosystems)
 </div>
 
+
 Although our study systems range from dryland vegetation and microbial communities to coral reefs and landscapes, our goal is to uncover general principles governing spatial organization across environmental systems. 
 
-Our research combines nonlinear dynamical systems, mathematical modeling, physics- and process-informed machine learning, remote sensing, and field observations to uncover the mechanisms governing spatial organization in nature. See more on our <a href="research">Research</a>.
+Our research combines nonlinear dynamical systems, mathematical modeling, physics-informed machine learning, remote sensing, and field observations to uncover the mechanisms governing spatial organization in nature. See more on our <a href="research">Research</a>.
 
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
