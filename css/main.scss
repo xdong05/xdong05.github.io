@@ -133,3 +133,9 @@ firstp {
     font-size: 1.02em;
     line-height: 1.5;
 }
+
+#textid .news-item,
+#textid .news-date,
+#textid .news-headline {
+    text-transform: none !important;
+}
