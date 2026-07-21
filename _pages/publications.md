@@ -15,7 +15,7 @@ permalink: /publications/
 <div class="publist-font" style="font-family: 'Inter', sans-serif; font-size: 1em;">
 
 <h3 style='margin-top: 1.2em;'>2026</h3>
-<p><u>Wang J</u>, <u>Oliveira BF</u>, Moore FC, <u>Kozar DJ</u>, Fu Y, Dong X. “<a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>.” <strong><em>Science</em></strong> 392 (2026): 648-654.</p>
+<p><u>Wang J</u>, <u>Oliveira BF</u>, Moore FC, <u>Kozar DJ</u>, Fu Y, <span class="pi-author">Dong X</span>. “<a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>.” <strong><em>Science</em></strong> 392 (2026): 648-654.</p>
 
 <p>Dixon DJ, Das AJ, Dong X, Latimer AM, Soderberg DN, Stephenson NL, Caprio AC, Jin Y. “<a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41467-026-75418-6">Previous prescribed burns saved thousands of ancient sequoias during historically unprecedented wildfires</a>.” <strong><em>Nature Communications</em></strong> (accepted).</p>
 
