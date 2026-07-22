@@ -59,9 +59,12 @@ We are a research group studying nonlinear spatial systems in nature in the [Dep
   Many spatial patterns in nature emerge spontaneously from local interactions—a phenomenon known as <em>spatial self-organization</em>. Spatial organization both arises from and feeds back on ecological processes, influencing ecosystem resilience and evolutionary dynamics. Understanding this two-way interaction is essential for predicting ecosystem responses to global change. We investigate these questions across diverse systems, ranging from dryland vegetation and microbial communities to coral reefs and biogeomorphic landscapes. Although these systems differ dramatically, they are united by common mathematical structures. Our goal is to uncover general principles governing spatial organization that transcend individual environmental systems.
 </p>
 
-<p>
-Our research combines nonlinear dynamical systems, mathematical modeling, physics-informed machine learning, remote sensing, and field observations to develop mechanistic understanding of spatial organization in nature. Learn more about our <a href="research">Research</a>.
+<p style="margin-top:18px;">
+<strong>Our approach.</strong>
+We combine nonlinear dynamical systems, mathematical modeling, physics-informed machine learning, remote sensing, and field observations to develop mechanistic understanding of spatial organization in nature.
+Learn more about our <a href="research">Research</a>.
 </p>
+
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
   We enjoy working with students who are inspired by [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem), mathematical thinking, and mechanistic understanding. If you aspire to do [significant work](https://paulgraham.com/greatwork.html) and enjoy forging novel connections across disciplines, we would love to hear from you <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="font-weight: 600; text-decoration: none;">(more info)</a>!
