@@ -90,7 +90,7 @@ img.team-photo.img-responsive {
       <h2>Gavin Pandya</h2>
       <p class="role-title">Postdoctoral Researcher</p>
       <p>Gavin recently joined the lab after completing his PhD in the math department at UC Davis. He is currently developing mathematical models for stromatolite morphogenesis. Outside the lab, you can find Gavin listening to Chopin or turning over the nearest rock to look for critters. </p>
-      <p><strong>Email:</strong> <a href="mailto:gpandya@ucdavis.edu">lhxu@ucdavis.edu</a></p>
+      <p><strong>Email:</strong> <a href="mailto:gpandya@ucdavis.edu">gpandya@ucdavis.edu</a></p>
     </div>
   </div>
   
