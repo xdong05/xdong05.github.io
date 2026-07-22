@@ -59,7 +59,7 @@ permalink: /publications/
 
 <p><span class="lab-author">Kozar D</span>, <span class="pi-author">Dong X</span>, Li L. <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0048969723039347">Recovery from Acid Rain in the Mississippi River Basin</a>. <span class="journal">Science of The Total Environment</span> 897 (2023): 165311.</p>
 
-<p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, et al. <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>. <span class="journal">Journal of Hydrology</span> 616 (2023): 128841.</p>
+<p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, Caughman L, Clinton SM, Cook E, <span class="pi-author">Dong X</span>,et al. <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>. <span class="journal">Journal of Hydrology</span> 616 (2023): 128841.</p>
 
 
 <h3 style='margin-top: 1.2em;'>2022</h3>
