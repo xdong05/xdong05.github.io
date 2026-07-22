@@ -56,7 +56,7 @@ We are a research group studying nonlinear spatial systems in nature in the [Dep
 </p>
 
 <p>
-  Many spatial patterns in nature emerge spontaneously from local interactions—a phenomenon known as <em>spatial self-organization</em>. Spatial organization both arises from and feeds back on ecological processes, influencing ecosystem resilience and evolutionary dynamics. Understanding this two-way interaction is essential for predicting ecosystem responses to global change. We investigate these questions across diverse systems, ranging from dryland vegetation and microbial communities to coral reefs and biogeomorphic landscapes. Although these systems differ dramatically, they are united by common mathematical structures. Our goal is to uncover general principles governing spatial organization that transcend individual environmental systems.
+  Many of nature's most remarkable spatial patterns emerge from simple local interactions. We study nonlinear, spatially extended systems to understand how spatial organization arises, and how it influences ecosystem resilience, critical transitions, and responses to environmental change. Although our study systems range from dryland vegetation and Antarctic microbial communities to coral reefs and biogeomorphic landscapes, they are united by common mathematical structures. Our goal is to uncover general principles governing the emergence of spatial organization across systems.
 </p>
 
 <p style="margin-top:18px;">
