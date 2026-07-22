@@ -56,17 +56,7 @@ We are a research group studying nonlinear spatial systems in nature in the [Dep
 </p>
 
 <p>
-  Spatial patterns are more than striking features of nature—they are fingerprints of the processes that generate them. By studying how spatial organization emerges through ecological, eco-evolutionary, and geo-evolutionary feedbacks, we seek to uncover the mechanisms governing ecosystem resilience, biodiversity, and responses to environmental change. Such spatial organization often emerges spontaneously from local interactions—a phenomenon known as *spatial self-organization*. Spatial self-organization can shape both the resilience of ecosystems and the ecological and evolutionary dynamics of organisms within them. We investigate these questions across a wide range of environmental systems, including:
-</p>
-
-<div style="padding-left: 1.5em;">
-  – Vegetation pattern formation in dryland ecosystems<br>
-  – Benthic microbial pattern formation in Antarctic lakes (modern stromatolite) <br>
-  – Spatial self-organization of biogeomorphic systems (coastal and estuarine ecosystems)
-</div>
-
-
-Although our study systems range from dryland vegetation and microbial communities to coral reefs and landscapes, our goal is to uncover general principles governing spatial organization across environmental systems. 
+  Spatial patterns are more than striking features of nature—they provide clues about the processes that generate them. By studying how spatial organization emerges, we seek to uncover mechanisms that govern responses of ecosystems to global change. Many of the spatial patterns we study emerge spontaneously from local interactions, a phenomenon known as spatial self-organization. Because spatial organization can both arise from and modify ecological processes, understanding these feedbacks is essential for predicting ecosystem dynamics under environmental change. Spatial self-organization can shape both the resilience of ecosystems and the ecological and evolutionary dynamics of organisms within them. We investigate these questions across diverse ecosystems, ranging from dryland vegetation and microbial communities to coral reefs and biogeomorphic landscapes. Although these systems differ dramatically, they share common mathematical structures. Our goal is to uncover general principles governing spatial organization that transcend individual ecosystems. 
 
 Our research combines nonlinear dynamical systems, mathematical modeling, physics-informed machine learning, remote sensing, and field observations to uncover the mechanisms governing spatial organization in nature. See more on our <a href="research">Research</a>.
 
