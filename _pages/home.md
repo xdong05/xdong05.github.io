@@ -56,9 +56,10 @@ We are a research group studying nonlinear spatial systems in nature in the [Dep
 </p>
 
 <p>
-  Spatial patterns are more than striking features of nature—they provide clues about the processes that generate them. By studying how spatial organization emerges, we seek to uncover mechanisms that govern responses of ecosystems to global change. Many of the spatial patterns we study emerge spontaneously from local interactions, a phenomenon known as spatial self-organization. Because spatial organization can both arise from and modify ecological processes, understanding these feedbacks is essential for predicting ecosystem dynamics under environmental change. Spatial self-organization can shape both the resilience of ecosystems and the ecological and evolutionary dynamics of organisms within them. We investigate these questions across diverse ecosystems, ranging from dryland vegetation and microbial communities to coral reefs and biogeomorphic landscapes. Although these systems differ dramatically, they share common mathematical structures. Our goal is to uncover general principles governing spatial organization that transcend individual ecosystems. 
+  Many spatial patterns in nature emerge spontaneously from local interactions—a phenomenon known as spatial self-organization. Spatial organization both arises from and feeds back on ecological processes, influencing ecosystem resilience and evolutionary dynamics. Understanding this two-way interaction is essential for predicting ecosystem responses to global change. We investigate these questions across diverse systems, ranging from dryland vegetation and microbial communities to coral reefs and biogeomorphic landscapes. Although these systems differ dramatically, they are united by common mathematical structures. Our goal is to uncover general principles governing spatial organization that transcend individual environmental systems.
 
-Our research combines nonlinear dynamical systems, mathematical modeling, physics-informed machine learning, remote sensing, and field observations to uncover the mechanisms governing spatial organization in nature. See more on our <a href="research">Research</a>.
+
+Our research combines nonlinear dynamical systems, mathematical modeling, physics-informed machine learning, remote sensing, and field observations to develop mechanistic understanding of spatial organization in nature. Learn more about our <a href="research">Research</a>.
 
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
