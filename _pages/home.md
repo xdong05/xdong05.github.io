@@ -56,7 +56,7 @@ We are a research group studying nonlinear spatial systems in nature in the [Dep
 </p>
 
 <p>
-  Many of nature's most remarkable spatial patterns emerge from simple local interactions. We study nonlinear, spatially extended systems to understand how spatial organization arises, and how it influences ecosystem resilience, critical transitions, and responses to environmental change. Although our study systems range from dryland vegetation and Antarctic microbial communities to coral reefs and biogeomorphic landscapes, they are united by common mathematical structures. Our goal is to uncover general principles governing the emergence of spatial organization across systems.
+  Many of nature's most remarkable spatial patterns emerge from simple local interactions. We study nonlinear, spatially extended systems to understand how spatial organization emerges and how it influences ecosystem resilience, critical transitions, and responses to environmental change. Although our study systems range from dryland vegetation and Antarctic microbial communities to coral reefs and biogeomorphic landscapes, they are united by common mathematical structures. Our goal is to uncover general principles governing the emergence and consequences of spatial organization across environmental systems.
 </p>
 
 <p style="margin-top:18px;">
