@@ -84,6 +84,19 @@ img.team-photo.img-responsive {
 
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gavin.jpeg" class="img-responsive team-photo" />
+    </div>
+    <div class="col-sm-8">
+      <h2>Gavin Pandya</h2>
+      <p class="role-title">Postdoctoral Researcher</p>
+      <p>Gavin recently joined the lab after completing his PhD in the math department at UC Davis. He is currently developing mathematical models for stromatolite morphogenesis. Outside the lab, you can find Gavin listening to Chopin or turning over the nearest rock to look for critters. </p>
+      <p><strong>Email:</strong> <a href="mailto:gpandya@ucdavis.edu">lhxu@ucdavis.edu</a></p>
+    </div>
+  </div>
+  
+
+  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
+    <div class="col-sm-4">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Malavika.jpg" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
@@ -91,18 +104,6 @@ img.team-photo.img-responsive {
       <p class="role-title">Graduate Student</p>
       <p>Malavika is a Ph.D. student in the Graduate Group in Ecology. She is broadly interested in collective behaviors and the emergent properties of complex adaptive systems. Malavika is the recipient of the 2025 Dean's Circle Fellowship.</p>
       <p><strong>Email:</strong> <a href="mailto:malvenkatesh@ucdavis.edu">malvenkatesh@ucdavis.edu</a></p>
-    </div>
-  </div>
-
-  <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
-    <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/linhao.jpg" class="img-responsive team-photo" />
-    </div>
-    <div class="col-sm-8">
-      <h2>Linhao Xu</h2>
-      <p class="role-title">Postdoctoral Researcher</p>
-      <p>Linhao joined our lab in 2025 after obtaining her PhD from the University of Miami. Linhao is interested in ecosystem spatial pattern formation, ecosystem resilience, long transient dynamics, and alternative stable states. As a postdoctral fellow, she is currently leading our project investigating vegetation pattern formation in drylands. </p>
-      <p><strong>Email:</strong> <a href="mailto:lhxu@ucdavis.edu">lhxu@ucdavis.edu</a></p>
     </div>
   </div>
 
@@ -114,6 +115,7 @@ img.team-photo.img-responsive {
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li><strong>Daniel Kozar</strong> – Ph.D. (2019–2024). Dissertation: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028" target="_blank">Self-organization in Biological Soil Crusts: A Source of Resilience in Dryland Mosaics</a>. Now postdoctoral researcher at University of Graz, Austria. </li>
     <li><strong>Junna Wang</strong> – Ph.D. (2019–2023). Dissertation: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2218501120" target="_blank">Stability of Freshwater Ecosystems: Patterns and Mechanisms</a>. Now Associate Professor at Beijing Normal University, China.</li>
+    <li><strong>Linhao Xu</strong> – Postdoctoral scholar (2025–2026), contributed to the dryland vegetation pattern formation project.</li>
     <li><strong>Brunno F. Oliveira</strong> – Postdoctoral scholar (2020–2021), contributed to the <a href="https://www.nature.com/articles/s42003-022-03573-9" target="_blank">biodiversity project</a>. Now Postdoctoral Fellow at CESAB – FRB, France.</li>
     <li><strong>Undergraduate Interns:</strong> Joaquin Benitez (2025), Junna Faessel (2022–2023), Paul Linderman (2023–2024), Benjamin Mineau (2024–2025), Zoey Moffitt (2024), Jocelyn Rodriguez (2021), Rocio Venegas (2021), Sara Weitzel (2023–2024), Ziqi Yang (2024).</li>
   </ul>
