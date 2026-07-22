@@ -59,7 +59,7 @@ permalink: /publications/
 
 <p><span class="lab-author">Kozar D</span>, <span class="pi-author">Dong X</span>, Li L. <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0048969723039347">Recovery from Acid Rain in the Mississippi River Basin</a>. <span class="journal">Science of The Total Environment</span> 897 (2023): 165311.</p>
 
-<p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, Caughman L, Clinton SM, Cook E, <span class="pi-author">Dong X</span>,et al. <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>. <span class="journal">Journal of Hydrology</span> 616 (2023): 128841.</p>
+<p>McPhillips L, Berbes-Blazquez M, Hale R, Harms TK, Bisht V, Caughman L, Clinton SM, Cook E, <span class="pi-author">Dong X</span>, et al. <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S0022169422014111">Learning from arid and urban aquatic ecosystems to inform more sustainable and resilient futures</a>. <span class="journal">Journal of Hydrology</span> 616 (2023): 128841.</p>
 
 
 <h3 style='margin-top: 1.2em;'>2022</h3>
@@ -102,9 +102,9 @@ permalink: /publications/
 
 <p><span class="pi-author">Dong X</span>, Lytle DA, Olden JD, Schriever TA, Muneepeerakul R. <a target="_blank" rel="noopener noreferrer" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176949">Importance of neutral processes varies in time and space: evidence from dryland stream ecosystems</a>. <span class="journal">PLoS ONE</span> 12 (2017): e0176949.</p>
 
-<p>Kelly PT, Bell T, Reisinger AJ, Spanbauer TL, Bortolotti LE, et al. <a target="_blank" rel="noopener noreferrer" href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10180">Ecological dissertations in the aquatic sciences: an effective networking and professional development opportunity for early career aquatic scientists</a>. <span class="journal">Limnology and Oceanography Bulletin</span> 26 (2017): 25-30.</p>
+<p>Kelly PT, Bell T, Reisinger AJ, Spanbauer TL, Bortolotti LE, Brentrup JA, Briseno-Avena C, <span class="pi-author">Dong X</span>, et al. <a target="_blank" rel="noopener noreferrer" href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10180">Ecological dissertations in the aquatic sciences: an effective networking and professional development opportunity for early career aquatic scientists</a>. <span class="journal">Limnology and Oceanography Bulletin</span> 26 (2017): 25-30.</p>
 
-<p>Guy-Haim T, Alexander A, Bell TW, Bier RL, Bortolotti LE, et al. <a target="_blank" rel="noopener noreferrer" href="https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-017-0084-0">What are the type, direction, and strength of species, community, and ecosystem responses to warming in aquatic mesocosm studies and their dependency on experimental characteristics? A systematic review protocol</a>. <span class="journal">Environmental Evidence</span> 6 (2017): 6.</p>
+<p>Guy-Haim T, Alexander A, Bell TW, Bier RL, Bortolotti LE, Briseno-Avena C, <span class="pi-author">Dong X</span>, et al. <a target="_blank" rel="noopener noreferrer" href="https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-017-0084-0">What are the type, direction, and strength of species, community, and ecosystem responses to warming in aquatic mesocosm studies and their dependency on experimental characteristics? A systematic review protocol</a>. <span class="journal">Environmental Evidence</span> 6 (2017): 6.</p>
 
 <p><span class="pi-author">Dong X</span>, Grimm NB, Ogle K, Franklin J. <a target="_blank" rel="noopener noreferrer" href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12450">Inter-annual hydrological variability modified response of wetland distribution to geomorphology</a>. <span class="journal">Journal of Ecology</span> 104 (2016): 18-30.</p>
 
