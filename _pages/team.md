@@ -49,7 +49,7 @@ img.team-photo.img-responsive {
     <div class="col-sm-8">
       <h2>Xiaoli Dong</h2>
       <p class="role-title">Associate Professor</p>
-      <p>Xiaoli joined UC Davis in 2018 after completing a postdoctoral fellowship at Duke University (2015–2018). She obtained her PhD degree ('15) from Arizona State University. Her research takes a comparative, cross-system approach to understanding spatial self-organization in ecosystems: how patterns emerge, their consequences for landscapes and resident organisms, and how they change over time.</p>
+      <p>Xiaoli joined UC Davis in 2018 after completing a postdoctoral fellowship at Duke University. She earned her Ph.D. from Arizona State University in 2015. Her research combines nonlinear dynamics, spatial ecology, and applied mathematics to understand spatial self-organization across ecosystems. Through a comparative, cross-system approach, she seeks to uncover general principles governing the emergence of spatial patterns and their consequences for ecosystem resilience and evolutionary dynamics.</p>
       <p><strong>Email:</strong> <a href="mailto:xldong@ucdavis.edu">xldong@ucdavis.edu</a></p>
     </div>
   </div>
