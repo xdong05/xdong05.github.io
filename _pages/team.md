@@ -77,7 +77,7 @@ img.team-photo.img-responsive {
     <div class="col-sm-8">
       <h2>Stanley Dai</h2>
       <p class="role-title">Graduate Student</p>
-      <p>Stanley is a Master’s student in the Graduate Program in Statistics. His research interests center on spatial statistics and spatial modeling, with a particular focus on applications to environmental challenges. </p>
+      <p>Stanley joined the Graduate Group in Ecology after earning his M.S. in Statistics from UC Davis. His research interests span eco-evolutionary dynamics, spatial statistics, and spatial modeling, with an emphasis on developing quantitative approaches to address environmental challenges. </p>
       <p><strong>Email:</strong> <a href="mailto:shdai@ucdavis.edu">shdai@ucdavis.edu</a></p>
     </div>
   </div>
