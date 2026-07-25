@@ -39,9 +39,43 @@ Our group values independence, collaboration, and intellectual curiosity. We str
 </p>
 
 <figure style="display:flex; justify-content:center; align-items:center; gap:20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20210424_180553529.jpg"
-       style="height:300px; width:auto;">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/dinner.png"
-       style="height:300px; width:auto;">
+  <div style="position:relative; display:inline-block;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20210424_180553529.jpg"
+         style="height:300px; width:auto; display:block;">
+    <span style="
+  position:absolute;
+  bottom:10px;
+  right:10px;
+  background:rgba(0,0,0,0.35);
+  color:white;
+  padding:2px 7px;
+  border-radius:3px;
+  font-size:13px;
+  font-weight:500;
+  font-family:sans-serif;
+">
+  2020
+</span>
+  </div>
+
+  <div style="position:relative; display:inline-block;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/dinner.png"
+         style="height:300px; width:auto; display:block;">
+    <span style="
+  position:absolute;
+  bottom:10px;
+  right:10px;
+  background:rgba(0,0,0,0.35);
+  color:white;
+  padding:2px 7px;
+  border-radius:3px;
+  font-size:13px;
+  font-weight:500;
+  font-family:sans-serif;
+">
+  JUN 2026
+</span>
+  </div>
+
 </figure>
