@@ -67,7 +67,7 @@ Learn more about our <a href="research">Research</a>.
 
 
 <p style="font-size: 1.05em; font-weight: 600; margin-top: 25px;">
-  We enjoy working with students who are inspired by [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem), mathematical thinking, and mechanistic understanding. If you aspire to do [significant work](https://paulgraham.com/greatwork.html) and enjoy forging novel connections across disciplines, we would love to hear from you <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="font-weight: 600; text-decoration: none;">(more info)</a>!
+  We enjoy working with students who are inspired by [big questions](https://www.experimental-history.com/p/science-is-a-strong-link-problem) and mathematical thinking. If you aspire to do [significant work](https://paulgraham.com/greatwork.html) and enjoy forging novel connections across disciplines, we would love to hear from you <a href="{{ site.url }}{{ site.baseurl }}/vacancies" style="font-weight: 600; text-decoration: none;">(more info)</a>!
 </p>
   
 
