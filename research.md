@@ -33,10 +33,14 @@ Pattern formation • Nonlinear dynamics • Self-organization
 We develop mathematical models to understand how interactions among organisms, resources, and the physical environment generate self-organized spatial patterns. By comparing diverse ecosystems—including dryland vegetation, biological soil crusts, Antarctic microbial communities, coral reefs, coastal wetlands, and soil redox patterns—we seek general mathematical principles governing pattern formation in living systems.
 </p>
 
-<p style="margin-top:18px;">
-<b>Representative systems:</b>
-Drylands • Antarctic microbial mats • Coral reefs
+<p style="margin-top:20px; margin-bottom:4px;">
+<b>Current model systems:</b>
 </p>
+
+<ul style="margin:0 0 15px 22px; line-height:1.4;">
+  <li>Dryland vegetation and biological soil crusts (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)): </li>
+  <li>Antarctic microbial communities (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)): </li>
+</ul>
 
 <p>
 <b>Methods:</b>
