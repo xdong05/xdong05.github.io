@@ -187,10 +187,91 @@ TOOLS
 
 </div>
 
+
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
+  How can mathematics and AI improve environmental prediction?
+</h3>
+
+<p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
+Scientific AI • Physics-informed machine learning • Earth system prediction
+</p>
+
+{::nomarkdown}
+
+<div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/hydro1.jpg" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ai1.png" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/hydro2.jpg" style="height:200px;">
+</div>
+
+<p style="text-align:center;
+          font-family:Georgia, serif;
+          font-size:0.85em;
+          color:#666;
+          line-height:1.3;
+          margin:1px 0 14px 0;">
+  From left to right:
+  (A) watershed-scale hydrological processes;
+  (B) integrating physical knowledge with machine learning;
+  (C) environmental prediction across river networks.
+</p>
+
+{:/nomarkdown}
+
+<p>
+Many environmental systems exhibit multiscale dynamics, physical constraints, and sparse observations that challenge conventional machine learning. We develop physics-informed artificial intelligence that combines mathematical models with modern deep learning to improve environmental prediction while maintaining physical consistency and scientific interpretability. Our current work focuses on hydrological forecasting and Earth system prediction through close collaborations among applied mathematicians, hydrologists, computer scientists, and ecologists.
+</p>
+
+<p style="margin-top:14px;
+          margin-bottom:5px;
+          color:#666;
+          font-size:0.95em;
+          font-weight:600;
+          text-transform:uppercase;
+          letter-spacing:0.08em;">
+MODEL SYSTEMS
+</p>
+
+<ul style="margin:0 0 15px 22px; line-height:1.4;">
+
+<li>
+Hydrological systems
+<br>
+<span style="color:#777; font-size:0.92em;">
+Funded by the
+<a href="https://genesisdoe.org/">DOE GENESIS Program</a>
+&nbsp;|&nbsp;
+Partners:
+University of Illinois Urbana-Champaign, UC Davis, and National Center for Supercomputing Applications (NCSA)
+</span>
+</li>
+
+<li>
+River networks and watersheds
+</li>
+
+</ul>
+
+<p style="margin-top:14px;
+          margin-bottom:6px;
+          color:#666;
+          font-size:0.95em;
+          font-weight:600;
+          text-transform:uppercase;
+          letter-spacing:0.08em;">
+TOOLS
+</p>
+
+<div style="margin-top:0; margin-bottom:10px;">
+
+<span class="research-tag">Physics-informed AI</span>
+<span class="research-tag">Scientific machine learning</span>
+<span class="research-tag">Foundation models</span>
+<span class="research-tag">Hydrological modeling</span>
+
+</div>
+
 <div style="margin-top: 60px;"></div>
-
-
-
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
