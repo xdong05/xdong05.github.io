@@ -211,9 +211,9 @@ Scientific AI • Physics-informed machine learning • Earth system prediction
           line-height:1.3;
           margin:1px 0 14px 0;">
   From left to right:
-  (A) watershed-scale hydrological processes;
-  (B) integrating physical knowledge with machine learning;
-  (C) environmental prediction across river networks.
+  (A) colorado river;
+  (B) map of colorado river basin;
+  (C) architecture of temporal transformer.
 </p>
 
 {:/nomarkdown}
