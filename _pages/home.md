@@ -49,7 +49,7 @@ permalink: /
 </div>
 
 
-We are a research group studying nonlinear spatial systems in nature in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
+We are a theoretical ecology research group in the [Department of Environmental Science and Policy](https://desp.ucdavis.edu) at the University of California Davis. 
 
 <p style="color:#0056b3; font-size:1.1em; font-weight:600;">
    We study nonlinear, spatially extended systems to understand how complex spatial organization emerges from simple local interactions, and how emergent spatial structure governs the behavior of ecological systems.
