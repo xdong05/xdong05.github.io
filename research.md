@@ -351,10 +351,9 @@ TOOLS
 
 <div style="margin-top:0; margin-bottom:10px;">
 
-<span class="research-tag">Species distribution models</span>
+<span class="research-tag">Species distribution models (SDMs)</span>
 <span class="research-tag">Macroecology</span>
-<span class="research-tag">Climate projections</span>
-<span class="research-tag">Integrated assessment models</span>
+<span class="research-tag">Integrated assessment models (IAMs)</span>
 
 </div>
 
