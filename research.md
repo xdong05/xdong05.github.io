@@ -83,9 +83,24 @@ CURRENT MODEL SYSTEMS
 
 </ul>
 
-<p style="margin-top:10px; margin-bottom:4px;">
-<b>Methods:</b> Reaction–diffusion models • Partial differential equations • Stability analysis • Numerical simulations
+<p style="margin-top:14px;
+          margin-bottom:6px;
+          color:#666;
+          font-size:0.95em;
+          font-weight:600;
+          text-transform:uppercase;
+          letter-spacing:0.08em;">
+APPROACHES
 </p>
+
+<div style="margin-top:0; margin-bottom:10px;">
+
+<span class="research-tag">Reaction–diffusion models</span>
+<span class="research-tag">Partial differential equations</span>
+<span class="research-tag">Stability analysis</span>
+<span class="research-tag">Computational modeling</span>
+
+</div>
 
 <div style="margin-top: 60px;"></div>
 
