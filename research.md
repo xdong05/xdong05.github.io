@@ -13,7 +13,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 <div class="research-card">
 
 <h2 style="margin-bottom:8px;">
-1. How do spatial patterns emerge in living systems?
+1. How do spatial patterns originate, assemble, interact with their environment, and change?
 </h2>
 
 <p style="font-size:1.25em; font-style:italic; color:#555; margin-top:0;">
@@ -21,26 +21,16 @@ Pattern formation • Nonlinear dynamics • Self-organization
 </p>
 
 <div style="display:flex; justify-content:center; gap:15px; margin:25px 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern1.jpg"
-         style="width:31%; border-radius:6px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern2.jpg"
-         style="width:31%; border-radius:6px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" 
+        style="height: 200px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" 
+        style="height: 200px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern3.jpg"
          style="width:31%; border-radius:6px;">
 </div>
 
 <p>
-<b>How do simple local interactions generate the remarkable spatial
-patterns observed across ecosystems?</b>
-</p>
-
-<p>
-We develop mathematical models to understand how feedbacks among organisms,
-resources, and the physical environment give rise to self-organized spatial
-patterns. Using tools from nonlinear dynamics and partial differential
-equations, we seek general principles governing pattern formation across
-diverse ecosystems, from dryland vegetation and microbial communities to
-coral reefs and beyond.
+We develop mathematical models to understand how interactions among organisms, resources, and the physical environment generate self-organized spatial patterns. By comparing diverse ecosystems—including dryland vegetation, biological soil crusts, Antarctic microbial communities, coral reefs, coastal wetlands, and soil redox patterns—we seek general mathematical principles governing pattern formation in living systems.
 </p>
 
 <p style="margin-top:18px;">
@@ -56,6 +46,8 @@ Reaction–diffusion models • PDEs • Stability analysis • Numerical simula
 </div>
 
 <hr style="margin:70px 0;">
+
+
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
