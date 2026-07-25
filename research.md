@@ -21,7 +21,7 @@ Pattern formation • Nonlinear dynamics • Self-organization
 
 {::nomarkdown}
 
-<div style="display:flex; justify-content:center; gap:10px; margin:12px 0 6px 0;">
+<div style="display:flex; justify-content:center; gap:10px; margin:12px 0 2px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/reef1.png" style="height:200px;">
@@ -32,7 +32,7 @@ Pattern formation • Nonlinear dynamics • Self-organization
           font-size:0.85em;
           color:#666;
           line-height:1.3;
-          margin:4px 0 14px 0;">
+          margin:2px 0 14px 0;">
   From left to right:
   (A) regular vegetation patterns in drylands;
   (B) microbial communities forming cone structures in Antarctic lakes;
@@ -64,10 +64,16 @@ We develop mathematical models to understand how interactions among organisms, r
 </li>
 </ul>
 
-<p>
+<p style="margin-top:18px; margin-bottom:4px;">
 <b>Methods:</b>
-Reaction–diffusion models • PDEs • Stability analysis • Numerical simulations
 </p>
+
+<ul style="margin:0 0 15px 22px; line-height:1.4;">
+  <li>Reaction–diffusion models</li>
+  <li>Partial differential equations</li>
+  <li>Stability and bifurcation analysis</li>
+  <li>Numerical simulations</li>
+</ul>
 
 <div style="margin-top: 60px;"></div>
 
