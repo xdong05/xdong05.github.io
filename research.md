@@ -38,11 +38,21 @@ We develop mathematical models to understand how interactions among organisms, r
 </p>
 
 <ul style="margin:0 0 15px 22px; line-height:1.4;">
-  <li>Dryland vegetation and biological soil crusts (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)): </li>
-  <li>Antarctic microbial communities (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)): </li>
-</ul>
+  <li>
+  Dryland vegetation and biological soil crusts
+  <span style="color:#777;">
+    (<a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>)
+  </span>
+</li>
+  <li>
+  Antarctic microbial communities
+  <span style="color:#777;">
+    (<a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>)
+  </span>
+</li>
 
 <p>
+  
 <b>Methods:</b>
 Reaction–diffusion models • PDEs • Stability analysis • Numerical simulations
 </p>
