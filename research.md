@@ -283,7 +283,9 @@ Climate change • Biodiversity • Species distributions
 {::nomarkdown}
 
 <div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 60%; max-width: 800px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nature.png" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/science1.png" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ap.png" style="height:200px;">
 </div>
 
 <p style="text-align:center;
@@ -292,8 +294,12 @@ Climate change • Biodiversity • Species distributions
           color:#666;
           line-height:1.3;
           margin:1px 0 14px 0;">
-  Figure above: Causes and global distributions of plant extinction by 2081-2100. (a) Differences in projected plant extinction rates with realistic range shift velocity and unlimited dispersal are negligible. (b) Species at high risk of extinction are dominated by range-contracting plants and colonizing plants not subject to dispersal limitations. (c) Range shift velocity scenarios explained < 1% of variance in projected extinction rates, whereas choice of species distribution models (SDMs) explained most (60%) of the variance. (d) and (e) compares global distribution of plants at high extinction risk under medium (SSP245) and high (SSP585) emissions scenarios (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>)
+  From left to right:
+  (A) trajectories of the annual change in market and non-market benefits for the 57 countries and regions by 2100 (read more in <a href="https://www.nature.com/articles/s41586-023-06769-z">Nature (2023)</a>);
+  (B) projected plant extinction by 2100 is *not* due to dispersal limitation (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>);
+  (C) reporting of our work by the <a href="https://apnews.com/article/plants-extinction-climate-change-unusual-habitat-risk-b059130319e66938073c681a705d6391">Associated Press</a>.
 </p>
+
 
 {:/nomarkdown}
 
