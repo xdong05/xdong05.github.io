@@ -242,12 +242,8 @@ Funded by the
 <a href="https://genesisdoe.org/">DOE GENESIS Program</a>
 &nbsp;|&nbsp;
 Partners:
-University of Illinois Urbana-Champaign, UC Davis, and National Center for Supercomputing Applications (NCSA)
+EnviTrace LLC (Lead PI), UC Davis, Oak Ridge National Laboratory (ORNL), and Lawrence Berkeley National Laboratory (LBNL)
 </span>
-</li>
-
-<li>
-River networks and watersheds
 </li>
 
 </ul>
@@ -266,8 +262,8 @@ TOOLS
 
 <span class="research-tag">Physics-informed AI</span>
 <span class="research-tag">Scientific machine learning</span>
-<span class="research-tag">Foundation models</span>
-<span class="research-tag">Hydrological modeling</span>
+<span class="research-tag">Information theory</span>
+<span class="research-tag">Community Earth System Model (CESM)</span>
 
 </div>
 
