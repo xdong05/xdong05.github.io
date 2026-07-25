@@ -12,7 +12,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  How do spatial patterns originate, interact with their environment, and change?
+  1. How do spatial patterns originate, interact with their environment, and change?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -106,8 +106,8 @@ TOOLS
 
 
 
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  How does evolution shape—and become shaped by—pattern formation?
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 60px;">
+  2. How does evolution shape—and become shaped by—pattern formation?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -188,8 +188,8 @@ TOOLS
 </div>
 
 
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  How can mathematics and AI improve environmental prediction?
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 60px;">
+  3. How can mathematics and AI improve environmental prediction?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -272,8 +272,8 @@ TOOLS
 
 
 
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  How will biodiversity reorganize under global environmental change?
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 60px;">
+  4. How will biodiversity reorganize under global climate change?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
