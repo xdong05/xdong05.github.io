@@ -270,6 +270,99 @@ TOOLS
 <div style="margin-top: 60px;"></div>
 
 
+
+
+<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
+  How will biodiversity reorganize under global environmental change?
+</h3>
+
+<p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
+Climate change • Biodiversity • Species distributions
+</p>
+
+{::nomarkdown}
+
+<div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rangeshift1.jpg" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/biodiversity1.jpg" style="height:200px;">
+</div>
+
+<p style="text-align:center;
+          font-family:Georgia, serif;
+          font-size:0.85em;
+          color:#666;
+          line-height:1.3;
+          margin:1px 0 14px 0;">
+  From left to right:
+  (A) projected global patterns of plant extinction risk;
+  (B) climate-driven species range shifts;
+  (C) future redistribution of global biodiversity.
+</p>
+
+{:/nomarkdown}
+
+<p>
+Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale predictive models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we seek to improve predictions of biodiversity change and its societal consequences.
+</p>
+
+<p style="margin-top:14px;
+          margin-bottom:5px;
+          color:#666;
+          font-size:0.95em;
+          font-weight:600;
+          text-transform:uppercase;
+          letter-spacing:0.08em;">
+MODEL SYSTEMS
+</p>
+
+<ul style="margin:0 0 15px 22px; line-height:1.4;">
+
+<li>
+Global terrestrial plants
+<br>
+<span style="color:#777; font-size:0.92em;">
+Funded by
+<a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
+&nbsp;|&nbsp;
+Co-PIs:
+<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore</a>,
+<a href="https://marcnconte.ace.fordham.edu">Marc Conte</a>
+</span>
+</li>
+
+<li>
+Global biodiversity under future climate scenarios
+<br>
+<span style="color:#777; font-size:0.92em;">
+Recent work:
+<a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>
+</span>
+</li>
+
+</ul>
+
+<p style="margin-top:14px;
+          margin-bottom:6px;
+          color:#666;
+          font-size:0.95em;
+          font-weight:600;
+          text-transform:uppercase;
+          letter-spacing:0.08em;">
+TOOLS
+</p>
+
+<div style="margin-top:0; margin-bottom:10px;">
+
+<span class="research-tag">Species distribution models</span>
+<span class="research-tag">Macroecology</span>
+<span class="research-tag">Climate projections</span>
+<span class="research-tag">Integrated assessment models</span>
+
+</div>
+
+<div style="margin-top: 60px;"></div>
+
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Global Plant Range Shifts under Global Climate Change
 </h3>
