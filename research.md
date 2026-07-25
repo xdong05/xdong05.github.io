@@ -19,11 +19,15 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 Pattern formation • Nonlinear dynamics • Self-organization
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 200px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/reef1.png" style="height: 200px;">
+{::nomarkdown}
+
+<div style="display:flex; justify-content:center; gap:10px; margin:25px 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/reef1.png" style="height:200px;">
 </div>
+
+{:/nomarkdown}
 
 <p>
 We develop mathematical models to understand how interactions among organisms, resources, and the physical environment generate self-organized spatial patterns. By comparing diverse ecosystems—including dryland vegetation, biological soil crusts, Antarctic microbial communities, coral reefs, coastal wetlands, and soil redox patterns—we seek general mathematical principles governing pattern formation in living systems.
