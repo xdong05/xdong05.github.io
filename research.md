@@ -283,7 +283,7 @@ Climate change • Biodiversity • Species distributions
 {::nomarkdown}
 
 <div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 70%; max-width: 800px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 60%; max-width: 800px;">
 </div>
 
 <p style="text-align:center;
@@ -356,27 +356,6 @@ TOOLS
 <span class="research-tag">Integrated assessment models (IAMs)</span>
 
 </div>
-
-<div style="margin-top: 60px;"></div>
-
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Global Plant Range Shifts under Global Climate Change
-</h3>
-
-<div style="text-align: center; margin-bottom: 1px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 70%; max-width: 800px;">
-  <p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
-    Figure above: Causes and global distributions of plant extinction by 2081-2100. (a) Differences in projected plant extinction rates with realistic range shift velocity and unlimited dispersal are negligible. (b) Species at high risk of extinction are dominated by range-contracting plants and colonizing plants not subject to dispersal limitations. (c) Range shift velocity scenarios explained < 1% of variance in projected extinction rates, whereas choice of species distribution models (SDMs) explained most (60%) of the variance. (d) and (e) compares global distribution of plants at high extinction risk under medium (SSP245) and high (SSP585) emissions scenarios (paper under review).
-  </p>
-</div>
-
-In collaboration with [Dr. Francis Moore](https://franmoore.faculty.ucdavis.edu) and [Dr. Marc Conte](https://marcnconte.ace.fordham.edu), we are evaluating how climate change reshapes global plant distributions and biodiversity (funded by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB)).
-
-Using global species distribution models that account for dispersal limitations, local environmental conditions, topographic complexity, and land cover, we investigate the role of plant range shifts in mitigating extinction rates and modifying biodiversity distributions globally. Additionally, we identify regions likely to lose or gain biodiversity, experience novel species assemblages, and host key migration corridors. See our most recent results in [Science (2026)](https://www.science.org/doi/abs/10.1126/science.aea1676) 
-
-We also integrate these ecological outcomes into <span style="font-weight: 600;">Integrated Assessment Models (IAMs)</span> to better quantify the <span style="font-weight: 600;">social cost of carbon</span>. See our results in [JUE (2023)](https://www.journals.uchicago.edu/doi/10.1086/716662) and [Nature (2023)](https://www.nature.com/articles/s41586-023-06769-z).
-
-
 
 <div style="margin-top: 60px;"></div>
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
