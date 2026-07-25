@@ -10,7 +10,6 @@ permalink: /research/
 
 Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
 
-<div>
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   1. How do spatial patterns originate, assemble, interact with their environment, and change?
@@ -20,7 +19,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 Pattern formation • Nonlinear dynamics • Self-organization
 </p>
 
-<div style="display:flex; justify-content:center; gap:15px; margin:25px 0;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 200px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/reef1.png" style="height: 200px;">
@@ -40,9 +39,7 @@ Drylands • Antarctic microbial mats • Coral reefs
 Reaction–diffusion models • PDEs • Stability analysis • Numerical simulations
 </p>
 
-</div>
-
-<hr style="margin:70px 0;">
+<div style="margin-top: 60px;"></div>
 
 
 
