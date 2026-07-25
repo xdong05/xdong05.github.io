@@ -47,7 +47,7 @@ Our group values independence, collaboration, and intellectual curiosity. We str
 </div>
 
 <div style="position:relative; display:inline-block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/drone.png"
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/drone.jpeg"
      style="height:280px; width:auto; display:block;">
 <span style="position:absolute; bottom:10px; right:10px; background:rgba(0,0,0,0.35); color:white; padding:2px 7px; border-radius:3px; font-size:13px; font-weight:500;">APR 2023</span>
 </div>
