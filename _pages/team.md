@@ -44,7 +44,7 @@ img.team-photo.img-responsive {
 <div markdown="0">
   <div class="row member-full" style="margin-bottom: 40px; align-items: center;">
     <div class="col-sm-4">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xiaoli2.jpg" class="img-responsive team-photo" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xiaoli.png" class="img-responsive team-photo" />
     </div>
     <div class="col-sm-8">
       <h2>Xiaoli Dong</h2>
