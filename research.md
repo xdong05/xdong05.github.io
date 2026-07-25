@@ -119,7 +119,7 @@ Eco-evolutionary dynamics • Biogeomorphology • Landscape evolution
 <div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height:200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/marsh1.jpg" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fig2_chi.png" style="height:200px;">
 </div>
 
 <p style="text-align:center;
