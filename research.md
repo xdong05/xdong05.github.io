@@ -10,6 +10,54 @@ permalink: /research/
 
 Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
 
+<div class="research-card">
+
+<h2 style="margin-bottom:8px;">
+1. How do spatial patterns emerge in living systems?
+</h2>
+
+<p style="font-size:1.25em; font-style:italic; color:#555; margin-top:0;">
+Pattern formation • Nonlinear dynamics • Self-organization
+</p>
+
+<div style="display:flex; justify-content:center; gap:15px; margin:25px 0;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern1.jpg"
+         style="width:31%; border-radius:6px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern2.jpg"
+         style="width:31%; border-radius:6px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern3.jpg"
+         style="width:31%; border-radius:6px;">
+</div>
+
+<p>
+<b>How do simple local interactions generate the remarkable spatial
+patterns observed across ecosystems?</b>
+</p>
+
+<p>
+We develop mathematical models to understand how feedbacks among organisms,
+resources, and the physical environment give rise to self-organized spatial
+patterns. Using tools from nonlinear dynamics and partial differential
+equations, we seek general principles governing pattern formation across
+diverse ecosystems, from dryland vegetation and microbial communities to
+coral reefs and beyond.
+</p>
+
+<p style="margin-top:18px;">
+<b>Representative systems:</b>
+Drylands • Antarctic microbial mats • Coral reefs
+</p>
+
+<p>
+<b>Methods:</b>
+Reaction–diffusion models • PDEs • Stability analysis • Numerical simulations
+</p>
+
+</div>
+
+<hr style="margin:70px 0;">
+
+
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Vegetation Spatial Patterns in Global Drylands
 </h3>
