@@ -10,7 +10,7 @@ permalink: /research/
 
 Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
 
-<div class="research-card">
+<div>
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   1. How do spatial patterns originate, assemble, interact with their environment, and change?
