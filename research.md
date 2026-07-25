@@ -12,10 +12,10 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  How do spatial patterns originate, assemble, interact with their environment, and change?
+  How do spatial patterns originate, interact with their environment, and change?
 </h3>
 
-<p style="font-size:1.25em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
+<p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
 Pattern formation • Nonlinear dynamics • Self-organization
 </p>
 
