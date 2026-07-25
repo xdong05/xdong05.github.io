@@ -8,29 +8,32 @@ permalink: /vacancies
 
 # Open positions
 
-We are looking for new group members with passion, talent, and grit! Ideal candidates have a strong interest in *theoretical ecology* and are excited to use *mathematical and computational approaches* to tackle fundamental questions in spatial ecology.
+We are looking for curious, creative, and motivated group members who are excited by fundamental questions in ecology. Our lab combines *mathematics, computation, and ecological theory* to uncover general principles governing spatial organization across ecosystems. We welcome applicants from diverse quantitative backgrounds; prior experience in theoretical ecology is not required. What matters most is intellectual curiosity, a willingness to learn, and enthusiasm for tackling challenging problems.
 
 
 ### Current Opportunities
-I am currently recruiting for a fully funded [PhD position]({{ site.baseurl }}/downloads/PHD.pdf). Applicants with broad interests in theoretical ecology, ecohydrology, or biogeomorphology are especially encouraged to apply.
+I am currently recruiting for a fully funded [PhD position]({{ site.baseurl }}/downloads/PHD.pdf). Applicants with interests in theoretical ecology, ecohydrology, biogeomorphology, applied mathematics, nonlinear dynamics, or other quantitative approaches to ecology are particularly encouraged to apply.
 
-> **I welcome inquiries from those broadly interested in the topics we explore in our lab. I’m always excited to explore new ideas, projects, and directions together.**
+*Even if your background differs from the areas listed above, I encourage you to reach out if you are excited by the kinds of questions we study. Some of the most exciting research emerges at the intersection of disciplines.*
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with me as a PhD student or postdoctoral researcher, please send me an [email](mailto:xldong@ucdavis.edu). State briefly why you are interested and attach a CV.
+### PhD and Postdoctoral Applications
+If you are interested in joining the lab, please send me an [email](mailto:xldong@ucdavis.edu). Please include a brief description of your research interests, why you would like to join the lab, and your CV. Links to publications, preprints, or code repositories are also welcome.
 
-I can take on graduate students through [Graduate Group in Ecology (GGE)](https://ecology.ucdavis.edu/admissions), [Graduate Group in Applied Mathematics (GGAM)](https://appliedmath.ucdavis.edu/graduate), [Population Biology Graduate Group (PBGG)](https://pbg.ucdavis.edu/apply), and [Hydrological Sciences Graduate Group (HSGG)](https://www.hsgg.ucdavis.edu). Before you apply, please feel free to contact me to discuss which program may be the best fit for your interests. 
-
-
-We especially welcome postdocs with fellowships. I'd be happy to develop applications with you. Please take a look at the [CPB Postdoctoral Fellowship at UC Davis](https://cpb.ucdavis.edu/cpb-postdoc-fellowship), or [Chancellor's Postdoctoral Fellowship Program (CPFP) at UC Davis](https://grad.ucdavis.edu/chancellors-postdoctoral-fellowship-program-cpfp), or NSF Postdoctoral Research Fellowships through different programs, e.g., [Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb), [Earth Science](https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf).
+Graduate students can apply to work with me through several UC Davis graduate programs, including the [Graduate Group in Ecology (GGE)](https://ecology.ucdavis.edu/admissions), [Graduate Group in Applied Mathematics (GGAM)](https://appliedmath.ucdavis.edu/graduate), [Population Biology Graduate Group (PBGG)](https://pbg.ucdavis.edu/apply), and [Hydrological Sciences Graduate Group (HSGG)](https://www.hsgg.ucdavis.edu). I am happy to discuss which program would be the best fit before you apply. 
 
 
-### Master projects for UC Davis students
-If you are a Master student at UC Davis looking for a Master project, please contact me by [email](mailto:xldong@ucdavis.edu).
+I also welcome inquiries from prospective postdoctoral researchers, particularly those interested in pursuing independent fellowships. I would be happy to work with you on fellowship applications, including the [CPB Postdoctoral Fellowship at UC Davis](https://cpb.ucdavis.edu/cpb-postdoc-fellowship), the [UC Davis Chancellor's Postdoctoral Fellowship Program (CPFP)](https://grad.ucdavis.edu/chancellors-postdoctoral-fellowship-program-cpfp), or NSF Postdoctoral Research Fellowships.
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at UC Davis, sometimes, we take master students or summer interns if we get exceptional applicants.
 
+### Master's Students
+
+UC Davis master's students interested in pursuing a research project in the lab are encouraged to contact me.
+
+Outstanding B.S. and master's students from other institutions may also have opportunities to join the lab as visiting researchers or summer interns, depending on funding and availability.
+
+---
+
+Our group values independence, collaboration, and intellectual curiosity. We strive to create a supportive environment where people are encouraged to pursue ambitious ideas, learn from one another, and develop as independent scientists.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20210424_180553529.jpg" width="95%">
