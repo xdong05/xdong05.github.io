@@ -131,7 +131,7 @@ Eco-evolutionary dynamics • Biogeomorphology • Landscape evolution
   From left to right:
   (A) eco-evolutionary feedbacks between organisms and landscapes;
   (B) vegetation–sediment interactions in riverine landscapes;
-  (C) patterned coastal wetlands shaped by biological and geomorphic processes.
+  (C) inhibition of adaptive evolution in patterned landscapes.
 </p>
 
 {:/nomarkdown}
@@ -193,26 +193,6 @@ TOOLS
 
 
 
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Geo-evolutionary Feedbacks to Couple Evolution of Landscapes and Plants
-</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height: 200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height: 200px;">
-</div>
-<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
-  From left to right: (A) Geo-evolutionary feedbacks using the example of coastal salt marsh landscapes (from [Dong et al. 2024](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8)); (B) a riverine landscape shaped by vegetation–sediment-flow interactions.
-</p>
-
-
-Biological processes affect almost all landscapes on Earth. Their effects are perhaps most prominent in biogeomorphic landscapes such as coastal wetlands, sand dunes, and peatlands. The field of biogeomorphology has been built on observations of the strong influence of organisms on landscapes; however, biogeomorphic models seldom consider genetic or phenotypic changes of organisms, because evolution is perceived to take place slowly and across great distances. Thus, geomorphologists have often assumed that they could safely ignore evolution, especially at fine temporal and spatial scales. However, evidence from evolutionary biology has accumulated that populations can evolve meaningful changes on the same timescales at which they modify the landscape. 
-
-Looking at this knowledge gap from the other side, evolutionary biology often does not consider the effect of landscape dynamics on biological evolution. Although the effects of landscape changes on speciation in geological time are relatively well studied, synergistic interactions between evolution and landscape change in *contemporary time* have not been embodied in evolutionary biology. Such persistent disciplinary barriers have impeded the development of a much-needed integrative theory. 
-
-The key realization to our argument is that evolutionary dynamics and landscape change can occur at *congruent timescales*, thus forming an interplay between the evolution of populations and the dynamics of landscapes on which those populations reside. We are developing models and theory that integrate <span style="font-weight: 600;">eco-evolutionary and landscape geomorphic dynamics</span>, considering feedbacks between landscape changes and evolution of plants in contemporary times. See [this modeling paper](https://www.journals.uchicago.edu/doi/full/10.1086/719425) and [conceptual paper](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00119-8) for our most recent results.
-
-
-<div style="margin-top: 60px;"></div>
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
   Global Plant Range Shifts under Global Climate Change
 </h3>
