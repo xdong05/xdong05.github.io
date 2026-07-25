@@ -52,24 +52,33 @@ We develop mathematical models to understand how interactions among organisms, r
 <ul style="margin:0 0 15px 22px; line-height:1.4;">
   <li>
   Dryland vegetation and biological soil crusts
-  <span style="color:#777;">
-    (<a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>)
+  <br>
+  <span style="color:#777; font-size:0.92em;">
+    Funded by <a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
+    &nbsp;|&nbsp;
+    Co-PIs:
+    <a href="https://jin.ucdavis.edu">Yufang Jin</a>,
+    <a href="https://abe.ufl.edu/people/faculty/rachata-muneepeerakul/">Rachata Muneepeerakul</a>,
+    <a href="https://drylandecology.com/who-we-are">Caroline A. Havrilla</a>,
+    <a href="https://scholar.google.com/citations?user=4fQCR88AAAAJ&hl=en">Yu Zhang</a>
   </span>
 </li>
+
   <li>
   Antarctic microbial communities
-  <span style="color:#777;">
-    (<a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>)
+  <br>
+  <span style="color:#777; font-size:0.92em;">
+    Funded by <a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>
+    &nbsp;|&nbsp;
+    Co-PI:
+    <a href="https://dysumner.faculty.ucdavis.edu">Dawn Sumnern</a>
   </span>
 </li>
+
 </ul>
 
 <p style="margin-top:10px; margin-bottom:4px;">
-<b>Methods:</b>
-</p>
-
-<p style="margin-top:0;">
-Reaction–diffusion models • Partial differential equations • Stability analysis • Numerical simulations
+<b>Methods:</b> Reaction–diffusion models • Partial differential equations • Stability analysis • Numerical simulations
 </p>
 
 <div style="margin-top: 60px;"></div>
@@ -94,7 +103,7 @@ As environmental change pushes ecosystems toward their limits, there's a growing
 
 The prevailing dryland models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare-soil state. However, such patterns only appear in a small fraction of drylands globally. A likely reason is that current models overlook a crucial ecological component—species interactions, particularly the role of <span style="font-weight: 600;">biological soil crusts (biocrusts)</span> in the case of drylands.
 
-To better understand dryland spatial dynamics, we are developing new theories and models that explicitly include biocrust-plant species interactions. Supported by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB), our team (co-PIs: [Yufang Jin](https://jin.ucdavis.edu), [Rachata Muneepeerakul](https://abe.ufl.edu/people/faculty/rachata-muneepeerakul/), [Caroline A. Havrilla](https://drylandecology.com/who-we-are), and [Yu Zhang](https://scholar.google.com/citations?user=4fQCR88AAAAJ&hl=en)) aims to build models that explain the broader diversity of vegetation patterns observed in real drylands. See our recent results from the [remote sensing analysis](https://link.springer.com/article/10.1007/s10021-023-00898-2) and [mathematical modeling](https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028).
+To better understand dryland spatial dynamics, we are developing new theories and models that explicitly include biocrust-plant species interactions. Supported by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB), our team () aims to build models that explain the broader diversity of vegetation patterns observed in real drylands. See our recent results from the [remote sensing analysis](https://link.springer.com/article/10.1007/s10021-023-00898-2) and [mathematical modeling](https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028).
   
 <div style="margin-top: 60px;"></div>
 
