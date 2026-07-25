@@ -77,7 +77,7 @@ CURRENT MODEL SYSTEMS
     Funded by <a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>
     &nbsp;|&nbsp;
     Co-PI:
-    <a href="https://dysumner.faculty.ucdavis.edu">Dawn Sumnern</a>
+    <a href="https://dysumner.faculty.ucdavis.edu">Dawn Sumner</a>
   </span>
 </li>
 
@@ -104,48 +104,6 @@ APPROACHES
 
 <div style="margin-top: 60px;"></div>
 
-
-
-
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Vegetation Spatial Patterns in Global Drylands
-</h3>
-
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg4.jpg" style="height: 200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_BSC6.jpg" style="height: 200px;">
-</div>
-<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
-  From left to right: (A) self-organized vegetation patterns in dryland ecosystems; (B) a typical reactive-transport model to study Turing pattern formation of dryland vegetation; (C) dryland ecosystems featuring both vascular plants and biological soil crusts. 
-</p>
-
-As environmental change pushes ecosystems toward their limits, there's a growing need to predict their responses to external pressures. Prior research shows that large-scale spatial patterns in ecosystems can change in *predictable* ways near tipping points—serving as early warning signs of collapse. Drylands, which are both globally widespread and sensitive, have been a model system for developing this theory.
-
-The prevailing dryland models predict a shift in vegetation patterns with increasing aridity: from gaps in continuous vegetation, to labyrinth-like bands, to spotty patches, and eventually to a bare-soil state. However, such patterns only appear in a small fraction of drylands globally. A likely reason is that current models overlook a crucial ecological component—species interactions, particularly the role of <span style="font-weight: 600;">biological soil crusts (biocrusts)</span> in the case of drylands.
-
-To better understand dryland spatial dynamics, we are developing new theories and models that explicitly include biocrust-plant species interactions. Supported by [NSF-DEB](https://www.nsf.gov/div/index.jsp?div=DEB), our team () aims to build models that explain the broader diversity of vegetation patterns observed in real drylands. See our recent results from the [remote sensing analysis](https://link.springer.com/article/10.1007/s10021-023-00898-2) and [mathematical modeling](https://onlinelibrary.wiley.com/doi/abs/10.1002/eco.70028).
-  
-<div style="margin-top: 60px;"></div>
-
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  Spatial Self-organization of Benthic Microbial Communities in Antarctic Lakes
-</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 1px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant1.png" style="height: 200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant2.jpg" style="height: 200px;">
-</div>
-<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
-  From left to right: (A) microbial communities forming cone structures on the lake floor in Antartic; (B) microbial communities forming pinnacle structure on the lake floor; and (C) cross-section of a pinnacle ([read more](https://pubmed.ncbi.nlm.nih.gov/27474373/)).
-</p>
-
-
-Beneath permanent ice and meters of liquid water in many Antarctic lakes reside structurally complex arrays of spatially self-organized microbial mats,  forming pinnacles, cones, or hexagonal structures (<span style="font-weight: 600;">[modern stromatolites](https://en.wikipedia.org/wiki/Stromatolite)</span>). These unique ecosystems are now being reshaped by global change. We are developing models to predict how environmental changes—particularly the reduction or loss of summer ice cover—might affect, or may have already affected, benthic microbial communities. By integrating the morphology and spatial patterning of these modern stromatolites with their biophysical and biochemical environments, we aim to refine our understanding of the controls on microbial community organization. This, in turn, will improve interpretations of *ancient stromatolites* in the geologic record and shed light on key questions about Earth’s evolutionary and environmental history.
-
-Collaborating with [Dr. Dawn Sumner](https://dysumner.faculty.ucdavis.edu), we are applying pattern formation theory and computational fluid dynamics (CFD) to understand pinnacle-forming microbial mats in Lake Vanda, Antarctica (funded by [NSF-OPP](https://www.nsf.gov/div/index.jsp?div=OPP)) and their response to ice melting under warming. 
- 
-<div style="margin-top: 60px;"></div>
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
