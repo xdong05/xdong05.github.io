@@ -38,12 +38,11 @@ Outstanding B.S. and master's students from other institutions may also have opp
 Our group values independence, collaboration, and intellectual curiosity. We strive to create a supportive and inclusive environment where members are encouraged to pursue ambitious ideas, learn from one another, and grow into independent scientists.
 </p>
 
-<figure style="display:flex; justify-content:center; gap:20px; align-items:flex-start;">
+<figure style="display:flex; justify-content:center; gap:20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20210424_180553529.jpg"
-       style="width:45%; height:auto;">
+       style="width:45%; aspect-ratio:4/3; object-fit:cover;">
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/dinner.png"
-       style="width:45%; height:auto;">
+       style="width:45%; aspect-ratio:4/3; object-fit:cover;">
 </figure>
-
 
