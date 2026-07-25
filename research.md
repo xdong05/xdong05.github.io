@@ -283,9 +283,7 @@ Climate change • Biodiversity • Species distributions
 {::nomarkdown}
 
 <div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="height:200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rangeshift1.jpg" style="height:200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/biodiversity1.jpg" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" style="width: 70%; max-width: 800px;">
 </div>
 
 <p style="text-align:center;
@@ -294,16 +292,13 @@ Climate change • Biodiversity • Species distributions
           color:#666;
           line-height:1.3;
           margin:1px 0 14px 0;">
-  From left to right:
-  (A) projected global patterns of plant extinction risk;
-  (B) climate-driven species range shifts;
-  (C) future redistribution of global biodiversity.
+  Figure above: Causes and global distributions of plant extinction by 2081-2100. (a) Differences in projected plant extinction rates with realistic range shift velocity and unlimited dispersal are negligible. (b) Species at high risk of extinction are dominated by range-contracting plants and colonizing plants not subject to dispersal limitations. (c) Range shift velocity scenarios explained < 1% of variance in projected extinction rates, whereas choice of species distribution models (SDMs) explained most (60%) of the variance. (d) and (e) compares global distribution of plants at high extinction risk under medium (SSP245) and high (SSP585) emissions scenarios (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>)
 </p>
 
 {:/nomarkdown}
 
 <p>
-Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale predictive models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we seek to improve predictions of biodiversity change and its societal consequences.
+Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale predictive models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we also evaluate the societal consequences of biodiversity change.
 </p>
 
 <p style="margin-top:14px;
@@ -325,8 +320,8 @@ Global terrestrial plants
 Funded by
 <a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
 &nbsp;|&nbsp;
-Co-PIs:
-<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore</a>,
+Collaborators:
+<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore (lead PI)</a>,
 <a href="https://marcnconte.ace.fordham.edu">Marc Conte</a>
 </span>
 </li>
@@ -336,7 +331,9 @@ Global biodiversity under future climate scenarios
 <br>
 <span style="color:#777; font-size:0.92em;">
 Recent work:
-<a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>
+<a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>,
+<a href="https://www.nature.com/articles/s41586-023-06769-z">Nature (2023)</a>,
+<a href="https://www.journals.uchicago.edu/doi/10.1086/716662">JUE (2023)</a>
 </span>
 </li>
 
