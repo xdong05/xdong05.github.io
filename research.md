@@ -200,7 +200,7 @@ Scientific AI • Physics-informed machine learning • Earth system prediction
 
 <div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/colorado.webp" style="height:200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ai1.png" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/basin.png" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/hydro2.jpg" style="height:200px;">
 </div>
 
