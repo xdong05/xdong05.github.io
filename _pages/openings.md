@@ -42,13 +42,19 @@ Our group values independence, collaboration, and intellectual curiosity. We str
 
 <div style="position:relative; display:inline-block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20210424_180553529.jpg"
-     style="height:300px; width:auto; display:block;">
+     style="height:280px; width:auto; display:block;">
 <span style="position:absolute; bottom:10px; right:10px; background:rgba(0,0,0,0.35); color:white; padding:2px 7px; border-radius:3px; font-size:13px; font-weight:500;">2020</span>
 </div>
 
 <div style="position:relative; display:inline-block;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/drone.jpg"
+     style="height:280px; width:auto; display:block;">
+<span style="position:absolute; bottom:10px; right:10px; background:rgba(0,0,0,0.35); color:white; padding:2px 7px; border-radius:3px; font-size:13px; font-weight:500;">APR 2023</span>
+</div>
+
+<div style="position:relative; display:inline-block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/dinner.png"
-     style="height:300px; width:auto; display:block;">
+     style="height:280px; width:auto; display:block;">
 <span style="position:absolute; bottom:10px; right:10px; background:rgba(0,0,0,0.35); color:white; padding:2px 7px; border-radius:3px; font-size:13px; font-weight:500;">JUN 2026</span>
 </div>
 
