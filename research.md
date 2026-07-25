@@ -21,7 +21,7 @@ Pattern formation • Nonlinear dynamics • Self-organization
 
 {::nomarkdown}
 
-<div style="display:flex; justify-content:center; gap:10px; margin:12px 0 1px 0;">
+<div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/reef1.png" style="height:200px;">
@@ -45,7 +45,7 @@ Pattern formation • Nonlinear dynamics • Self-organization
 We develop mathematical models to understand how interactions among organisms, resources, and the physical environment generate self-organized spatial patterns. By comparing diverse ecosystems—including [dryland vegetation](https://onlinelibrary.wiley.com/doi/full/10.1002/eco.70028), [biological soil crusts](https://link.springer.com/article/10.1007/s10021-023-00898-2), Antarctic microbial communities, [coral reefs](https://link.springer.com/article/10.1007/s00338-024-02603-8), [coastal wetlands](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JF006072), and [soil redox patterns](https://www.pnas.org/doi/full/10.1073/pnas.2313487120) — we seek general mathematical principles governing pattern formation in living systems.
 </p>
 
-<p style="margin-top:20px; margin-bottom:4px;">
+<p style="margin-top:10px; margin-bottom:4px;">
 <b>Current model systems:</b>
 </p>
 
@@ -64,7 +64,7 @@ We develop mathematical models to understand how interactions among organisms, r
 </li>
 </ul>
 
-<p style="margin-top:18px; margin-bottom:4px;">
+<p style="margin-top:10px; margin-bottom:4px;">
 <b>Methods:</b>
 </p>
 
