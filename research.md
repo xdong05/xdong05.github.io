@@ -21,12 +21,9 @@ Pattern formation • Nonlinear dynamics • Self-organization
 </p>
 
 <div style="display:flex; justify-content:center; gap:15px; margin:25px 0;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" 
-        style="height: 200px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" 
-        style="height: 200px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern3.jpg"
-         style="width:31%; border-radius:6px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height: 200px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height: 200px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/pattern3.jpg" style="width:31%; border-radius:6px;">
 </div>
 
 <p>
