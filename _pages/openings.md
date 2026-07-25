@@ -31,7 +31,6 @@ UC Davis master's students interested in pursuing a research project in the lab 
 
 Outstanding B.S. and master's students from other institutions may also have opportunities to join the lab as visiting researchers or summer interns, depending on funding and availability.
 
----
 
 <hr>
 
@@ -42,6 +41,6 @@ Our group values independence, collaboration, and intellectual curiosity. We str
 
 <figure style="text-align:center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_20210424_180553529.jpg"
-       style="max-width:60%; height:auto;">
+       style="max-width:70%; height:auto;">
 </figure>
 
