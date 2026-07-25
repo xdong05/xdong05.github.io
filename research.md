@@ -21,14 +21,24 @@ Pattern formation • Nonlinear dynamics • Self-organization
 
 {::nomarkdown}
 
-<div style="display:flex; justify-content:center; gap:10px; margin:25px 0;">
+<div style="display:flex; justify-content:center; gap:10px; margin:12px 0 6px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/veg3.jpeg" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ant3.jpeg" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/reef1.png" style="height:200px;">
 </div>
-<p style="text-align: center; font-family: Georgia, serif; font-size: 0.85em; color: #555; line-height: 1.3; margin-top: 1px; margin-bottom: 20px;">
-  From left to right: (A) regular vegetation patterns in drylands; (B) microbial communities forming cone structures on the lake floor in Antartic; (C) reticulated coral reef patterns. 
+
+<p style="text-align:center;
+          font-family:Georgia, serif;
+          font-size:0.85em;
+          color:#666;
+          line-height:1.3;
+          margin:4px 0 14px 0;">
+  From left to right:
+  (A) regular vegetation patterns in drylands;
+  (B) microbial communities forming cone structures in Antarctic lakes;
+  (C) reticulated coral reef patterns.
 </p>
+
 {:/nomarkdown}
 
 <p>
@@ -52,6 +62,7 @@ We develop mathematical models to understand how interactions among organisms, r
     (<a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>)
   </span>
 </li>
+</ul>
 
 <p>
 <b>Methods:</b>
