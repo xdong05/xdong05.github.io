@@ -219,7 +219,7 @@ Scientific AI • Physics-informed machine learning • Earth system prediction
 {:/nomarkdown}
 
 <p>
-Many environmental systems exhibit multiscale dynamics, physical constraints, and sparse observations that challenge conventional machine learning. We develop physics-informed artificial intelligence that combines mathematical models with modern deep learning to improve environmental prediction while maintaining physical consistency and scientific interpretability. Our current work focuses on hydrological forecasting through collaborations spanning applied mathematics, hydrology, computer science, and ecology.
+Mechanistic models provide scientific understanding but are often limited by incomplete process knowledge, whereas machine learning can uncover patterns from large datasets but often lacks physical interpretability. We develop physics-informed artificial intelligence that integrates mathematical models with modern deep learning to improve environmental prediction while maintaining scientific interpretability. Our current work focuses on hydrological forecasting through collaborations spanning applied mathematics, earth science, computer science, and ecology.
 </p>
 
 <p style="margin-top:14px;
