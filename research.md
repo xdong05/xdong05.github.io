@@ -71,7 +71,7 @@ MODEL SYSTEMS
 </li>
 
   <li>
-  Antarctic microbial communities
+  Antarctic microbial communities (modern stromatolites)
   <br>
   <span style="color:#777; font-size:0.92em;">
     Funded by <a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>
