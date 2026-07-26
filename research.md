@@ -304,7 +304,7 @@ Climate change • Biodiversity • Species distributions
 {:/nomarkdown}
 
 <p>
-Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale ecological forecasting models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. Furthermore, by integrating ecological forecasting with economic and policy frameworks, we evaluate the societal consequences of biodiversity change.
+Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and transforming ecosystem functioning. We develop large-scale species distribution models for ecological forecasting to understand how dispersal, environmental change, and landscape heterogeneity jointly determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we also evaluate the societal consequences of biodiversity change.
 </p>
 
 <p style="margin-top:14px;
@@ -320,27 +320,25 @@ MODEL SYSTEMS
 <ul style="margin:0 0 15px 22px; line-height:1.4;">
 
 <li>
-Global terrestrial plants
+Global terrestrial plants and biomes
+
 <br>
+
 <span style="color:#777; font-size:0.92em;">
-Funded by
-<a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
-&nbsp;|&nbsp;
 Collaborators:
-<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore</a>,
+<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore (lead PI)</a>,
 <a href="https://marcnconte.ace.fordham.edu">Marc Conte</a>
 </span>
-</li>
 
-<li>
-Global biodiversity under future climate scenarios
 <br>
+
 <span style="color:#777; font-size:0.92em;">
 Recent work:
 <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>,
 <a href="https://www.nature.com/articles/s41586-023-06769-z">Nature (2023)</a>,
 <a href="https://www.journals.uchicago.edu/doi/10.1086/716662">JUE (2023)</a>
 </span>
+
 </li>
 
 </ul>
@@ -358,8 +356,8 @@ TOOLS
 <div style="margin-top:0; margin-bottom:10px;">
 
 <span class="research-tag">Species distribution models (SDMs)</span>
-<span class="research-tag">Macroecology</span>
 <span class="research-tag">Integrated assessment models (IAMs)</span>
+<span class="research-tag">Macroecology</span>
 
 </div>
 
