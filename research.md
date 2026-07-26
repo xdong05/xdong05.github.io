@@ -12,7 +12,7 @@ Our work focuses on spatial self-organization and pattern formation in ecosystem
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  1. How do spatial patterns originate, interact with their environment, and change?
+  How do spatial patterns originate, interact with their environment, and change?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -62,7 +62,7 @@ MODEL SYSTEMS
   <span style="color:#777; font-size:0.92em;">
     Funded by <a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
     &nbsp;|&nbsp;
-    Co-PIs:
+    Collaborators:
     <a href="https://jin.ucdavis.edu">Yufang Jin</a>,
     <a href="https://abe.ufl.edu/people/faculty/rachata-muneepeerakul/">Rachata Muneepeerakul</a>,
     <a href="https://drylandecology.com/who-we-are">Caroline A. Havrilla</a>,
@@ -76,7 +76,7 @@ MODEL SYSTEMS
   <span style="color:#777; font-size:0.92em;">
     Funded by <a href="https://www.nsf.gov/div/index.jsp?div=OPP">NSF-OPP</a>
     &nbsp;|&nbsp;
-    Co-PI:
+    Collaborator:
     <a href="https://dysumner.faculty.ucdavis.edu">Dawn Sumner</a>
   </span>
 </li>
@@ -107,7 +107,7 @@ TOOLS
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 60px;">
-  2. How does evolution shape—and become shaped by—pattern formation?
+  How do evolution and spatial organization shape one another?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -189,7 +189,7 @@ TOOLS
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 60px;">
-  3. How can mathematics and AI improve environmental prediction?
+  How can mathematics and AI improve environmental prediction?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -219,7 +219,7 @@ Scientific AI • Physics-informed machine learning • Earth system prediction
 {:/nomarkdown}
 
 <p>
-Many environmental systems exhibit multiscale dynamics, physical constraints, and sparse observations that challenge conventional machine learning. We develop physics-informed artificial intelligence that combines mathematical models with modern deep learning to improve environmental prediction while maintaining physical consistency and scientific interpretability. Our current work focuses on hydrological forecasting and Earth system prediction through close collaborations among applied mathematicians, hydrologists, computer scientists, and ecologists.
+Many environmental systems exhibit multiscale dynamics, physical constraints, and sparse observations that challenge conventional machine learning. We develop physics-informed artificial intelligence that combines mathematical models with modern deep learning to improve environmental prediction while maintaining physical consistency and scientific interpretability. Our current work focuses on hydrological forecasting through collaborations spanning applied mathematics, hydrology, computer science, and ecology.
 </p>
 
 <p style="margin-top:14px;
@@ -235,7 +235,7 @@ MODEL SYSTEMS
 <ul style="margin:0 0 15px 22px; line-height:1.4;">
 
 <li>
-Hydrological systems (Colorado River Basin)
+Colorado River Basin
 <br>
 <span style="color:#777; font-size:0.92em;">
 Funded by the
@@ -273,7 +273,7 @@ TOOLS
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 60px;">
-  4. How will biodiversity reorganize under global climate change?
+  How will biodiversity reorganize under global environmental change?
 </h3>
 
 <p style="font-size:1.2em; font-family: 'Georgia', serif; font-style:italic; color:#555; margin-top:0;">
@@ -296,7 +296,7 @@ Climate change • Biodiversity • Species distributions
           margin:1px 0 14px 0;">
   From left to right:
   (A) trajectories of the annual change in market and non-market benefits for the 57 countries and regions by 2100 (read more in <a href="https://www.nature.com/articles/s41586-023-06769-z">Nature (2023)</a>);
-  (B) projected plant extinction by 2100 is *not* due to dispersal limitation (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>);
+  (B) projected plant extinction risk under future climate change is *not* due to dispersal limitation (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>);
   (C) reporting of our work by the <a href="https://apnews.com/article/plants-extinction-climate-change-unusual-habitat-risk-b059130319e66938073c681a705d6391">Associated Press</a>.
 </p>
 
@@ -304,7 +304,7 @@ Climate change • Biodiversity • Species distributions
 {:/nomarkdown}
 
 <p>
-Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale predictive models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we also evaluate the societal consequences of biodiversity change.
+Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale ecological forecasting models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we also evaluate the societal consequences of biodiversity change.
 </p>
 
 <p style="margin-top:14px;
@@ -362,8 +362,3 @@ TOOLS
 <span class="research-tag">Integrated assessment models (IAMs)</span>
 
 </div>
-
-<div style="margin-top: 60px;"></div>
-<h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
-  ... and more
-</h3>
