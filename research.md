@@ -137,7 +137,7 @@ Eco-evolutionary dynamics • Biogeomorphology • Landscape evolution
 {:/nomarkdown}
 
 <p>
-Organisms continuously modify the landscapes they inhabit, while changing landscapes reshape ecological interactions and natural selection. We develop mathematical theory to understand how ecological, evolutionary, and geomorphic processes jointly drive the emergence and evolution of spatial organization. By integrating eco-evolutionary dynamics with landscape evolution, we seek predictive principles governing the long-term dynamics of living landscapes.
+Organisms continuously modify the landscapes they inhabit, while changing landscapes reshape ecological interactions and natural selection. We develop mathematical theory to understand how ecological, evolutionary, and geomorphic processes interact to drive the emergence and evolution of spatial organization. By integrating eco-evolutionary dynamics with landscape evolution, we seek general predictive principles governing the long-term dynamics of both landscapes and the organisms that inhabit them.
 </p>
 
 <p style="margin-top:14px;
