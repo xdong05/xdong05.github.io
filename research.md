@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-We combine nonlinear dynamics, spatial ecology, applied mathematics, and artificial intelligence to understand and predict the dynamics of spatially extended systems. Across diverse ecosystems and scales, we seek general principles governing how spatial organization emerges, evolves, and responds to environmental change.
+We combine nonlinear dynamics, spatial ecology, and applied mathematics to understand and predict the dynamics of spatially extended systems. Across diverse ecosystems and scales, we seek general principles governing how spatial organization emerges, evolves, and responds to environmental change.
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
