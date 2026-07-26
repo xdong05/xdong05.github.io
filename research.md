@@ -323,9 +323,10 @@ MODEL SYSTEMS
 Global terrestrial plants and biomes
 
 <br>
-
 <span style="color:#777; font-size:0.92em;">
-Collaborators:
+    Funded by <a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
+    &nbsp;|&nbsp;
+    Collaborators:
 <a href="https://franmoore.faculty.ucdavis.edu">Francis Moore (lead PI)</a>,
 <a href="https://marcnconte.ace.fordham.edu">Marc Conte</a>
 </span>
