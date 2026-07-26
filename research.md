@@ -296,7 +296,7 @@ Climate change • Biodiversity • Species distributions
           margin:1px 0 14px 0;">
   From left to right:
   (A) trajectories of the annual change in market and non-market benefits for the 57 countries and regions by 2100 (read more in <a href="https://www.nature.com/articles/s41586-023-06769-z">Nature (2023)</a>);
-  (B) projected plant extinction risk under future climate change is *not* due to dispersal limitation (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>);
+  (B) dispersal limitation plays a surprisingly small role in projected global plant extinction by 2100 (read more in <a href="https://www.science.org/doi/abs/10.1126/science.aea1676">Science (2026)</a>);
   (C) reporting of our work by the <a href="https://apnews.com/article/plants-extinction-climate-change-unusual-habitat-risk-b059130319e66938073c681a705d6391">Associated Press</a>.
 </p>
 
