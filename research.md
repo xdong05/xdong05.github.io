@@ -239,7 +239,7 @@ Colorado River Basin
 <br>
 <span style="color:#777; font-size:0.92em;">
 Funded by the
-<a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission">DOE GENESIS Program</a>
+<a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission">DOE GENESIS</a>
 &nbsp;|&nbsp;
 Partners:
 EnviTrace LLC (<a href="https://www.envitrace.com/team/mikhael-semaan/">Mikhael Semaan</a>, <a href="https://www.envitrace.com/team/velimir-monty-vesselinov/">Velimir Vesselinov</a>), UC Davis (<a href="https://physics.ucdavis.edu/people/faculty/james-crutchfield">James Crutchfield</a>), Oak Ridge National Laboratory (<a href="https://www.ornl.gov/staff-profile/forrest-m-hoffman">Forrest Hoffman</a>), and Lawrence Berkeley National Laboratory (<a href="https://profiles.lbl.gov/554239-adam-rupe">Adam Rupe</a>)
