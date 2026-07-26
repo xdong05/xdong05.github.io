@@ -129,9 +129,9 @@ Eco-evolutionary dynamics • Biogeomorphology • Landscape evolution
           line-height:1.3;
           margin:1px 0 14px 0;">
   From left to right:
-  (A) eco-evolutionary feedbacks between organisms and landscapes;
-  (B) vegetation–sediment interactions in riverine landscapes;
-  (C) inhibition of adaptive evolution in patterned landscapes.
+  (A) eco-evolutionary feedbacks between organisms and landscapes (read more in <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8">TREE (2024)</a>);
+  (B) plant traits shaping the morphology of riverine landscapes;
+  (C) spatial self-organization inhibiting adaptive evolution (work under review).
 </p>
 
 {:/nomarkdown}
