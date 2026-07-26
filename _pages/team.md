@@ -51,10 +51,10 @@ img.team-photo.img-responsive {
       <p class="role-title">Associate Professor</p>
       <p>Xiaoli joined UC Davis in 2018 after completing a postdoctoral fellowship at Duke University. She earned her Ph.D. from Arizona State University in 2015. Her research combines nonlinear dynamics, spatial ecology, and applied mathematics to uncover general principles governing the emergence of spatial patterns and their consequences for ecosystem resilience and evolutionary dynamics.</p>
       <p style="margin-top:18px; color:#555;">
-        <span style="font-weight:600;">Email</span>
+        <span style="font-weight:600;">Email:</span>
         <a href="mailto:xldong@ucdavis.edu">xldong@ucdavis.edu</a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
-        <span style="font-weight:600;">Office</span>
+        <span style="font-weight:600;">Office:</span>
         3146 Wickson Hall
       </p>
       
