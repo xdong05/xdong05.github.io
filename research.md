@@ -304,7 +304,7 @@ Climate change • Biodiversity • Species distributions
 {:/nomarkdown}
 
 <p>
-Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale ecological forecasting models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. By integrating ecological forecasting with economic and policy frameworks, we also evaluate the societal consequences of biodiversity change.
+Climate change is reshaping the geographic distributions of species worldwide, creating novel communities and altering ecosystem functioning. We develop large-scale ecological forecasting models to understand how dispersal, environmental change, and landscape heterogeneity interact to determine future biodiversity patterns. Furthermore, by integrating ecological forecasting with economic and policy frameworks, we evaluate the societal consequences of biodiversity change.
 </p>
 
 <p style="margin-top:14px;
