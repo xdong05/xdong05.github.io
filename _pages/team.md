@@ -53,9 +53,8 @@ img.team-photo.img-responsive {
       <p>
         <strong>Email:</strong>
         <a href="mailto:xldong@ucdavis.edu">xldong@ucdavis.edu</a><br>
-
         <strong>Office:</strong>
-        3146 Wickson Hall<br>
+        3146 Wickson Hall
       </p>
       
     </div>
