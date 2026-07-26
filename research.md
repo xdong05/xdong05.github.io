@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our work focuses on spatial self-organization and pattern formation in ecosystems, using mathematical models, primarily partial differential equations. Here are some themes we currently work on:
+We combine nonlinear dynamics, spatial ecology, applied mathematics, and artificial intelligence to understand and predict the dynamics of spatially extended systems. Across diverse ecosystems and scales, we seek general principles governing how spatial organization emerges, evolves, and responds to environmental change.
 
 
 <h3 style="font-size: 1.6em; font-family: 'Georgia', serif; margin-top: 40px;">
@@ -362,3 +362,5 @@ TOOLS
 <span class="research-tag">Integrated assessment models (IAMs)</span>
 
 </div>
+
+<div style="margin-top: 60px;"></div>
