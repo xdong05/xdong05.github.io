@@ -153,17 +153,17 @@ MODEL SYSTEMS
 <ul style="margin:0 0 15px 22px; line-height:1.4;">
 
 <li>
-  Coastal wetlands
+  Riverine and biogeomorphic landscapes
   <br>
   <span style="color:#777; font-size:0.92em;">
     Recent work:
-    <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8">TREE</a>,
-    <a href="https://www.journals.uchicago.edu/doi/full/10.1086/719425">The American Naturalist</a>
+    <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8">TREE (2024)</a>,
+    <a href="https://www.journals.uchicago.edu/doi/full/10.1086/719425">The American Naturalist (2022)</a>
   </span>
 </li>
 
 <li>
-  Riverine and biogeomorphic landscapes
+  Dryland vegetation
 </li>
 
 </ul>
@@ -327,7 +327,7 @@ Funded by
 <a href="https://www.nsf.gov/div/index.jsp?div=DEB">NSF-DEB</a>
 &nbsp;|&nbsp;
 Collaborators:
-<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore (lead PI)</a>,
+<a href="https://franmoore.faculty.ucdavis.edu">Francis Moore</a>,
 <a href="https://marcnconte.ace.fordham.edu">Marc Conte</a>
 </span>
 </li>
