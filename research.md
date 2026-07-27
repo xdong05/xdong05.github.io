@@ -118,8 +118,8 @@ Eco-evolutionary dynamics • Biogeomorphology • Landscape evolution
 
 <div style="display:flex; justify-content:center; gap:10px; margin:8px 0 0 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/river1.jpg" style="height:200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height:200px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fig2_chi.png" style="height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dx_fig3.png" style="height:200px;">
 </div>
 
 <p style="text-align:center;
@@ -130,8 +130,8 @@ Eco-evolutionary dynamics • Biogeomorphology • Landscape evolution
           margin:1px 0 14px 0;">
   From left to right:
   (A) plant traits shaping the morphology of riverine landscapes; 
-  (B) eco-evolutionary feedbacks between organisms and landscapes (read more in <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8">TREE (2024)</a>);
-  (C) spatial self-organization inhibiting adaptive evolution (work under review).
+  (B) spatial self-organization inhibiting adaptive evolution (work under review);
+  (C) eco-evolutionary feedbacks between organisms and landscapes (read more in <a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00119-8">TREE (2024)</a>).
 </p>
 
 {:/nomarkdown}
