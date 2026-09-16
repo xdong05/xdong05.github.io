@@ -15,7 +15,7 @@ permalink: /publications/
 <div class="publist-font" style="font-family: 'Inter', sans-serif; font-size: 1em;">
 
 <h3 style='margin-top: 1.2em;'>2026</h3>
-<p><span class="pi-author">Dong X</span>, Richardson AJ, Muneepeerakul R. Evolution Shapes Ecosystem Resilience Through Spatial Self-Organization</a>. <span class="journal">Proceedings of the National Academy of Sciences</span> (accepted).</p>
+<p><span class="pi-author">Dong X</span>, Richardson AJ, Muneepeerakul R. Evolution Shapes Ecosystem Resilience Through Spatial Self-Organization</a>. <span class="journal">Proceedings of the National Academy of Sciences</span> (in press).</p>
 
 <p><span class="lab-author">Wang J</span>, <span class="lab-author">Oliveira BF</span>, Moore FC, <span class="lab-author">Kozar DJ</span>, Fu Y, <span class="pi-author">Dong X</span>. <a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>. <span class="journal">Science</span> 392 (2026): 648-654.</p>
 
