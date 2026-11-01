@@ -19,6 +19,8 @@ permalink: /publications/
 
 <p><span class="lab-author">Wang J</span>, <span class="lab-author">Oliveira BF</span>, Moore FC, <span class="lab-author">Kozar DJ</span>, Fu Y, <span class="pi-author">Dong X</span>. <a target="_blank" rel="noopener noreferrer" href="https://www.science.org/doi/abs/10.1126/science.aea1676">Climate-induced range shifts support local plant diversity but don’t reduce extinction risk</a>. <span class="journal">Science</span> 392 (2026): 648-654.</p>
 
+<p><span class="lab-author">Kozar DJ</span>, Dixon DJ, Zhang Y, Jin Y, Weber B, <span class="pi-author">Dong X</span>. <a target="_blank" rel="noopener noreferrer" href="https://iopscience.iop.org/article/10.1088/2752-664X/aeb9e4/meta">Mapping dryland biocrust and plant communities utilizing temporal signals from satellite imagery with deep learning</a>. <span class="journal">Environmental Research: Ecology</span> (2026): in press.</p>
+
 <p>Dixon DJ, Das AJ, <span class="pi-author">Dong X</span>, Latimer AM, Soderberg DN, Stephenson NL, Caprio AC, Jin Y. <a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41467-026-75418-6">Previous prescribed burns saved thousands of ancient sequoias during historically unprecedented wildfires</a>. <span class="journal">Nature Communications</span> (2026).</p>
 
 <h3 style='margin-top: 1.2em;'>2025</h3>
